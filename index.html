@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DNSA Moto Peças - Catálogo Online</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="LogoSemFundo.png" alt="Logo DNSA Moto Peças" class="logo">
+            <nav>
+                <a href="#catalogo">Catálogo</a>
+                <a href="#sobre">Sobre Nós</a>
+                <a href="#contato">Contato</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="catalogo" class="catalog-section">
+            <div class="container">
+                <h1>Catálogo de Peças</h1>
+                <p>Encontre peças para sua moto de forma rápida e fácil.</p>
+
+                <div class="search-filters">
+                    <div class="filter-group">
+                        <label for="cilindradas">Cilindradas</label>
+                        <select id="cilindradas">
+                            <option value="">Selecione</option>
+                            </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="modelo">Modelo</label>
+                        <select id="modelo" disabled>
+                            <option value="">Selecione</option>
+                            </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="ano">Ano</label>
+                        <select id="ano" disabled>
+                            <option value="">Selecione</option>
+                             </select>
+                    </div>
+                    <button id="consultarBtn" disabled>Consultar</button>
+                </div>
+
+                <div class="search-box">
+                    <input type="text" id="busca-geral" placeholder="Ou digite o nome ou código da peça...">
+                    <button id="busca-geral-btn">Buscar</button>
+                </div>
+
+                <div id="resultado" class="results-area">
+                    </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 DNSA Moto Peças. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
