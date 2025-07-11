@@ -28,7 +28,7 @@ body {
 
 header {
     background-color: var(--cor-superficie);
-    padding: 15px 0;
+    padding: 0px 0; /* Diminuído de 15px para 8px */
     border-bottom: 2px solid var(--cor-primaria);
     position: sticky;
     top: 0;
@@ -42,7 +42,7 @@ header .container {
 }
 
 .logo {
-    height: 60px;
+    height: 120px;
 }
 
 nav a {
