@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DNSA Moto Peças - Catálogo Online</title>
+    <title>Sobre Nós - DNSA Moto Peças</title>
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -22,34 +22,26 @@
     </header>
 
     <main>
-        <section id="catalogo" class="catalog-section">
+        <section class="content-section">
             <div class="container">
-                <h1>Catálogo de Peças</h1>
-                <p>Consulte catálogos de motos de forma fácil.</p>
-
-                <div class="search-filters">
-                    <div class="filter-group">
-                        <label for="cilindradas">Cilindradas</label>
-                        <select id="cilindradas">
-                            <option value="">Selecione</option>
-                            </select>
+                <h1>Sobre a DNSA Moto Peças</h1>
+    
+                <div class="carousel-container">
+                    <div class="carousel-slide">
+                        <img src="assets/foto1.png" alt="Foto da loja 1">
+                        <img src="assets/foto2.png" alt="Foto da loja 2">
+                        <img src="assets/foto3.jpg" alt="Foto da loja 3">
                     </div>
-                    <div class="filter-group">
-                        <label for="modelo">Modelo</label>
-                        <select id="modelo" disabled>
-                            <option value="">Selecione</option>
-                            </select>
-                    </div>
-                    <div class="filter-group">
-                        <label for="ano">Ano</label>
-                        <select id="ano" disabled>
-                            <option value="">Selecione</option>
-                             </select>
-                    </div>
-                    <button id="consultarBtn" disabled>Consultar</button>
+                    <button class="carousel-button prev" aria-label="Anterior">&#10094;</button>
+                    <button class="carousel-button next" aria-label="Próximo">&#10095;</button>
                 </div>
-                <div id="resultado" class="results-area">
-                    </div>
+
+                <div class="content-text">
+                    <h3>Nossa História</h3>
+                    <p>
+                        Fundada em 2014 na cidade de Igaratá – SP, a DNSA Moto Peças nasceu da paixão pelo motociclismo e do desejo de oferecer soluções práticas e confiáveis em peças de reposição. Desde então, temos nos dedicado a entender as dificuldades enfrentadas por mecânicos e proprietários na hora de encontrar a peça certa para cada modelo e ano de moto. Com compromisso, agilidade e conhecimento técnico, construímos uma reputação sólida no setor, sempre priorizando a qualidade no atendimento e a confiança dos nossos clientes.
+                    </p>
+                </div>
             </div>
         </section>
     </main>
@@ -70,6 +62,7 @@
             </div>
         </div>
     </footer>
+
     <script src="script.js"></script>
 </body>
 </html>

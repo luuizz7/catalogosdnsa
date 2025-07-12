@@ -18,51 +18,183 @@
     "2005 -": "catalogos/100/Web 100/2005 -.pdf"
   }
 },
-  "110": {
-    "Biz 110i": {},
-    "Lead 110": {},
-    "Pop 110i": {}
+ "110": {
+  "Biz 110i": {
+    "2016 - 2023": "catalogos/110/Biz 110i/2016 - 2023.pdf"
   },
+  "Lead 110": {
+    "2010 - 2015": "catalogos/110/Lead 110/2010 - 2015.pdf"
+  },
+  "Pop 110i": {
+    "2016 - 2023": "catalogos/110/Pop 110i/2016 - 2023.pdf"
+  }
+},
+
   "125": {
-    "Biz 125": {},
-    "Cg 125": {},
-    "Cg 125 Cargo": {},
-    "Cg 125 Fan": {},
-    "Cg 125 Titan": {},
-    "Cg 125 Today": {},
-    "Elite 125": {},
-    "Ml 125": {},
-    "Nxr 125 Bros": {},
-    "Spacy Ch125R": {},
-    "Turuna 125": {},
-    "Xlr 125": {},
-    "Xls 125": {}
+  "Biz 125": {
+    "2006 - 2010": "catalogos/125/Biz 125/2006 - 2010.pdf",
+    "2011 - 2013": "catalogos/125/Biz 125/2011 - 2013.pdf",
+    "2014 - 2017": "catalogos/125/Biz 125/2014 - 2017.pdf",
+    "2018 - 2023": "catalogos/125/Biz 125/2018 - 2023.pdf"
   },
-  "150": {
-    "Adv 150": {},
-    "Cbx 150 Aero": {},
-    "Cg 150 Cargo": {},
-    "Cg 150 Fan": {},
-    "Cg 150 Fan Gasolina": {},
-    "Cg 150 Gasolina": {},
-    "Cg 150 Job": {},
-    "Cg 150 Sport": {},
-    "Cg 150 Start": {},
-    "Cg 150 Titan": {},
-    "Cg 150 Titan Mix": {},
-    "Nx 150": {},
-    "Nxr 150 Bros": {},
-    "Pcx 150": {},
-    "Sh 150i": {}
+  "Cg 125": {
+    "1976 - 1980": "catalogos/125/Cg 125/1976 - 1980.pdf",
+    "1980 -": "catalogos/125/Cg 125/1980 -.pdf",
+    "1981 -": "catalogos/125/Cg 125/1981 -.pdf",
+    "1982 - 1984": "catalogos/125/Cg 125/1982 - 1984.pdf",
+    "1985 - 1989": "catalogos/125/Cg 125/1985 - 1989.pdf"
   },
-  "160": {
-    "Cg 160 Cargo": {},
-    "Cg 160 Fan": {},
-    "Cg 160 Start": {},
-    "Cg 160 Titan": {},
-    "Nxr 160 Bros": {},
-    "Pcx 160": {}
+  "Cg 125 Cargo": {
+    "1988 - 1991": "catalogos/125/Cg 125 Cargo/1988 - 1991.pdf",
+    "1992 - 1994": "catalogos/125/Cg 125 Cargo/1992 - 1994.pdf",
+    "1995 - 2000": "catalogos/125/Cg 125 Cargo/1995 - 2000.pdf",
+    "2000 - 2001": "catalogos/125/Cg 125 Cargo/2000 - 2001.pdf",
+    "2002 - 2004": "catalogos/125/Cg 125 Cargo/2002 - 2004.pdf",
+    "2009 - 2012": "catalogos/125/Cg 125 Cargo/2009 - 2012.pdf",
+    "2013": "catalogos/125/Cg 125 Cargo/2013.pdf",
+    "2014 - 2015": "catalogos/125/Cg 125 Cargo/2014 - 2015.pdf",
+    "2016 - 2018": "catalogos/125/Cg 125 Cargo/2016 - 2018.pdf"
   },
+  "Cg 125 Fan": {
+    "2005 - 2008": "catalogos/125/Cg 125 Fan/2005 - 2008.pdf",
+    "2009 - 2012": "catalogos/125/Cg 125 Fan/2009 - 2012.pdf",
+    "2013": "catalogos/125/Cg 125 Fan/2013.pdf",
+    "2014 - 2015": "catalogos/125/Cg 125 Fan/2014 - 2015.pdf",
+    "2016 - 2018": "catalogos/125/Cg 125 Fan/2016 - 2018.pdf"
+  },
+  "Cg 125 Titan": {
+    "1995 - 2000": "catalogos/125/Cg 125 Titan/1995 - 2000.pdf",
+    "2000 - 2001": "catalogos/125/Cg 125 Titan/2000 - 2001.pdf",
+    "2002 - 2004": "catalogos/125/Cg 125 Titan/2002 - 2004.pdf"
+  },
+  "Cg 125 Today": {
+    "1988 - 1991": "catalogos/125/Cg 125 Today/1988 - 1991.pdf",
+    "1992 - 1994": "catalogos/125/Cg 125 Today/1992 - 1994.pdf"
+  },
+  "Elite 125": {
+    "2019 - 2023": "catalogos/125/Elite 125/2019 - 2023.pdf"
+  },
+  "Ml 125": {
+    "1976 - 1980": "catalogos/125/Ml 125/1976 - 1980.pdf",
+    "1980 -": "catalogos/125/Ml 125/1980 -.pdf",
+    "1982 - 1984": "catalogos/125/Ml 125/1982 - 1984.pdf",
+    "1985 - 1989": "catalogos/125/Ml 125/1985 - 1989.pdf"
+  },
+  "Nxr 125 Bros": {
+    "2003 - 2005": "catalogos/125/Nxr 125 Bros/2003 - 2005.pdf",
+    "2013 - 2015": "catalogos/125/Nxr 125 Bros/2013 - 2015.pdf"
+  },
+  "Spacy Ch125R": {
+    "1993 -": "catalogos/125/Spacy Ch125R/1993 -.pdf"
+  },
+  "Turuna 125": {
+    "1979 - 1982": "catalogos/125/Turuna 125/1979 - 1982.pdf",
+    "1983 - 1984": "catalogos/125/Turuna 125/1983 - 1984.pdf",
+    "1985 - 1986": "catalogos/125/Turuna 125/1985 - 1986.pdf"
+  },
+  "Xlr 125": {
+    "1997 - 2000": "catalogos/125/Xlr 125/1997 - 2000.pdf",
+    "2001 - 2002": "catalogos/125/Xlr 125/2001 - 2002.pdf"
+  },
+  "Xls 125": {
+    "1984 - 1996": "catalogos/125/Xls 125/1984 - 1996.pdf"
+  }
+},
+ "150": {
+  "Adv 150": {
+    "2021 - 2023": "catalogos/150/Adv 150/2021 - 2023.pdf"
+  },
+  "Cbx 150 Aero": {
+    "1989 - 1992": "catalogos/150/Cbx 150 Aero/1989 - 1992.pdf"
+  },
+  "Cg 150 Cargo": {
+    "2014 -": "catalogos/150/Cg 150 Cargo/2014 -.pdf"
+  },
+  "Cg 150 Fan": {
+    "2011 - 2013": "catalogos/150/Cg 150 Fan/2011 - 2013.pdf",
+    "2013": "catalogos/150/Cg 150 Fan/2013.pdf",
+    "2014 - 2015": "catalogos/150/Cg 150 Fan/2014 - 2015.pdf"
+  },
+  "Cg 150 Fan Gasolina": {
+    "2010 -": "catalogos/150/Cg 150 Fan Gasolina/2010 -.pdf"
+  },
+  "Cg 150 Gasolina": {
+    "2009 -": "catalogos/150/Cg 150 Gasolina/2009 -.pdf"
+  },
+  "Cg 150 Job": {
+    "2004 - 2007": "catalogos/150/Cg 150 Job/2004 - 2007.pdf",
+    "2008": "catalogos/150/Cg 150 Job/2008.pdf"
+  },
+  "Cg 150 Sport": {
+    "2004 - 2007": "catalogos/150/Cg 150 Sport/2004 - 2007.pdf",
+    "2008": "catalogos/150/Cg 150 Sport/2008.pdf"
+  },
+  "Cg 150 Start": {
+    "2015 -": "catalogos/150/Cg 150 Start/2015 -.pdf"
+  },
+  "Cg 150 Titan": {
+    "2004 - 2007": "catalogos/150/Cg 150 Titan/2004 - 2007.pdf",
+    "2008": "catalogos/150/Cg 150 Titan/2008.pdf",
+    "2011 - 2012": "catalogos/150/Cg 150 Titan/2011 - 2012.pdf",
+    "2013": "catalogos/150/Cg 150 Titan/2013.pdf",
+    "2014 - 2015": "catalogos/150/Cg 150 Titan/2014 - 2015.pdf"
+  },
+  "Cg 150 Titan Mix": {
+    "2009 - 2010": "catalogos/150/Cg 150 Titan Mix/2009 - 2010.pdf"
+  },
+  "Nx 150": {
+    "1989 - 1992": "catalogos/150/Nx 150/1989 - 1992.pdf"
+  },
+  "Nxr 150 Bros": {
+    "2003 - 2005": "catalogos/150/Nxr 150 Bros/2003 - 2005.pdf",
+    "2006 - 2008": "catalogos/150/Nxr 150 Bros/2006 - 2008.pdf",
+    "2009 - 2014": "catalogos/150/Nxr 150 Bros/2009 - 2014.pdf"
+  },
+  "Pcx 150": {
+    "2014 - 2015": "catalogos/150/Pcx 150/2014 - 2015.pdf",
+    "2016 - 2018": "catalogos/150/Pcx 150/2016 - 2018.pdf",
+    "2019 - 2022": "catalogos/150/Pcx 150/2019 - 2022.pdf"
+  },
+  "Sh 150i": {
+    "2017 - 2021": "catalogos/150/Sh 150i/2017 - 2021.pdf"
+  }
+},
+
+"160": {
+  "Cg 160 Cargo": {
+    "2016 - 2017": "catalogos/160/Cg 160 Cargo/2016 - 2017.pdf",
+    "2018 - 2019": "catalogos/160/Cg 160 Cargo/2018 - 2019.pdf",
+    "2020 - 2021": "catalogos/160/Cg 160 Cargo/2020 - 2021.pdf",
+    "2022 - 2023": "catalogos/160/Cg 160 Cargo/2022 - 2023.pdf"
+  },
+  "Cg 160 Fan": {
+    "2016 - 2017": "catalogos/160/Cg 160 Fan/2016 - 2017.pdf",
+    "2018 - 2019": "catalogos/160/Cg 160 Fan/2018 - 2019.pdf",
+    "2020 - 2021": "catalogos/160/Cg 160 Fan/2020 - 2021.pdf",
+    "2022 - 2023": "catalogos/160/Cg 160 Fan/2022 - 2023.pdf"
+  },
+  "Cg 160 Start": {
+    "2016 - 2017": "catalogos/160/Cg 160 Start/2016 - 2017.pdf",
+    "2018 - 2019": "catalogos/160/Cg 160 Start/2018 - 2019.pdf",
+    "2020 - 2021": "catalogos/160/Cg 160 Start/2020 - 2021.pdf",
+    "2022 - 2023": "catalogos/160/Cg 160 Start/2022 - 2023.pdf"
+  },
+  "Cg 160 Titan": {
+    "2016 - 2017": "catalogos/160/Cg 160 Titan/2016 - 2017.pdf",
+    "2018 - 2019": "catalogos/160/Cg 160 Titan/2018 - 2019.pdf",
+    "2020 - 2021": "catalogos/160/Cg 160 Titan/2020 - 2021.pdf",
+    "2022 - 2023": "catalogos/160/Cg 160 Titan/2022 - 2023.pdf"
+  },
+  "Nxr 160 Bros": {
+    "2015 - 2019": "catalogos/160/Nxr 160 Bros/2015 - 2019.pdf",
+    "2020 - 2021": "catalogos/160/Nxr 160 Bros/2020 - 2021.pdf",
+    "2022 - 2023": "catalogos/160/Nxr 160 Bros/2022 - 2023.pdf"
+  },
+  "Pcx 160": {
+    "2023 - 2024": "catalogos/160/Pcx 160/2023 -.pdf"
+  }
+},
+
   "190": {
     "Xre 190": {
       "2016 - 2018": "catalogos/190/Xre 190/2016 - 2018.pdf",
@@ -70,125 +202,317 @@
       "2022 - 2023": "catalogos/190/Xre 190/2022 - 2023.pdf"
     }
   },
-  "200": {
-    "Cbx 200 Strada": {},
-    "Nx 200": {},
-    "Xr 200": {}
+ "200": {
+  "Cbx 200 Strada": {
+    "1994 - 2002": "catalogos/200/Cbx 200 Strada/1994 - 2002.pdf"
   },
-  "230": {
-    "Crf 230F": {
-      "2003 - 2006": "catalogos/230/Crf 230F/2003 - 2006.pdf",
-      "2007 - 2013": "catalogos/230/Crf 230F/2007 - 2013.pdf",
-      "2014 - 2019": "catalogos/230/Crf 230F/2014 - 2019.pdf"
-    }
+  "Nx 200": {
+    "1994 - 2002": "catalogos/200/Nx 200/1994 - 2002.pdf"
   },
-  "250": {
-    "Cb 250F Twister": {},
-    "Cbr 250R": {},
-    "Cbx 250 Twister": {},
-    "Crf 250F": {},
-    "Crf 250L": {},
-    "Xl 250R": {},
-    "Xlx 250R": {},
-    "Xr 250 Tornado": {}
+  "Xr 200": {
+    "1994 - 2002": "catalogos/200/Xr 200/1994 - 2002.pdf"
+  }
+},
+"230": {
+  "Crf 230F": {
+    "2003 - 2006": "catalogos/230/Crf 230F/2003 - 2006.pdf",
+    "2007 - 2013": "catalogos/230/Crf 230F/2007 - 2013.pdf",
+    "2014 - 2019": "catalogos/230/Crf 230F/2014 - 2019.pdf"
+  }
+},
+"250": {
+  "Cb 250F Twister": {
+    "2016 - 2018": "catalogos/250/Cb 250F Twister/2016 - 2018.pdf",
+    "2019 - 2020": "catalogos/250/Cb 250F Twister/2019 - 2020.pdf",
+    "2021 - 2022": "catalogos/250/Cb 250F Twister/2021 - 2022.pdf"
   },
-  "300": {
-    "Cb 300F Twister": {},
-    "Cb 300R": {},
-    "Cb 300R Edição Especial Repsol": {},
-    "Sh 300i": {},
-    "Xr 300L Tornado": {},
-    "Xre 300": {},
-    "Xre 300 Sahara": {}
+  "Cbr 250R": {
+    "2012": "catalogos/250/Cbr 250R/2012.pdf"
   },
+  "Cbx 250 Twister": {
+    "2001 - 2005": "catalogos/250/Cbx 250 Twister/2001 - 2005.pdf",
+    "2006 - 2009": "catalogos/250/Cbx 250 Twister/2006 - 2009.pdf"
+  },
+  "Crf 250F": {
+    "2019 - 2023": "catalogos/250/Crf 250F/2019 - 2023.pdf"
+  },
+  "Crf 250L": {
+    "2013 -": "catalogos/250/Crf 250L/2013 -.pdf"
+  },
+  "Xl 250R": {
+    "1982 - 1984": "catalogos/250/Xl 250R/1982 - 1984.pdf"
+  },
+  "Xlx 250R": {
+    "1984 - 1992": "catalogos/250/Xlx 250R/1984 - 1992.pdf"
+  },
+  "Xr 250 Tornado": {
+    "2001 - 2005": "catalogos/250/Xr 250 Tornado/2001 - 2005.pdf",
+    "2006 - 2008": "catalogos/250/Xr 250 Tornado/2006 - 2008.pdf"
+  }
+},
+ "300": {
+  "Cb 300F Twister": {
+    "2023 -": "catalogos/300/Cb 300F Twister/2023 -.pdf"
+  },
+  "Cb 300R": {
+    "2010 - 2012": "catalogos/300/Cb 300R/2010 - 2012.pdf",
+    "2013 - 2015": "catalogos/300/Cb 300R/2013 - 2015.pdf"
+  },
+  "Cb 300R Edição Especial Repsol": {
+    "2014 -": "catalogos/300/Cb 300R Edição Especial Repsol/2014 -.pdf"
+  },
+  "Sh 300i": {
+    "2016 - 2020": "catalogos/300/Sh 300i/2016 - 2020.pdf"
+  },
+  "Xr 300L Tornado": {
+    "2025 -": "catalogos/300/Xr 300L Tornado/2025 -.pdf"
+  },
+  "Xre 300": {
+    "2010 - 2012": "catalogos/300/Xre 300/2010 - 2012.pdf",
+    "2013 - 2015": "catalogos/300/Xre 300/2013 - 2015.pdf",
+    "2016 - 2018": "catalogos/300/Xre 300/2016 - 2018.pdf",
+    "2019 - 2023": "catalogos/300/Xre 300/2019 - 2023.pdf"
+  },
+  "Xre 300 Sahara": {
+    "2024 -": "catalogos/300/Xre 300 Sahara/2024 -.pdf"
+  }
+},
+"350": {
+  "Forza 350": {
+    "2022 -": "catalogos/350/Forza 350/2022 -.pdf"
+  },
+  "Nx 350 Sahara": {
+    "1991 - 1999": "catalogos/350/Nx 350 Sahara/1991 - 1999.pdf"
+  },
+  "Xlx 350R": {
+    "1987 - 1990": "catalogos/350/Xlx 350R/1987 - 1990.pdf"
+  }
+},
+"400": {
+  "Cb 400": {
+    "1980 - 1981": "catalogos/400/Cb 400/1980 - 1981.pdf",
+    "1982 - 1983": "catalogos/400/Cb 400/1982 - 1983.pdf",
+    "1984": "catalogos/400/Cb 400/1984.pdf"
+  },
+  "Cb 400 II": {
+    "1982 - 1983": "catalogos/400/Cb 400 II/1982 - 1983.pdf"
+  },
+  "Cb 400 P": {
+    "1982 - 1983": "catalogos/400/Cb 400 P/1982 - 1983.pdf"
+  },
+  "Nx 400 Falcon": {
+    "1999 -": "catalogos/400/Nx 400 Falcon/1999 -.pdf",
+    "2000 - 2006": "catalogos/400/Nx 400 Falcon/2000 - 2006.pdf",
+    "2007 - 2008": "catalogos/400/Nx 400 Falcon/2007 - 2008.pdf"
+  },
+  "Nx 400i Falcon": {
+    "2013 - 2015": "catalogos/400/Nx 400i Falcon/2013 - 2015.pdf"
+  },
+  "Xr 400R": {
+    "1996 - 2001": "catalogos/400/Xr 400R/1996 - 2001.pdf"
+  }
+},
+"450": {
+  "Cb 450": {
+    "1984 - 1985": "catalogos/450/Cb 450/1984 - 1985.pdf",
+    "1986": "catalogos/450/Cb 450/1986.pdf"
+  },
+  "Cb 450 Custom": {
+    "1984 - 1985": "catalogos/450/Cb 450 Custom/1984 - 1985.pdf",
+    "1986": "catalogos/450/Cb 450 Custom/1986.pdf"
+  },
+  "Cb 450 Dx": {
+    "1988 - 1993": "catalogos/450/Cb 450 Dx/1988 - 1993.pdf"
+  },
+  "Cb 450 Dxp": {
+    "1988 - 1993": "catalogos/450/Cb 450 Dxp/1988 - 1993.pdf"
+  },
+  "Cb 450 E": {
+    "1984 - 1985": "catalogos/450/Cb 450 E/1984 - 1985.pdf",
+    "1986": "catalogos/450/Cb 450 E/1986.pdf"
+  },
+  "Cbr 450 Sr": {
+    "1989 - 1993": "catalogos/450/Cbr 450 Sr/1989 - 1993.pdf"
+  }
+},
+"500": {
+  "Cb 500": {
+    "1998 - 2000": "catalogos/500/Cb 500/1998 - 2000.pdf",
+    "2000 - 2004": "catalogos/500/Cb 500/2000 - 2004.pdf"
+  },
+  "Cb 500F": {
+    "2014 - 2015": "catalogos/500/Cb 500F/2014 - 2015.pdf",
+    "2016 - 2019": "catalogos/500/Cb 500F/2016 - 2019.pdf",
+    "2020 - 2023": "catalogos/500/Cb 500F/2020 - 2023.pdf"
+  },
+  "Cb 500X": {
+    "2015 -": "catalogos/500/Cb 500X/2015 -.pdf",
+    "2016 - 2019": "catalogos/500/Cb 500X/2016 - 2019.pdf",
+    "2020 - 2023": "catalogos/500/Cb 500X/2020 - 2023.pdf"
+  },
+  "Cbr 500R": {
+    "2014 - 2015": "catalogos/500/Cbr 500R/2014 - 2015.pdf",
+    "2016 - 2018": "catalogos/500/Cbr 500R/2016 - 2018.pdf"
+  }
+},
+"600": {
+  "Cb 600F Hornet": {
+    "2005 - 2007": "catalogos/600/Cb 600F Hornet/2005 - 2007.pdf",
+    "2008 - 2011": "catalogos/600/Cb 600F Hornet/2008 - 2011.pdf",
+    "2012 - 2014": "catalogos/600/Cb 600F Hornet/2012 - 2014.pdf"
+  },
+  "Cbr 600F": {
+    "1991 - 1996": "catalogos/600/Cbr 600F/1991 - 1996.pdf",
+    "1997 - 1998": "catalogos/600/Cbr 600F/1997 - 1998.pdf",
+    "1999 - 2001": "catalogos/600/Cbr 600F/1999 - 2001.pdf",
+    "2002 - 2004": "catalogos/600/Cbr 600F/2002 - 2004.pdf",
+    "2012 - 2014": "catalogos/600/Cbr 600F/2012 - 2014.pdf"
+  },
+  "Cbr 600RR": {
+    "2003 - 2006": "catalogos/600/Cbr 600RR/2003 - 2006.pdf",
+    "2007 - 2011": "catalogos/600/Cbr 600RR/2007 - 2011.pdf",
+    "2012": "catalogos/600/Cbr 600RR/2012.pdf",
+    "2013 - 2014": "catalogos/600/Cbr 600RR/2013 - 2014.pdf"
+  },
+  "Vt 600 Shadow": {
+    "1998 - 2002": "catalogos/600/Vt 600 Shadow/1998 - 2002.pdf",
+    "2003 - 2005": "catalogos/600/Vt 600 Shadow/2003 - 2005.pdf"
+  }
+
+},
+ "650": {
+  "Cb 650F": {
+    "2015 - 2019": "catalogos/650/Cb 650F/2015 - 2019.pdf"
+  },
+  "Cb 650R": {
+    "2020 - 2021": "catalogos/650/Cb 650R/2020 - 2021.pdf",
+    "2022 -": "catalogos/650/Cb 650R/2022 -.pdf"
+  },
+  "Cbr 650F": {
+    "2015 - 2019": "catalogos/650/Cbr 650F/2015 - 2019.pdf"
+  },
+  "Cbr 650R": {
+    "2020 - 2021": "catalogos/650/Cbr 650R/2020 - 2021.pdf",
+    "2022 -": "catalogos/650/Cbr 650R/2022 -.pdf"
+  },
+  "Nx 650": {
+    "1988 - 1989": "catalogos/650/Nx 650/1988 - 1989.pdf",
+    "1992 - 1993": "catalogos/650/Nx 650/1992 - 1993.pdf"
+  }
+},
+"700": {
+  "Ctx 700N": {
+    "2014 -": "catalogos/700/Ctx 700N/2014 -.pdf"
+  },
+  "Nc 700X": {
+    "2013 - 2014": "catalogos/700/Nc 700X/2013 - 2014.pdf"
+  },
+  "Xl 700V Transalp": {
+    "2011 - 2014": "catalogos/700/Xl 700V Transalp/2011 - 2014.pdf"
+  }
+},
+ 
+"750": {
+  "Cbx 750F": {
+    "1986 - 1990": "catalogos/750/Cbx 750F/1986 - 1990.pdf",
+    "1990 - 1994": "catalogos/750/Cbx 750F/1990 - 1994.pdf"
+  },
+  "Nc 750X": {
+    "2015 -": "catalogos/750/Nc 750X/2015 -.pdf",
+    "2016 - 2021": "catalogos/750/Nc 750X/2016 - 2021.pdf",
+    "2022 - 2023": "catalogos/750/Nc 750X/2022 - 2023.pdf"
+  },
+  "Vt 750 Shadow": {
+    "2006 - 2012": "catalogos/750/Vt 750 Shadow/2006 - 2012.pdf",
+    "2013 -": "catalogos/750/Vt 750 Shadow/2013 -.pdf"
+  },
+  "X-Adv 750": {
+    "2017 - 2021": "catalogos/750/X-Adv 750/2017 - 2021.pdf",
+    "2022 -": "catalogos/750/X-Adv 750/2022 -.pdf"
+  }
+},
+"900": {
+  "Cbr 900RR": {
+    "1992 - 1997": "catalogos/900/Cbr 900RR/1992 - 1997.pdf",
+    "1998 - 1999": "catalogos/900/Cbr 900RR/1998 - 1999.pdf",
+    "2000 - 2003": "catalogos/900/Cbr 900RR/2000 - 2003.pdf"
+  }
+},
+"1000": {
+  "Cb 1000R": {
+    "2012 - 2015": "catalogos/1000/Cb 1000R/2012 - 2015.pdf",
+    "2019 - 2021": "catalogos/1000/Cb 1000R/2019 - 2021.pdf",
+    "2022 -": "catalogos/1000/Cb 1000R/2022 -.pdf"
+  },
+  "Cbr 1000F": {
+    "1993 - 1999": "catalogos/1000/Cbr 1000F/1993 - 1999.pdf"
+  },
+  "Cbr 1000RR": {
+    "2004 - 2007": "catalogos/1000/Cbr 1000RR/2004 - 2007.pdf",
+    "2008 - 2009": "catalogos/1000/Cbr 1000RR/2008 - 2009.pdf",
+    "2010 - 2011": "catalogos/1000/Cbr 1000RR/2010 - 2011.pdf",
+    "2012": "catalogos/1000/Cbr 1000RR/2012.pdf",
+    "2013 - 2014": "catalogos/1000/Cbr 1000RR/2013 - 2014.pdf",
+    "2015": "catalogos/1000/Cbr 1000RR/2015.pdf",
+    "2017 - 2018": "catalogos/1000/Cbr 1000RR/2017 - 2018.pdf",
+    "2019 -": "catalogos/1000/Cbr 1000RR/2019 -.pdf",
+    "2022 -": "catalogos/1000/Cbr 1000RR/2022 -.pdf",
+    "2023 -": "catalogos/1000/Cbr 1000RR/2023 -.pdf"
+  },
+  "Crf 1000L Africa Twin": {
+    "2017 -": "catalogos/1000/Crf 1000L Africa Twin/2017 -.pdf",
+    "2019 -": "catalogos/1000/Crf 1000L Africa Twin/2019 -.pdf",
+    "2020 -": "catalogos/1000/Crf 1000L Africa Twin/2020 -.pdf"
+  },
+  "Xl 1000VA": {
+    "2007 - 2009": "catalogos/1000/Xl 1000VA/2007 - 2009.pdf"
+  }
+},
+"1100": {
+  "Cbr 1100XX": {
+    "1997 - 2004": "catalogos/1100/Cbr 1100XX/1997 - 2004.pdf",
+    "2005 -": "catalogos/1100/Cbr 1100XX/2005 -.pdf"
+  },
+  "Crf 1100L Africa Twin": {
+    "2021 - 2022": "catalogos/1100/Crf 1100L Africa Twin/2021 - 2022.pdf",
+    "2023 -": "catalogos/1100/Crf 1100L Africa Twin/2023 -.pdf"
+  }
+},
+"1200": {
+  "Vfr 1200F": {
+    "2011 -": "catalogos/1200/Vfr 1200F/2011 -.pdf"
+  },
+  "Vfr 1200X": {
+    "2012 -": "catalogos/1200/Vfr 1200X/2012 -.pdf"
+  }
+},
+"1300": {
+  "Cb 1300": {
+    "2007 -": "catalogos/1300/Cb 1300/2007 -.pdf",
+    "2008 - 2009": "catalogos/1300/Cb 1300/2008 - 2009.pdf"
+  }
+},
+"1800": {
+  "Gl 1800": {
+    "2006 - 2008": "catalogos/1800/Gl 1800/2006 - 2008.pdf",
+    "2009 - 2012": "catalogos/1800/Gl 1800/2009 - 2012.pdf",
+    "2013 - 2015": "catalogos/1800/Gl 1800/2013 - 2015.pdf",
+    "2019 -": "catalogos/1800/Gl 1800/2019 -.pdf",
+    "2022 -": "catalogos/1800/Gl 1800/2022 -.pdf"
+  },
+  "Vtx 1800C": {
+    "2006 - 2008": "catalogos/1800/Vtx 1800C/2006 - 2008.pdf"
+  }
+},
+
+"Fourtrax": {
   "350": {
-    "Forza 350": {},
-    "Nx 350 Sahara": {},
-    "Xlx 350R": {}
+    "2002 - 2006": "catalogos/Fourtrax/350/Trx 350 Fourtrax 2002 - 2006.pdf"
   },
-  "400": {
-    "Cb 400": {},
-    "Cb 400 II": {},
-    "Cb 400 P": {},
-    "Nx 400 Falcon": {},
-    "Nx 400i Falcon": {},
-    "Xr 400R": {}
-  },
-  "450": {
-    "Cb 450": {},
-    "Cb 450 Custom": {},
-    "Cb 450 Dx": {},
-    "Cb 450 Dxp": {},
-    "Cb 450 E": {},
-    "Cbr 450 Sr": {}
-  },
-  "500": {
-    "Cb 500": {},
-    "Cb 500F": {},
-    "Cb 500X": {},
-    "Cbr 500R": {}
-  },
-  "600": {
-    "Cb 600F Hornet": {},
-    "Cbr 600F": {},
-    "Cbr 600RR": {},
-    "Vt 600 Shadow": {}
-  },
-  "650": {
-    "Cb 650F": {},
-    "Cb 650R": {},
-    "Cbr 650F": {},
-    "Cbr 650R": {},
-    "Nx 650": {
-      "1988 - 1989": "catalogos/650/Nx 650/1988 - 1989.pdf",
-      "1992 - 1993": "catalogos/650/Nx 650/1992 - 1993.pdf"
-    }
-  },
-  "700": {
-    "Ctx 700N": {},
-    "Nc 700X": {},
-    "Xl 700V Transalp": {}
-  },
-  "750": {
-    "Cbx 750F": {},
-    "Nc 750X": {},
-    "Vt 750 Shadow": {},
-    "X-Adv 750": {}
-  },
-  "900": {
-    "Cbr 900RR": {
-      "1992 - 1997": "catalogos/900/Cbr 900RR/1992 - 1997.pdf",
-      "1998 - 1999": "catalogos/900/Cbr 900RR/1998 - 1999.pdf",
-      "2000 - 2003": "catalogos/900/Cbr 900RR/2000 - 2003.pdf"
-    }
-  },
-  "1000": {
-    "Cb 1000R": {},
-    "Cbr 1000F": {},
-    "Cbr 1000RR": {},
-    "Crf 1000L Africa Twin": {},
-    "Xl 1000VA": {}
-  },
-  "1100": {
-    "Cbr 1100XX": {},
-    "Crf 1100L Africa Twin": {}
-  },
-  "1200": {
-    "Vfr 1200F": {},
-    "Vfr 1200X": {}
-  },
-  "1300": {
-    "Cb 1300": {
-      "2007 - ": "catalogos/1300/Cb 1300/2007 - .pdf",
-      "2008 - 2009": "catalogos/1300/Cb 1300/2008 - 2009.pdf"
-    }
-  },
-  "1800": {
-    "Gl 1800": {},
-    "Vtx 1800C": {}
-  },
-  "Fourtrax": {
-    "350": {},
-    "420": {}
+  "420": {
+    "2008 - 2011": "catalogos/Fourtrax/420/Trx 420 Fourtrax 2008 - 2011.pdf",
+    "2012 - 2013": "catalogos/Fourtrax/420/Trx 420 Fourtrax 2012 - 2013.pdf",
+    "2014 - 2022": "catalogos/Fourtrax/420/Trx 420 Fourtrax 2014 - 2022.pdf"
   }
 }
+  }
