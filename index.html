@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DNSA Moto Peças - Catálogo Online</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <a href="index.html"><img src="LogoSemFundo.png" alt="Logo DNSA Moto Peças" class="logo"></a>
+            <nav>
+                <a href="index.html">Catálogo</a>
+                <a href="sobre.html">Sobre Nós</a>
+                <a href="contato.html">Contato</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="catalogo" class="catalog-section">
+            <div class="container">
+                <h1>Catálogo de Peças</h1>
+                <p>Consulte catálogos de motos de forma fácil.</p>
+
+                <div class="search-filters">
+                    <div class="filter-group">
+                        <label for="cilindradas">Cilindradas</label>
+                        <select id="cilindradas">
+                            <option value="">Selecione</option>
+                            </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="modelo">Modelo</label>
+                        <select id="modelo" disabled>
+                            <option value="">Selecione</option>
+                            </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="ano">Ano</label>
+                        <select id="ano" disabled>
+                            <option value="">Selecione</option>
+                             </select>
+                    </div>
+                    <button id="consultarBtn" disabled>Consultar</button>
+                </div>
+                <div id="resultado" class="results-area">
+                    </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container footer-content">
+            <div class="footer-contact">
+                <img src="LogoSemFundo.png" alt="Logo Contato" class="footer-logo">
+                <div>
+                    <h4>DNSA MOTO PEÇAS</h4>
+                    <p>(11) 4658-1774</p>
+                    <p><a href="mailto:dnsamotopecas@gmail.com">dnsamotopecas@gmail.com</a></p>
+                </div>
+            </div>
+            <div class="footer-address">
+                <p>Rua Simone Aparecida de Souza Prianti, 18 - Centro, Igaratá - SP, 12350-000 | Brasil</p>
+                <p class="copyright">Todos os direitos reservados. DNSA Moto Peças © 2025</p>
+            </div>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
