@@ -25,31 +25,30 @@
         <section id="catalogo" class="catalog-section">
             <div class="container">
                 <h1>Catálogo de Peças</h1>
-                <p>Consulte catálogos de motos de forma fácil.</p>
 
-                <div class="search-filters">
+                <div class="search-filters dropdown-fix">
                     <div class="filter-group">
                         <label for="cilindradas">Cilindradas</label>
                         <select id="cilindradas">
                             <option value="">Selecione</option>
-                            </select>
+                        </select>
                     </div>
                     <div class="filter-group">
                         <label for="modelo">Modelo</label>
                         <select id="modelo" disabled>
                             <option value="">Selecione</option>
-                            </select>
+                        </select>
                     </div>
                     <div class="filter-group">
                         <label for="ano">Ano</label>
                         <select id="ano" disabled>
                             <option value="">Selecione</option>
-                             </select>
+                        </select>
                     </div>
                     <button id="consultarBtn" disabled>Consultar</button>
                 </div>
-                <div id="resultado" class="results-area">
-                    </div>
+
+                <div id="resultado" class="results-area"></div>
             </div>
         </section>
     </main>
@@ -70,6 +69,7 @@
             </div>
         </div>
     </footer>
+
     <script src="script.js"></script>
 </body>
 </html>

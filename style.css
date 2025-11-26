@@ -18,6 +18,8 @@ body {
     background-color: var(--cor-fundo);
     color: var(--cor-texto-principal);
     line-height: 1.6;
+    /* Garante altura minima para scroll */
+    min-height: 100vh;
 }
 
 .container {
@@ -27,19 +29,23 @@ body {
 }
 
 header {
+    overflow: visible !important;
     background-color: var(--cor-superficie);
     padding: 0px 0;
-    border-bottom: 2px solid var(--cor-primaria);
+    border-bottom: 1px solid var(--cor-primaria);
+    position: relative;
+    z-index: 1000;
 }
 
 header .container {
+    overflow: visible !important;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .logo {
-    height: 120px;
+    height: 50px;
 }
 
 nav a {
@@ -56,8 +62,16 @@ nav a:hover {
 
 .catalog-section,
 .content-section {
-    padding: 20px 0;
-    min-height: 80vh;
+    padding: 10px 0;
+}
+
+/* --- CORREÇÃO PRINCIPAL AQUI --- */
+/* Aumentei a altura mínima e adicionei um padding gigante embaixo.
+   Isso empurra o rodapé para baixo e cria espaço livre para o select abrir. */
+.catalog-section {
+    margin-top: 0px;
+    min-height: 100vh;      /* Ocupa a tela toda no mínimo */
+
 }
 
 .catalog-section h1,
@@ -100,33 +114,55 @@ nav a:hover {
     background-color: var(--cor-superficie);
     padding: 30px;
     border-radius: 8px;
+    overflow: visible !important; /* FIX */
+    
+    /* Espaço extra abaixo da caixa de filtros para separar dos resultados */
+    margin-bottom: 50px; 
+    position: relative;
+    z-index: 2000;
 }
 
 .filter-group {
+    position: relative;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    overflow: visible !important; /* FIX */
 }
 
 .filter-group label {
+    position: relative;
+    z-index: 9999 !important;
     margin-bottom: 8px;
     font-size: 0.9em;
     color: var(--cor-texto-secundario);
 }
 
+/* SELECT AJUSTADO */
 select {
-    padding: 12px;
+    position: relative;
+    padding: 10px;
+    height: 42px;
     border-radius: 5px;
     border: 1px solid var(--cor-borda);
     background-color: #333;
     color: var(--cor-texto-principal);
-    font-size: 1em;
-    min-width: 200px;
+    font-size: 0.95em;
+    min-width: 170px;
+    z-index: 999999 !important;
+    cursor: pointer;
 }
 
 select:disabled {
     background-color: #444;
     cursor: not-allowed;
+}
+
+/* Pequeno ajuste para garantir que as opções tenham cor de fundo legível */
+select option {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
 }
 
 button {
@@ -157,8 +193,10 @@ button:hover:not(:disabled) {
     background-color: var(--cor-superficie);
     border-radius: 8px;
     text-align: left;
-    min-height: 100px;
+    min-height: 20x;
     border-top: 2px solid var(--cor-primaria);
+    position: relative;
+    z-index: 100;
 }
 
 .results-area h3 {
@@ -175,7 +213,7 @@ button:hover:not(:disabled) {
     display: flex;
     align-items: center;
     background-color: #333;
-    padding: 15px;
+    padding: 10px; /* Corrigido de 10x para 10px */
     border-radius: 5px;
     text-decoration: none;
     color: var(--cor-texto-principal);
@@ -284,6 +322,8 @@ footer {
     border-top: 2px solid var(--cor-primaria);
     color: var(--cor-texto-secundario);
     font-size: 0.9em;
+    position: relative;
+    z-index: 100;
 }
 
 .footer-content {
@@ -301,8 +341,7 @@ footer {
 }
 
 .footer-logo {
-    height: 70px;
-    background-color: var(--cor-primaria);
+    height: 60px;
     border-radius: 50%;
     padding: 5px;
 }
@@ -393,7 +432,7 @@ footer {
 @media (max-width: 992px) {
     .contact-layout-container {
         flex-direction: column;
-        align-items: center; 
+        align-items: center;
     }
     .map-container {
         width: 100%;
@@ -410,16 +449,28 @@ footer {
     header .container, .footer-content {
         flex-direction: column;
         text-align: center;
-        gap: 20px;
+        gap: 10px;
     }
     .footer-address {
         text-align: center;
     }
     .search-filters {
         flex-direction: column;
+        position: relative;
+        z-index: 15;
         align-items: stretch;
     }
     select, button {
         width: 100%;
+    }
+
+    .dropdown-fix {
+        overflow: visible !important;
+        position: relative;
+    }
+
+    .dropdown-fix select {
+        position: relative;
+        z-index: 50;
     }
 }
