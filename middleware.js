@@ -1,21 +1,31 @@
+// middleware.js
+import { NextResponse } from "next/server";
+
+// middleware para liberar acesso apenas para um IP específico
 export function middleware(req) {
-  const allowedIP = "177.52.244.45";
+  const allowedIP = "177.52.244.45"; // IP autorizado
+  const visitorIP =
+    req.headers.get("x-real-ip") ||       // IP real se houver
+    req.headers.get("x-forwarded-for") || // IP passado por proxy
+    req.ip ||                             // IP do request
+    "";
 
-  // vercel envia o ip real no x-forwarded-for
-  let visitorIP = req.headers.get("x-forwarded-for") || "";
-  
-  // se vier mais de um ip, pega só o primeiro
-  visitorIP = visitorIP.split(",")[0].trim();
-
-  // se nao for o ip permitido → BLOQUEIA
-  if (visitorIP !== allowedIP) {
-    return new Response("acesso restrito", { status: 403 });
+  // se o IP não for permitido, retorna uma página segura
+  if (!visitorIP.includes(allowedIP)) {
+    return new NextResponse(
+      "<h1>Acesso restrito</h1><p>IP nao autorizado.</p>",
+      { 
+        status: 200, // evita problemas com operadoras brasileiras
+        headers: { "content-type": "text/html" } 
+      }
+    );
   }
 
-  // se for o ip certo, permite acesso
-  return;
+  // se o IP estiver ok, continua normalmente
+  return NextResponse.next(); // ESSENCIAL para não quebrar o fluxo
 }
 
+// define para quais rotas o middleware será aplicado
 export const config = {
-  matcher: "/:path*",
+  matcher: "/:path*", // aplica para todas as rotas
 };
