@@ -1,4 +1,4 @@
-// middleware.js
+// middleware
 import { NextResponse } from "next/server";
 
 // middleware para liberar acesso apenas para um IP específico
