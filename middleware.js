@@ -1,31 +1,29 @@
-// middleware
 import { NextResponse } from "next/server";
 
-// middleware para liberar acesso apenas para um IP específico
+// lista de IPs permitidos
+const allowedIPs = ["177.52.244.45"]; 
+
 export function middleware(req) {
-  const allowedIP = "177.52.244.45"; // IP autorizado
+  // pega o IP do visitante
   const visitorIP =
-    req.headers.get("x-real-ip") ||       // IP real se houver
-    req.headers.get("x-forwarded-for") || // IP passado por proxy
-    req.ip ||                             // IP do request
+    req.headers.get("x-real-ip") ||
+    req.headers.get("x-forwarded-for") ||
+    req.ip ||
     "";
 
-  // se o IP não for permitido, retorna uma página segura
-  if (!visitorIP.includes(allowedIP)) {
+  // se o IP nao estiver na lista, bloqueia
+  if (!allowedIPs.some(ip => visitorIP.includes(ip))) {
     return new NextResponse(
       "<h1>Acesso restrito</h1><p>IP nao autorizado.</p>",
-      { 
-        status: 200, // evita problemas com operadoras brasileiras
-        headers: { "content-type": "text/html" } 
-      }
+      { status: 200, headers: { "content-type": "text/html" } } // evita problemas com operadoras
     );
   }
 
-  // se o IP estiver ok, continua normalmente
-  return NextResponse.next(); // ESSENCIAL para não quebrar o fluxo
+  // se o IP estiver ok, libera acesso
+  return NextResponse.next();
 }
 
-// define para quais rotas o middleware será aplicado
+// aplica para todas as rotas
 export const config = {
-  matcher: "/:path*", // aplica para todas as rotas
+  matcher: "/:path*",
 };
