@@ -1,16 +1,15 @@
 import { NextResponse } from "next/server";
 
 export function middleware(req) {
-  // captura o IP real
   const visitorIP =
     req.headers.get("x-real-ip") ||
     req.headers.get("x-forwarded-for") ||
     "";
 
-  // mostra no log qual IP está chegando
-  console.log(`[Middleware] IP visitante: ${visitorIP}`);
-
-  return NextResponse.next();
+  return new NextResponse(
+    `<h1>Seu IP:</h1><p>${visitorIP}</p>`,
+    { status: 200, headers: { "content-type": "text/html" } }
+  );
 }
 
 export const config = {
