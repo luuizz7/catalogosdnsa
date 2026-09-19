@@ -605,6 +605,9 @@
     "125": {
       "Rx 125": {
         "1982 -": "catalogos/Yamaha/125/RX 125/1982 -.pdf"
+      },
+      "Fluo 125": {
+        "2023": "catalogos/Yamaha/125/FLUO 125/Fluo125_2023.pdf"
       }
     },
     "135": {
@@ -615,10 +618,15 @@
     "150": {
       "Factor 150": {
         "2016": "catalogos/Yamaha/150/FACTOR 150/2016.pdf",
-        "2021": "catalogos/Yamaha/150/FACTOR 150/2021.pdf"
+        "2021": "catalogos/Yamaha/150/FACTOR 150/2021.pdf",
+        "2023": "catalogos/Yamaha/150/FACTOR 150/Factor_YBR150_2023.pdf"
       },
       "Fazer 150": {
-        "2014 -": "catalogos/Yamaha/150/FAZER 150/2014 -.pdf"
+        "2014 -": "catalogos/Yamaha/150/FAZER 150/2014 -.pdf",
+        "2023": "catalogos/Yamaha/150/FAZER 150/Fazer150_2023.pdf"
+      },
+      "Crosser 150": {
+        "2023": "catalogos/Yamaha/150/CROSSER 150/Crosser_XTZ150_2023.pdf"
       }
     },
     "155": {
@@ -654,12 +662,30 @@
         "2005 -": "catalogos/Yamaha/225/2005 -.pdf"
       }
     },
-    "300": {
+    "230": {
+      "TTR 230": {
+        "2023": "catalogos/Yamaha/230/TTR 230/TTR230_2023.pdf"
+      }
+    },
+    "250": {
+      "Fazer 250": {
+        "2023": "catalogos/Yamaha/250/FAZER 250/Fazer250_2023.pdf"
+      },
+      "Lander 250": {
+        "2023": "catalogos/Yamaha/250/LANDER 250/Lander_XTZ250_2023.pdf"
+      },
+      "XMAX 250": {
+        "2023": "catalogos/Yamaha/250/XMAX 250/XMAX250_2023.pdf"
+      }
+    },
+    "320": {
       "MT-03": {
-        "2017": "catalogos/Yamaha/300/MT-03/MT-03 -ABS-2017.pdf"
+        "2017": "catalogos/Yamaha/320/MT-03/MT-03-ABS-2017.pdf",
+        "2023": "catalogos/Yamaha/320/MT-03/MT03_2023.pdf"
       },
       "YZF-R3": {
-        "2016": "catalogos/Yamaha/300/R3/YZF-R3 -2016.pdf"
+        "2016": "catalogos/Yamaha/320/R3/YZF-R3-2016.pdf",
+        "2023": "catalogos/Yamaha/320/R3/R3_2023.pdf"
       }
     },
     "600": {
@@ -667,11 +693,15 @@
         "1989 -": "catalogos/Yamaha/600/Xt 600Z Tenere/1989 -.pdf"
       }
     },
+    "900": {
+      "Tracer 900GT": {
+        "2023": "catalogos/Yamaha/900/TRACER 900GT/Tracer900GT_2023.pdf"
+      }
+    },
     "1200": {
       "Xt 1200Z Tenere": {
         "2014 -": "catalogos/Yamaha/1200/Xt 1200Z Tenere/2014 -.pdf"
       }
-
+    }
   }
-}
 }
