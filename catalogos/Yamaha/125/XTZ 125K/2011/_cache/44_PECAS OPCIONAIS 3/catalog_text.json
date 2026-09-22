@@ -1,0 +1,214 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  339,
+                                       "endPointX":  360,
+                                       "startPointY":  103,
+                                       "endPointY":  124
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  278,
+                                       "endPointX":  299,
+                                       "startPointY":  170,
+                                       "endPointY":  191
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  389,
+                                       "endPointX":  410,
+                                       "startPointY":  298,
+                                       "endPointY":  319
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  374,
+                                       "endPointX":  395,
+                                       "startPointY":  352,
+                                       "endPointY":  373
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  362,
+                                       "endPointX":  383,
+                                       "startPointY":  287,
+                                       "endPointY":  308
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  350,
+                                       "endPointX":  371,
+                                       "startPointY":  339,
+                                       "endPointY":  360
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  550,
+                                       "endPointX":  571,
+                                       "startPointY":  620,
+                                       "endPointY":  641
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  189,
+                                       "endPointX":  210,
+                                       "startPointY":  637,
+                                       "endPointY":  658
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  385,
+                                       "endPointX":  406,
+                                       "startPointY":  487,
+                                       "endPointY":  508
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  319,
+                                       "endPointX":  340,
+                                       "startPointY":  553,
+                                       "endPointY":  574
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  295,
+                                       "endPointX":  316,
+                                       "startPointY":  580,
+                                       "endPointY":  600
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "5RM-WF571-30",
+                                    "partName":  "KIT PROTETOR FREIO",
+                                    "quantity":  1,
+                                    "remarks":  "HTR HTR",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5RM-WF571-20",
+                                    "partName":  "KIT PROTETOR FREIO",
+                                    "quantity":  1,
+                                    "remarks":  "DPBSE DPBSE",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5RM-WF571-10",
+                                    "partName":  "KIT PROTETOR FREIO",
+                                    "quantity":  1,
+                                    "remarks":  "NYB NYB",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4AN-F5715-30",
+                                    "partName":  ". PROTETOR DO DISCO DE FREIO",
+                                    "quantity":  1,
+                                    "remarks":  "HTR HTR",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4AN-F5715-20",
+                                    "partName":  ". PROTETOR DO DISCO DE FREIO",
+                                    "quantity":  1,
+                                    "remarks":  "DPBSE DPBSE",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4AN-F5715-10",
+                                    "partName":  ". PROTETOR DO DISCO DE FREIO",
+                                    "quantity":  1,
+                                    "remarks":  "NYB",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9890M-06016",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-06804",
+                                    "partName":  ". ARRUELA PLANA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5RM-W001A-11",
+                                    "partName":  "KIT DE TRANSMISSAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93822-14043",
+                                    "partName":  ". PINHAO (14D)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5RM-F5448-20",
+                                    "partName":  ". COROA DA RODA TRASEIRA (48D)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "94580-97W00",
+                                    "partName":  ". CORRENTE (DID428HD-122L)XTZ125",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "94681-97001",
+                                    "partName":  ". . JUNCAO CORRENTE (DID428HD-RJ)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

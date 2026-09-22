@@ -1,0 +1,157 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  430,
+                                       "endPointX":  452,
+                                       "startPointY":  234,
+                                       "endPointY":  256
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  501,
+                                       "endPointX":  523,
+                                       "startPointY":  238,
+                                       "endPointY":  260
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  412,
+                                       "endPointX":  434,
+                                       "startPointY":  290,
+                                       "endPointY":  312
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  578,
+                                       "endPointX":  600,
+                                       "startPointY":  195,
+                                       "endPointY":  217
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  445,
+                                       "endPointX":  467,
+                                       "startPointY":  272,
+                                       "endPointY":  294
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  186,
+                                       "endPointX":  208,
+                                       "startPointY":  402,
+                                       "endPointY":  421
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  147,
+                                       "endPointX":  169,
+                                       "startPointY":  608,
+                                       "endPointY":  630
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  60,
+                                       "endPointX":  82,
+                                       "startPointY":  503,
+                                       "endPointY":  525
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  119,
+                                       "endPointX":  141,
+                                       "startPointY":  620,
+                                       "endPointY":  642
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  32,
+                                       "endPointX":  54,
+                                       "startPointY":  524,
+                                       "endPointY":  546
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "5RM-H4710-00",
+                                    "partName":  "LANTERNA TRASEIRA COMPLETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5RM-H4721-00",
+                                    "partName":  ". LENTE DA LANTERNA TRASEIRA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-H4714-00",
+                                    "partName":  ". LAMPADA (12V-21/5W)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "*",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "LM",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "0"
+                                },
+                                {
+                                    "partNo":  "5RM-H4723-00",
+                                    "partName":  ". GAXETA DA LENTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5RM-H4527-00",
+                                    "partName":  "AMORTIZADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-06380",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9570M-06500",
+                                    "partName":  "PORCA FLANGE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

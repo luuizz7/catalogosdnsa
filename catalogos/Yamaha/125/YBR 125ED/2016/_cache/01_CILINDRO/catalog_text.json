@@ -1,0 +1,382 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  451,
+                                       "endPointX":  472,
+                                       "startPointY":  230,
+                                       "endPointY":  250
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  263,
+                                       "endPointX":  284,
+                                       "startPointY":  175,
+                                       "endPointY":  196
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  110,
+                                       "endPointX":  131,
+                                       "startPointY":  275,
+                                       "endPointY":  296
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  261,
+                                       "endPointX":  281,
+                                       "startPointY":  148,
+                                       "endPointY":  169
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  78,
+                                       "endPointX":  99,
+                                       "startPointY":  276,
+                                       "endPointY":  297
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  132,
+                                       "endPointX":  152,
+                                       "startPointY":  266,
+                                       "endPointY":  287
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  157,
+                                       "endPointX":  178,
+                                       "startPointY":  242,
+                                       "endPointY":  263
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  525,
+                                       "endPointX":  546,
+                                       "startPointY":  296,
+                                       "endPointY":  317
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  458,
+                                       "endPointX":  479,
+                                       "startPointY":  294,
+                                       "endPointY":  315
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  578,
+                                       "endPointX":  599,
+                                       "startPointY":  365,
+                                       "endPointY":  386
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  523,
+                                       "endPointX":  544,
+                                       "startPointY":  425,
+                                       "endPointY":  446
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  296,
+                                       "endPointX":  317,
+                                       "startPointY":  64,
+                                       "endPointY":  85
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  133,
+                                       "endPointX":  153,
+                                       "startPointY":  428,
+                                       "endPointY":  449
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  289,
+                                       "endPointX":  309,
+                                       "startPointY":  97,
+                                       "endPointY":  118
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  183,
+                                       "endPointX":  204,
+                                       "startPointY":  406,
+                                       "endPointY":  427
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  211,
+                                       "endPointX":  232,
+                                       "startPointY":  78,
+                                       "endPointY":  99
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  240,
+                                       "endPointX":  261,
+                                       "startPointY":  121,
+                                       "endPointY":  142
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  107,
+                                       "endPointX":  128,
+                                       "startPointY":  192,
+                                       "endPointY":  213
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  240,
+                                       "endPointX":  261,
+                                       "startPointY":  497,
+                                       "endPointY":  518
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  244,
+                                       "endPointX":  265,
+                                       "startPointY":  455,
+                                       "endPointY":  476
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  373,
+                                       "endPointX":  394,
+                                       "startPointY":  409,
+                                       "endPointY":  430
+                                   },
+                                   {
+                                       "refNo":  "17",
+                                       "startPointX":  431,
+                                       "endPointX":  452,
+                                       "startPointY":  131,
+                                       "endPointY":  151
+                                   },
+                                   {
+                                       "refNo":  "18",
+                                       "startPointX":  273,
+                                       "endPointX":  294,
+                                       "startPointY":  580,
+                                       "endPointY":  601
+                                   },
+                                   {
+                                       "refNo":  "19",
+                                       "startPointX":  407,
+                                       "endPointX":  428,
+                                       "startPointY":  762,
+                                       "endPointY":  783
+                                   },
+                                   {
+                                       "refNo":  "20",
+                                       "startPointX":  476,
+                                       "endPointX":  496,
+                                       "startPointY":  817,
+                                       "endPointY":  837
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "18D-E1111-11",
+                                    "partName":  "CABECOTE DO CILINDRO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2UJ-11133-10",
+                                    "partName":  ". GUIA DA VALVULA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "22F-11134-10",
+                                    "partName":  ". GUIA DA VALVULA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93440-10109",
+                                    "partName":  ". ANEL TRAVA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90153-06803",
+                                    "partName":  ". PARAFUSO HEXAGONAL",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90430-06014",
+                                    "partName":  ". GAXETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VL-E1185-10",
+                                    "partName":  "TAMPA LATERAL DO CABECOTE 3",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93210-79200",
+                                    "partName":  "ANEL DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9502M-06020",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-E1186-00",
+                                    "partName":  "TAMPA LATERAL DO CABECOTE 2",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93210-44800",
+                                    "partName":  "ANEL DE BORRACHA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-08724",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-088C3",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "94700-00834",
+                                    "partName":  "VELA DE IGNICAO (NGK CR7HSA)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-E1181-00",
+                                    "partName":  "GAXETA, CABECOTE DO CILINDRO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "99530-10114",
+                                    "partName":  "PINO GUIA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "16",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90110-06W02",
+                                    "partName":  "PARAFUSO HEXAGONAL INTERNO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "17",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-E1310-00",
+                                    "partName":  "CILINDRO (STD)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "18",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-E1351-00",
+                                    "partName":  "GAXETA DO CILINDRO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "19",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93210-57800",
+                                    "partName":  "ANEL DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "20",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

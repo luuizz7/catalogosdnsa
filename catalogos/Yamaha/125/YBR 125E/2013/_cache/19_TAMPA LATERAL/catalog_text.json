@@ -1,0 +1,327 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  343,
+                                       "endPointX":  364,
+                                       "startPointY":  765,
+                                       "endPointY":  786
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  101,
+                                       "endPointX":  122,
+                                       "startPointY":  492,
+                                       "endPointY":  513
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  304,
+                                       "endPointX":  325,
+                                       "startPointY":  627,
+                                       "endPointY":  648
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  264,
+                                       "endPointX":  285,
+                                       "startPointY":  603,
+                                       "endPointY":  623
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  586,
+                                       "endPointX":  607,
+                                       "startPointY":  436,
+                                       "endPointY":  456
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  324,
+                                       "endPointX":  345,
+                                       "startPointY":  333,
+                                       "endPointY":  354
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  403,
+                                       "endPointX":  424,
+                                       "startPointY":  823,
+                                       "endPointY":  844
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  400,
+                                       "endPointX":  420,
+                                       "startPointY":  775,
+                                       "endPointY":  796
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  455,
+                                       "endPointX":  476,
+                                       "startPointY":  738,
+                                       "endPointY":  759
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  432,
+                                       "endPointX":  453,
+                                       "startPointY":  726,
+                                       "endPointY":  746
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  121,
+                                       "endPointX":  142,
+                                       "startPointY":  656,
+                                       "endPointY":  677
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  155,
+                                       "endPointX":  176,
+                                       "startPointY":  676,
+                                       "endPointY":  696
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  286,
+                                       "endPointX":  307,
+                                       "startPointY":  207,
+                                       "endPointY":  228
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  345,
+                                       "endPointX":  366,
+                                       "startPointY":  101,
+                                       "endPointY":  122
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  532,
+                                       "endPointX":  553,
+                                       "startPointY":  295,
+                                       "endPointY":  316
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  584,
+                                       "endPointX":  605,
+                                       "startPointY":  184,
+                                       "endPointY":  205
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  543,
+                                       "endPointX":  564,
+                                       "startPointY":  168,
+                                       "endPointY":  188
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  567,
+                                       "endPointX":  587,
+                                       "startPointY":  587,
+                                       "endPointY":  608
+                                   },
+                                   {
+                                       "refNo":  "17",
+                                       "startPointX":  159,
+                                       "endPointX":  180,
+                                       "startPointY":  350,
+                                       "endPointY":  370
+                                   },
+                                   {
+                                       "refNo":  "18",
+                                       "startPointX":  81,
+                                       "endPointX":  101,
+                                       "startPointY":  634,
+                                       "endPointY":  655
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "18D-F1711-00-P2",
+                                    "partName":  "TAMPA LATERAL 1",
+                                    "quantity":  1,
+                                    "remarks":  "MBL2",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-F1721-00-P2",
+                                    "partName":  "TAMPA LATERAL 2",
+                                    "quantity":  1,
+                                    "remarks":  "MBL2",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90480-13567",
+                                    "partName":  "ILHO DE BORRACHA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F1778-00",
+                                    "partName":  "AMORTIZADOR DE LOCALIZACAO 1",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VL-F1708-01",
+                                    "partName":  "TRAVA DA TAMPA LATERAL CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90170-22850",
+                                    "partName":  ". PORCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90480-24186",
+                                    "partName":  "ILHO DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-225A4",
+                                    "partName":  "ARRUELA PLANA (T=1.0)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9890M-06020",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-06804",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-F177G-10",
+                                    "partName":  "CAIXA DA BATERIA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-F174X-00",
+                                    "partName":  "AMORTIZADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F1746-00",
+                                    "partName":  "AMORTIZADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9700M-06014",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-06804",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-F173E-A0",
+                                    "partName":  "GRAFICO 1",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA YB",
+                                    "appSerial":  null,
+                                    "refNo":  "16",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-F173F-A0",
+                                    "partName":  "GRAFICO 2",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA YB",
+                                    "appSerial":  null,
+                                    "refNo":  "17",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F178A-00",
+                                    "partName":  "ETIQUETA YAMALUBE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "18",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

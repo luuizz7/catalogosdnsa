@@ -1,0 +1,286 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  136,
+                                       "endPointX":  155,
+                                       "startPointY":  464,
+                                       "endPointY":  486
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  178,
+                                       "endPointX":  200,
+                                       "startPointY":  758,
+                                       "endPointY":  777
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  127,
+                                       "endPointX":  149,
+                                       "startPointY":  248,
+                                       "endPointY":  270
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  460,
+                                       "endPointX":  479,
+                                       "startPointY":  586,
+                                       "endPointY":  608
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  433,
+                                       "endPointX":  452,
+                                       "startPointY":  538,
+                                       "endPointY":  560
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  322,
+                                       "endPointX":  344,
+                                       "startPointY":  503,
+                                       "endPointY":  525
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  520,
+                                       "endPointX":  542,
+                                       "startPointY":  142,
+                                       "endPointY":  164
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  460,
+                                       "endPointX":  479,
+                                       "startPointY":  367,
+                                       "endPointY":  386
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  505,
+                                       "endPointX":  527,
+                                       "startPointY":  359,
+                                       "endPointY":  381
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  551,
+                                       "endPointX":  573,
+                                       "startPointY":  253,
+                                       "endPointY":  275
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  192,
+                                       "endPointX":  214,
+                                       "startPointY":  177,
+                                       "endPointY":  196
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  374,
+                                       "endPointX":  396,
+                                       "startPointY":  193,
+                                       "endPointY":  215
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  318,
+                                       "endPointX":  340,
+                                       "startPointY":  163,
+                                       "endPointY":  182
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  368,
+                                       "endPointX":  390,
+                                       "startPointY":  99,
+                                       "endPointY":  121
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  220,
+                                       "endPointX":  242,
+                                       "startPointY":  90,
+                                       "endPointY":  112
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  429,
+                                       "endPointX":  451,
+                                       "startPointY":  125,
+                                       "endPointY":  147
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  389,
+                                       "endPointX":  411,
+                                       "startPointY":  799,
+                                       "endPointY":  818
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "5RM-F582T-00",
+                                    "partName":  "DISCO DE FREIO (ESQ.)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-06813",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  6,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5RM-F580T-00",
+                                    "partName":  "PINCA DO FREIO CONJ. (ESQ.)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5RM-W0057-00",
+                                    "partName":  ". JOGO DE PISTOES DA PINCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5RM-W0047-00",
+                                    "partName":  ". . JOGO DE RETENTORES DA PINCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5RM-W0045-10",
+                                    "partName":  ". KIT DE PASTILHAS DE FREIO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-W0048-00",
+                                    "partName":  ". KIT DO PARAFUSO SANGRADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F5934-00",
+                                    "partName":  ". MOLA DA PASTILHA DE FREIO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F5924-00",
+                                    "partName":  ". PINO DA PASTILHA DE FREIO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5RM-F5921-00",
+                                    "partName":  ". FIXADOR DO SUPORTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F5937-00",
+                                    "partName":  ". CAPA DA PINCA DE FREIO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F5926-51",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F536G-00",
+                                    "partName":  ". PINO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F5961-00",
+                                    "partName":  ". PORCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F5917-00",
+                                    "partName":  ". PROTETOR DA PINCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-10638",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "16",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

@@ -1,0 +1,69 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  182,
+                                       "endPointX":  203,
+                                       "startPointY":  522,
+                                       "endPointY":  543
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  123,
+                                       "endPointX":  143,
+                                       "startPointY":  564,
+                                       "endPointY":  585
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  453,
+                                       "endPointX":  474,
+                                       "startPointY":  368,
+                                       "endPointY":  388
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  406,
+                                       "endPointX":  427,
+                                       "startPointY":  401,
+                                       "endPointY":  422
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  311,
+                                       "endPointX":  332,
+                                       "startPointY":  201,
+                                       "endPointY":  222
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  597,
+                                       "endPointX":  617,
+                                       "startPointY":  99,
+                                       "endPointY":  120
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "18D-F510S-19",
+                                    "partName":  "PNEU DIANT. 2.75-18M/C TL",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-F510K-19",
+                                    "partName":  "PNEU TRAS. 90/90-18M/C TL",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

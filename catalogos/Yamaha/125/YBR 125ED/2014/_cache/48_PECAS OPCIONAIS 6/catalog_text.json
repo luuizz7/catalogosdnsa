@@ -1,0 +1,38 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  310,
+                                       "endPointX":  331,
+                                       "startPointY":  269,
+                                       "endPointY":  290
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  133,
+                                       "endPointX":  154,
+                                       "startPointY":  464,
+                                       "endPointY":  484
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  163,
+                                       "endPointX":  184,
+                                       "startPointY":  435,
+                                       "endPointY":  456
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "18D-F6111-09",
+                                    "partName":  "GUIDAO",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

@@ -1,0 +1,191 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  225,
+                                       "endPointX":  247,
+                                       "startPointY":  655,
+                                       "endPointY":  677
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  191,
+                                       "endPointX":  210,
+                                       "startPointY":  601,
+                                       "endPointY":  623
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  330,
+                                       "endPointX":  352,
+                                       "startPointY":  587,
+                                       "endPointY":  609
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  375,
+                                       "endPointX":  397,
+                                       "startPointY":  681,
+                                       "endPointY":  703
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  299,
+                                       "endPointX":  318,
+                                       "startPointY":  695,
+                                       "endPointY":  717
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  408,
+                                       "endPointX":  427,
+                                       "startPointY":  406,
+                                       "endPointY":  425
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  357,
+                                       "endPointX":  379,
+                                       "startPointY":  385,
+                                       "endPointY":  407
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  457,
+                                       "endPointX":  479,
+                                       "startPointY":  435,
+                                       "endPointY":  454
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  546,
+                                       "endPointX":  568,
+                                       "startPointY":  670,
+                                       "endPointY":  692
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  113,
+                                       "endPointX":  135,
+                                       "startPointY":  166,
+                                       "endPointY":  188
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  152,
+                                       "endPointX":  174,
+                                       "startPointY":  186,
+                                       "endPointY":  208
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  87,
+                                       "endPointX":  109,
+                                       "startPointY":  151,
+                                       "endPointY":  170
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "5HH-E5512-00",
+                                    "partName":  "ENGRENAGEM LOUCA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-E5521-00",
+                                    "partName":  "EIXO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-E5532-00",
+                                    "partName":  "PLACA DA ENGRENAGEM LOUCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9851M-06012",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5AP-15517-02",
+                                    "partName":  "ENGRENAGEM LOUCA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-25290",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4TU-15590-00",
+                                    "partName":  "PARTIDA SENTIDO UNICO COMP.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9131M-08020",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90387-15W54",
+                                    "partName":  "ESPACADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "99009-15400",
+                                    "partName":  "ANEL TRAVA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

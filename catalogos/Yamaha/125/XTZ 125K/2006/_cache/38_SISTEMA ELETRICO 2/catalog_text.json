@@ -1,0 +1,221 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  112,
+                                       "endPointX":  134,
+                                       "startPointY":  63,
+                                       "endPointY":  85
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  73,
+                                       "endPointX":  92,
+                                       "startPointY":  80,
+                                       "endPointY":  99
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  73,
+                                       "endPointX":  95,
+                                       "startPointY":  182,
+                                       "endPointY":  204
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  381,
+                                       "endPointX":  403,
+                                       "startPointY":  678,
+                                       "endPointY":  700
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  339,
+                                       "endPointX":  358,
+                                       "startPointY":  651,
+                                       "endPointY":  673
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  276,
+                                       "endPointX":  298,
+                                       "startPointY":  139,
+                                       "endPointY":  161
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  343,
+                                       "endPointX":  365,
+                                       "startPointY":  101,
+                                       "endPointY":  120
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  529,
+                                       "endPointX":  551,
+                                       "startPointY":  150,
+                                       "endPointY":  169
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  144,
+                                       "endPointX":  166,
+                                       "startPointY":  594,
+                                       "endPointY":  616
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  91,
+                                       "endPointX":  113,
+                                       "startPointY":  619,
+                                       "endPointY":  641
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  563,
+                                       "endPointX":  585,
+                                       "startPointY":  525,
+                                       "endPointY":  547
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  517,
+                                       "endPointX":  539,
+                                       "startPointY":  525,
+                                       "endPointY":  547
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "5HH-H2310-00",
+                                    "partName":  "BOBINA DE IGNICAO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9851M-05016",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-H2370-00",
+                                    "partName":  "CACHIMBO DA VELA CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-H2540-01",
+                                    "partName":  "INTERRUPTOR NEUTRO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-H2540-02",
+                                    "partName":  "INTERRUPTOR NEUTRO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90430-10148",
+                                    "partName":  "GAXETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5RM-H5540-20",
+                                    "partName":  "UNIDADE DE IGNICAO CONJ. (CDI)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5RM-H5546-00",
+                                    "partName":  "CINTA DO C.D.I",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-H3350-00",
+                                    "partName":  "RELE DO PISCA CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-H3371-00",
+                                    "partName":  "BUZINA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9580M-06010",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "23L-H5130-00",
+                                    "partName":  "REFLETOR TRASEIRO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9570M-06500",
+                                    "partName":  "PORCA FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

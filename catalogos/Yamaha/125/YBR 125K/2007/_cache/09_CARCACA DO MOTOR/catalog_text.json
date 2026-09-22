@@ -1,0 +1,212 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  161,
+                                       "endPointX":  183,
+                                       "startPointY":  676,
+                                       "endPointY":  698
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  165,
+                                       "endPointX":  187,
+                                       "startPointY":  291,
+                                       "endPointY":  313
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  210,
+                                       "endPointX":  229,
+                                       "startPointY":  168,
+                                       "endPointY":  187
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  246,
+                                       "endPointX":  268,
+                                       "startPointY":  148,
+                                       "endPointY":  170
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  179,
+                                       "endPointX":  201,
+                                       "startPointY":  260,
+                                       "endPointY":  282
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  402,
+                                       "endPointX":  424,
+                                       "startPointY":  787,
+                                       "endPointY":  809
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  294,
+                                       "endPointX":  313,
+                                       "startPointY":  469,
+                                       "endPointY":  491
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  183,
+                                       "endPointX":  205,
+                                       "startPointY":  617,
+                                       "endPointY":  639
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  95,
+                                       "endPointX":  117,
+                                       "startPointY":  294,
+                                       "endPointY":  313
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  505,
+                                       "endPointX":  527,
+                                       "startPointY":  406,
+                                       "endPointY":  428
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  483,
+                                       "endPointX":  502,
+                                       "startPointY":  808,
+                                       "endPointY":  830
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  556,
+                                       "endPointX":  578,
+                                       "startPointY":  620,
+                                       "endPointY":  642
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  255,
+                                       "endPointX":  277,
+                                       "startPointY":  553,
+                                       "endPointY":  575
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  353,
+                                       "endPointX":  375,
+                                       "startPointY":  451,
+                                       "endPointY":  473
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  455,
+                                       "endPointX":  474,
+                                       "startPointY":  346,
+                                       "endPointY":  368
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "5LX-E5150-30",
+                                    "partName":  "CARCACA DO MOTOR COMPLETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-E1167-00",
+                                    "partName":  "TUBO DE RESPIRO 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-E1166-00",
+                                    "partName":  "TUBO DE RESPIRO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90467-13858",
+                                    "partName":  "PRESILHA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "99530-10114",
+                                    "partName":  "PINO GUIA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90109-06W35",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90109-06W36",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  7,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90109-06W37",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "99530-10114",
+                                    "partName":  "PINO GUIA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-E5441-00",
+                                    "partName":  "FIXADOR DO CABO DA EMBREAGEM",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

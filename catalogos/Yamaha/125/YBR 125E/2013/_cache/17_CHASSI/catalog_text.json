@@ -1,0 +1,378 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  287,
+                                       "endPointX":  308,
+                                       "startPointY":  333,
+                                       "endPointY":  354
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  125,
+                                       "endPointX":  145,
+                                       "startPointY":  690,
+                                       "endPointY":  711
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  217,
+                                       "endPointX":  237,
+                                       "startPointY":  716,
+                                       "endPointY":  737
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  274,
+                                       "endPointX":  295,
+                                       "startPointY":  644,
+                                       "endPointY":  665
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  82,
+                                       "endPointX":  103,
+                                       "startPointY":  639,
+                                       "endPointY":  659
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  117,
+                                       "endPointX":  137,
+                                       "startPointY":  557,
+                                       "endPointY":  578
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  453,
+                                       "endPointX":  474,
+                                       "startPointY":  462,
+                                       "endPointY":  482
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  218,
+                                       "endPointX":  239,
+                                       "startPointY":  310,
+                                       "endPointY":  331
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  470,
+                                       "endPointX":  490,
+                                       "startPointY":  542,
+                                       "endPointY":  563
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  496,
+                                       "endPointX":  517,
+                                       "startPointY":  485,
+                                       "endPointY":  505
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  189,
+                                       "endPointX":  210,
+                                       "startPointY":  295,
+                                       "endPointY":  316
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  134,
+                                       "endPointX":  155,
+                                       "startPointY":  333,
+                                       "endPointY":  354
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  249,
+                                       "endPointX":  270,
+                                       "startPointY":  527,
+                                       "endPointY":  548
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  443,
+                                       "endPointX":  464,
+                                       "startPointY":  573,
+                                       "endPointY":  594
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  412,
+                                       "endPointX":  433,
+                                       "startPointY":  625,
+                                       "endPointY":  646
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  234,
+                                       "endPointX":  255,
+                                       "startPointY":  589,
+                                       "endPointY":  610
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  272,
+                                       "endPointX":  293,
+                                       "startPointY":  539,
+                                       "endPointY":  559
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  76,
+                                       "endPointX":  97,
+                                       "startPointY":  399,
+                                       "endPointY":  420
+                                   },
+                                   {
+                                       "refNo":  "17",
+                                       "startPointX":  290,
+                                       "endPointX":  311,
+                                       "startPointY":  153,
+                                       "endPointY":  174
+                                   },
+                                   {
+                                       "refNo":  "18",
+                                       "startPointX":  400,
+                                       "endPointX":  420,
+                                       "startPointY":  218,
+                                       "endPointY":  239
+                                   },
+                                   {
+                                       "refNo":  "19",
+                                       "startPointX":  205,
+                                       "endPointX":  226,
+                                       "startPointY":  194,
+                                       "endPointY":  214
+                                   },
+                                   {
+                                       "refNo":  "20",
+                                       "startPointX":  508,
+                                       "endPointX":  528,
+                                       "startPointY":  374,
+                                       "endPointY":  395
+                                   },
+                                   {
+                                       "refNo":  "21",
+                                       "startPointX":  527,
+                                       "endPointX":  548,
+                                       "startPointY":  406,
+                                       "endPointY":  427
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "18D-F1110-40",
+                                    "partName":  "QUADRO COMPLETO",
+                                    "quantity":  1,
+                                    "remarks":  "YB",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F1316-00-33",
+                                    "partName":  "SUPORTE DO MOTOR 2",
+                                    "quantity":  1,
+                                    "remarks":  "YB",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9581M-10080",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-088A6",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9570M-10500",
+                                    "partName":  "PORCA FLANGE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9570M-08500",
+                                    "partName":  "PORCA FLANGE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F1317-00-33",
+                                    "partName":  "SUPORTE DO MOTOR 3",
+                                    "quantity":  1,
+                                    "remarks":  "YB",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F1318-00-33",
+                                    "partName":  "SUPORTE DO MOTOR 1",
+                                    "quantity":  1,
+                                    "remarks":  "YB",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-08802",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-08803",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9570M-08500",
+                                    "partName":  "PORCA FLANGE",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-08007",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-08006",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9570M-08500",
+                                    "partName":  "PORCA FLANGE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-08840",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4VW-F111M-04",
+                                    "partName":  "ETIQUETA DE FABRICACAO LOCAL",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "16",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VL-F8100-01",
+                                    "partName":  "JOGO DE FERRAMENTAS",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "17",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F811G-00",
+                                    "partName":  "CINTA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "18",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-F8199-W5",
+                                    "partName":  "MANUAL DO PROPRIETARIO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "19",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5LX-F1308-00",
+                                    "partName":  "TRAVA DO CAPACETE CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "20",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9870M-06030",
+                                    "partName":  "PARAFUSO CABECA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "21",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

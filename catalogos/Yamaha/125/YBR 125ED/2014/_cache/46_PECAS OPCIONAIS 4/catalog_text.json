@@ -1,0 +1,75 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  529,
+                                       "endPointX":  549,
+                                       "startPointY":  329,
+                                       "endPointY":  350
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  549,
+                                       "endPointX":  570,
+                                       "startPointY":  620,
+                                       "endPointY":  641
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  321,
+                                       "endPointX":  341,
+                                       "startPointY":  612,
+                                       "endPointY":  633
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  251,
+                                       "endPointX":  272,
+                                       "startPointY":  630,
+                                       "endPointY":  651
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "5HH-WF01A-19",
+                                    "partName":  "KIT DE TRANSMISSAO (45D)",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-WF534-09",
+                                    "partName":  "JOGO DE SAPATA DE FREIO 2",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-E8110-09",
+                                    "partName":  "PEDAL DE CAMBIO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-E8113-00",
+                                    "partName":  ". CAPA DO PEDAL",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

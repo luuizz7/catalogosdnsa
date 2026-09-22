@@ -601,15 +601,40 @@
       }
     }
   },
-  "Yamaha": {
-    "125": {
-      "Rx 125": {
-        "1982 -": "catalogos/Yamaha/125/RX 125/1982 -.pdf"
-      },
-      "Fluo 125": {
-        "2023": "catalogos/Yamaha/125/FLUO 125/Fluo125_2023.pdf"
-      }
+"Yamaha": {
+  "125": {
+    "Rx 125": {
+      "1982 -": "catalogos/Yamaha/125/RX 125/1982 -.pdf"
     },
+    "Fluo 125": {
+      "2023": "ypec.html?catalogo=catalogos/Yamaha/125/FLUO%20125/2023/catalogo.json",
+      "2026": "ypec.html?catalogo=catalogos/Yamaha/125/FLUO%20125/2026/catalogo.json"
+    },
+    "Xtz 125E": {
+      "2003": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2003/catalogo.json",
+      "2005": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2005/catalogo.json",
+      "2006": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2006/catalogo.json",
+      "2007": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2007/catalogo.json",
+      "2008": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2008/catalogo.json",
+      "2009": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2009/catalogo.json",
+      "2010": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2010/catalogo.json",
+      "2011": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2011/catalogo.json",
+      "2014": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2014/catalogo.json",
+      "2015": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2015/catalogo.json",
+      "2016": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2016/catalogo.json"
+    },
+    "Xtz 125K": {
+      "2003": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2003/catalogo.json",
+      "2005": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2005/catalogo.json",
+      "2006": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2006/catalogo.json",
+      "2007": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2007/catalogo.json",
+      "2008": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2008/catalogo.json",
+      "2009": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2009/catalogo.json",
+      "2010": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2010/catalogo.json",
+      "2011": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2011/catalogo.json",
+      "2014": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2014/catalogo.json"
+    }
+  },
     "135": {
       "Rd 135": {
         "1995 -": "catalogos/Yamaha/135/RD 135/1995 -.pdf"

@@ -1,0 +1,92 @@
+﻿{
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  102,
+                                       "endPointX":  124,
+                                       "startPointY":  489,
+                                       "endPointY":  511
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  272,
+                                       "endPointX":  291,
+                                       "startPointY":  585,
+                                       "endPointY":  607
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  340,
+                                       "endPointX":  362,
+                                       "startPointY":  333,
+                                       "endPointY":  355
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  211,
+                                       "endPointX":  233,
+                                       "startPointY":  480,
+                                       "endPointY":  502
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  254,
+                                       "endPointX":  276,
+                                       "startPointY":  293,
+                                       "endPointY":  315
+                                   }
+                               ],
+    "notesDataCollection":  null,
+    "partsDataCollection":  [
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "5HH-H1450-00",
+                                    "partName":  "ROTOR DO MAGNETO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "5HH-H1410-00",
+                                    "partName":  "ESTATOR CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "5HH-H5595-00",
+                                    "partName":  ". BOBINA DE PULSO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "9131M-06030",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "9131M-06014",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5"
+                                }
+                            ]
+}

@@ -1,0 +1,89 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  183,
+                                       "endPointX":  204,
+                                       "startPointY":  522,
+                                       "endPointY":  543
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  125,
+                                       "endPointX":  146,
+                                       "startPointY":  565,
+                                       "endPointY":  586
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  454,
+                                       "endPointX":  475,
+                                       "startPointY":  366,
+                                       "endPointY":  387
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  407,
+                                       "endPointX":  428,
+                                       "startPointY":  401,
+                                       "endPointY":  422
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  314,
+                                       "endPointX":  335,
+                                       "startPointY":  206,
+                                       "endPointY":  227
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  593,
+                                       "endPointX":  614,
+                                       "startPointY":  100,
+                                       "endPointY":  121
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "18D-F510S-09",
+                                    "partName":  "PNEU DIANT. 2.75-18M/C TT",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F510T-09",
+                                    "partName":  "CAMARA DE AR YG-18",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-F510K-09",
+                                    "partName":  "PNEU TRAS. 90/90-18M/C TT",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F510T-09",
+                                    "partName":  "CAMARA DE AR YG-18",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

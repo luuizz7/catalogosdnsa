@@ -1,4 +1,4 @@
-(() => {
+﻿(() => {
     const el = {
         modelo: document.getElementById("modelo"),
         ano: document.getElementById("ano"),
@@ -31,7 +31,8 @@
     let indiceAtual = 0;
     let zoom = 1;
     let baseCatalogo = "";
-    let lupa = null;
+    let panX = 0;
+    let panY = 0;
 
     function esc(valor) {
         return String(valor ?? "")
@@ -63,142 +64,37 @@
         return baseCatalogo + img;
     }
 
-    function criarLupa() {
-        const canvas = document.getElementById("canvasImagem");
-
-        if (!canvas || lupa) {
-            return;
-        }
-
-        lupa = document.createElement("div");
-        lupa.className = "lupa-imagem";
-        canvas.appendChild(lupa);
-
-        canvas.addEventListener("mousemove", atualizarLupa);
-        canvas.addEventListener("mouseleave", esconderLupa);
-        canvas.addEventListener("scroll", esconderLupa);
-
-        window.addEventListener("resize", esconderLupa);
+    function aplicarPosicaoImagem() {
+        el.imagem.style.transform =
+            `translate3d(${panX}px, ${panY}px, 0)`;
     }
 
-    function esconderLupa() {
-        if (!lupa) {
-            return;
-        }
-
-        lupa.style.display = "none";
-
-        const canvas = document.getElementById("canvasImagem");
-
-        if (canvas) {
-            canvas.classList.remove("lupa-ativa");
-        }
+    function resetarPosicaoImagem() {
+        panX = 0;
+        panY = 0;
+        aplicarPosicaoImagem();
     }
 
-    function atualizarLupa(evento) {
-        if (
-            !lupa ||
-            !el.imagem ||
-            !el.imagem.src ||
-            window.matchMedia("(max-width: 900px)").matches
-        ) {
-            esconderLupa();
-            return;
-        }
-
+    function aplicarZoom() {
         const canvas = document.getElementById("canvasImagem");
+
+        el.imagem.style.width = `${zoom * 100}%`;
+        el.zoomValor.textContent = `${Math.round(zoom * 100)}%`;
 
         if (!canvas) {
             return;
         }
 
-        const rectImg = el.imagem.getBoundingClientRect();
+        canvas.classList.toggle("zoom-arrastavel", zoom > 1);
 
-        const mx = evento.clientX;
-        const my = evento.clientY;
-
-        if (
-            mx < rectImg.left ||
-            mx > rectImg.right ||
-            my < rectImg.top ||
-            my > rectImg.bottom
-        ) {
-            esconderLupa();
-            return;
+        if (zoom <= 1) {
+            resetarPosicaoImagem();
+        } else {
+            aplicarPosicaoImagem();
         }
-
-        const xNaImagem = mx - rectImg.left;
-        const yNaImagem = my - rectImg.top;
-
-        const percentualX = xNaImagem / rectImg.width;
-        const percentualY = yNaImagem / rectImg.height;
-
-        const tamanho = 280;
-        const ampliacao = 1.8;
-
-        const rectCanvas = canvas.getBoundingClientRect();
-
-        let left =
-            mx -
-            rectCanvas.left +
-            canvas.scrollLeft -
-            (tamanho / 2);
-
-        let top =
-            my -
-            rectCanvas.top +
-            canvas.scrollTop -
-            (tamanho / 2);
-
-        const minLeft = canvas.scrollLeft;
-        const minTop = canvas.scrollTop;
-
-        const maxLeft =
-            canvas.scrollLeft +
-            canvas.clientWidth -
-            tamanho;
-
-        const maxTop =
-            canvas.scrollTop +
-            canvas.clientHeight -
-            tamanho;
-
-        left = Math.max(minLeft, Math.min(left, maxLeft));
-        top = Math.max(minTop, Math.min(top, maxTop));
-
-        lupa.style.left = `${left}px`;
-        lupa.style.top = `${top}px`;
-        lupa.style.display = "block";
-
-        canvas.classList.add("lupa-ativa");
-
-        const bgWidth = rectImg.width * ampliacao;
-        const bgHeight = rectImg.height * ampliacao;
-
-        lupa.style.backgroundImage = `url("${el.imagem.src}")`;
-        lupa.style.backgroundSize = `${bgWidth}px ${bgHeight}px`;
-
-        const bgX =
-            (percentualX * bgWidth) -
-            (tamanho / 2);
-
-        const bgY =
-            (percentualY * bgHeight) -
-            (tamanho / 2);
-
-        lupa.style.backgroundPosition =
-            `-${bgX}px -${bgY}px`;
-    }
-
-    function aplicarZoom() {
-        el.imagem.style.width = `${zoom * 100}%`;
-        el.zoomValor.textContent = `${Math.round(zoom * 100)}%`;
-        esconderLupa();
     }
 
     function mostrarIndice() {
-        esconderLupa();
-
         el.visualizador.hidden = true;
         el.indice.hidden = false;
 
@@ -209,8 +105,6 @@
     }
 
     function abrirFigura(novoIndice) {
-        esconderLupa();
-
         if (!dados?.figuras?.length) {
             return;
         }
@@ -244,6 +138,7 @@
         el.proxima.disabled = indiceAtual === dados.figuras.length - 1;
 
         zoom = 1;
+        resetarPosicaoImagem();
         aplicarZoom();
 
         const tabela = document.querySelector(".tabela-wrap");
@@ -346,7 +241,6 @@
         )).join("");
 
         renderizarIndice();
-        criarLupa();
 
         el.select.addEventListener("change", () => {
             abrirFigura(Number(el.select.value));
@@ -374,7 +268,142 @@
 
         el.reset.addEventListener("click", () => {
             zoom = 1;
+            resetarPosicaoImagem();
             aplicarZoom();
+        });
+
+
+        // =====================================================
+        // ZOOM POR CLIQUE + ARRASTE LIVRE
+        //
+        // Clique em 100%  -> 200%
+        // Clique em 200%  -> 100% (reset)
+        // Em 200%, segure o botão esquerdo e arraste livremente.
+        //
+        // O clique é detectado no POINTERUP, e não pelo evento "click".
+        // Assim o mousedown usado no arraste não bloqueia o reset.
+        // =====================================================
+        let pressionandoImagem = false;
+        let arrastouImagem = false;
+        let podeArrastar = false;
+
+        let inicioX = 0;
+        let inicioY = 0;
+        let panInicialX = 0;
+        let panInicialY = 0;
+
+        const LIMITE_ARRASTE = 4;
+        const canvasImagem = document.getElementById("canvasImagem");
+
+        canvasImagem.addEventListener("pointerdown", (evento) => {
+            // Só botão esquerdo e somente quando começou em cima da imagem.
+            if (evento.button !== 0 || evento.target !== el.imagem) {
+                return;
+            }
+
+            pressionandoImagem = true;
+            arrastouImagem = false;
+            podeArrastar = zoom > 1;
+
+            inicioX = evento.clientX;
+            inicioY = evento.clientY;
+
+            panInicialX = panX;
+            panInicialY = panY;
+
+            if (podeArrastar) {
+                canvasImagem.classList.add("arrastando");
+            }
+
+            // Captura o ponteiro para continuar recebendo o movimento
+            // mesmo se o mouse sair da imagem durante o arraste.
+            try {
+                canvasImagem.setPointerCapture(evento.pointerId);
+            } catch (_) {}
+
+            // Evita o arraste nativo da imagem.
+            evento.preventDefault();
+        });
+
+        canvasImagem.addEventListener("pointermove", (evento) => {
+            if (!pressionandoImagem || !podeArrastar) {
+                return;
+            }
+
+            const deltaX = evento.clientX - inicioX;
+            const deltaY = evento.clientY - inicioY;
+
+            if (
+                Math.abs(deltaX) >= LIMITE_ARRASTE ||
+                Math.abs(deltaY) >= LIMITE_ARRASTE
+            ) {
+                arrastouImagem = true;
+            }
+
+            if (!arrastouImagem) {
+                return;
+            }
+
+            // Movimento livre nos dois eixos.
+            panX = panInicialX + deltaX;
+            panY = panInicialY + deltaY;
+
+            aplicarPosicaoImagem();
+        });
+
+        canvasImagem.addEventListener("pointerup", (evento) => {
+            if (!pressionandoImagem) {
+                return;
+            }
+
+            const foiClique = !arrastouImagem;
+
+            pressionandoImagem = false;
+            podeArrastar = false;
+
+            canvasImagem.classList.remove("arrastando");
+
+            try {
+                if (canvasImagem.hasPointerCapture(evento.pointerId)) {
+                    canvasImagem.releasePointerCapture(evento.pointerId);
+                }
+            } catch (_) {}
+
+            // Se não houve arraste, alterna o zoom.
+            if (foiClique) {
+                if (zoom <= 1) {
+                    zoom = 2;
+                } else {
+                    zoom = 1;
+                }
+
+                resetarPosicaoImagem();
+                aplicarZoom();
+            }
+
+            arrastouImagem = false;
+            evento.preventDefault();
+        });
+
+        canvasImagem.addEventListener("pointercancel", (evento) => {
+            pressionandoImagem = false;
+            arrastouImagem = false;
+            podeArrastar = false;
+
+            canvasImagem.classList.remove("arrastando");
+
+            try {
+                if (canvasImagem.hasPointerCapture(evento.pointerId)) {
+                    canvasImagem.releasePointerCapture(evento.pointerId);
+                }
+            } catch (_) {}
+        });
+
+        window.addEventListener("blur", () => {
+            pressionandoImagem = false;
+            arrastouImagem = false;
+            podeArrastar = false;
+            canvasImagem.classList.remove("arrastando");
         });
 
         mostrarIndice();

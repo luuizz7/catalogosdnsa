@@ -1,0 +1,116 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  368,
+                                       "endPointX":  389,
+                                       "startPointY":  110,
+                                       "endPointY":  131
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  311,
+                                       "endPointX":  332,
+                                       "startPointY":  111,
+                                       "endPointY":  132
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  488,
+                                       "endPointX":  509,
+                                       "startPointY":  335,
+                                       "endPointY":  355
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  163,
+                                       "endPointX":  184,
+                                       "startPointY":  333,
+                                       "endPointY":  354
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  367,
+                                       "endPointX":  388,
+                                       "startPointY":  356,
+                                       "endPointY":  377
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  286,
+                                       "endPointX":  307,
+                                       "startPointY":  355,
+                                       "endPointY":  376
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  160,
+                                       "endPointX":  180,
+                                       "startPointY":  536,
+                                       "endPointY":  557
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "21D-F173L-70",
+                                    "partName":  "JOGO GRAFICO 1",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA HTR",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "21D-F174L-70",
+                                    "partName":  "JOGO GRAFICO 2",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA HTR",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "21D-F4230-C0",
+                                    "partName":  "JOGO DE GRAFICOS 1",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA HTR",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "21D-F4250-C0",
+                                    "partName":  "JOGO DE GRAFICOS 2",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA HTR",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4B4-F4235-10",
+                                    "partName":  "MARCA (EMBLEMA ) 1",
+                                    "quantity":  2,
+                                    "remarks":  "UR PARA HTR,YB",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "21D-F8391-A0",
+                                    "partName":  "GRAFICO 1",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA HTR",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}
