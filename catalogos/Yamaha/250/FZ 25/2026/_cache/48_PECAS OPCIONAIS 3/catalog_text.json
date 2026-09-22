@@ -1,0 +1,99 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  599,
+                                       "endPointX":  619,
+                                       "startPointY":  401,
+                                       "endPointY":  421
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  446,
+                                       "endPointX":  466,
+                                       "startPointY":  423,
+                                       "endPointY":  443
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  433,
+                                       "endPointX":  453,
+                                       "startPointY":  293,
+                                       "endPointY":  313
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  206,
+                                       "endPointX":  226,
+                                       "startPointY":  464,
+                                       "endPointY":  484
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  477,
+                                       "endPointX":  497,
+                                       "startPointY":  489,
+                                       "endPointY":  509
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  142,
+                                       "endPointX":  162,
+                                       "startPointY":  424,
+                                       "endPointY":  444
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "BC5-E1630-00",
+                                    "partName":  "JOGO DO PISTAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B97-E1631-00",
+                                    "partName":  ". PISTAO (STD)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B97-E1603-00",
+                                    "partName":  ". JOGO DE ANEIS (STD)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "12B-E1633-00",
+                                    "partName":  ". PINO DO PISTAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90468-12069",
+                                    "partName":  ". PRESILHA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

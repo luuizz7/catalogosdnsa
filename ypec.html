@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DNSA - Catálogo Yamaha YPEC</title>
+    <link rel="stylesheet" href="ypec.css">
+</head>
+<body>
+    <main class="pagina">
+
+        <section class="info">
+            <div><span>Modelo</span><strong id="modelo">Carregando...</strong></div>
+            <div><span>Ano</span><strong id="ano"></strong></div>
+            <div><span>Código do modelo</span><strong id="codigoModelo"></strong></div>
+        </section>
+
+        <!-- VISÃO GERAL -->
+        <section id="indiceCatalogo" class="indice-catalogo">
+            <div class="indice-topo">
+                <div>
+                    <h1>Índice do Catálogo</h1>
+                    <p>Selecione uma ilustração para abrir a vista explodida e a lista de peças.</p>
+                </div>
+            </div>
+
+            <div id="gradeFiguras" class="grade-figuras"></div>
+        </section>
+
+        <!-- VISÃO DA FIGURA -->
+        <section id="visualizadorCatalogo" class="visualizador-catalogo" hidden>
+            <section class="barra">
+                <button id="voltarIndice" class="voltar-indice" type="button">← Índice</button>
+
+                <button id="anterior" class="nav" type="button" title="Figura anterior">‹</button>
+
+                <select id="figuras" aria-label="Selecionar figura"></select>
+
+                <button id="proxima" class="nav" type="button" title="Próxima figura">›</button>
+
+                <div class="zoom">
+                    <button id="menos" type="button">−</button>
+                    <span id="zoomValor">100%</span>
+                    <button id="mais" type="button">+</button>
+                    <button id="resetZoom" type="button">Reset</button>
+                </div>
+            </section>
+
+            <section class="catalogo">
+                <div class="painel-imagem">
+                    <div id="canvasImagem" class="canvas-imagem">
+                        <img id="diagrama" alt="Ilustração explodida">
+                    </div>
+                </div>
+
+                <div class="painel-tabela">
+                    <div class="titulo-figura">
+                        <strong id="tituloFigura"></strong>
+                        <span id="contadorPecas"></span>
+                    </div>
+
+                    <div class="tabela-wrap">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th class="col-ref">Ref</th>
+                                    <th class="col-codigo">Código da Peça</th>
+                                    <th>Descrição</th>
+                                    <th class="col-qtd">Qtd.</th>
+                                </tr>
+                            </thead>
+                            <tbody id="listaPecas"></tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+        </section>
+
+        <div id="erro" class="erro" hidden></div>
+    </main>
+
+    <script src="ypec.js"></script>
+</body>
+</html>

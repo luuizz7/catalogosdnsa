@@ -1,0 +1,191 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  517,
+                                       "endPointX":  537,
+                                       "startPointY":  506,
+                                       "endPointY":  526
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  355,
+                                       "endPointX":  375,
+                                       "startPointY":  255,
+                                       "endPointY":  275
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  266,
+                                       "endPointX":  286,
+                                       "startPointY":  204,
+                                       "endPointY":  224
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  551,
+                                       "endPointX":  571,
+                                       "startPointY":  662,
+                                       "endPointY":  682
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  306,
+                                       "endPointX":  326,
+                                       "startPointY":  226,
+                                       "endPointY":  246
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  520,
+                                       "endPointX":  540,
+                                       "startPointY":  644,
+                                       "endPointY":  664
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  448,
+                                       "endPointX":  468,
+                                       "startPointY":  381,
+                                       "endPointY":  401
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  450,
+                                       "endPointX":  470,
+                                       "startPointY":  781,
+                                       "endPointY":  801
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  615,
+                                       "endPointX":  635,
+                                       "startPointY":  699,
+                                       "endPointY":  719
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  130,
+                                       "endPointX":  150,
+                                       "startPointY":  125,
+                                       "endPointY":  145
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  583,
+                                       "endPointX":  603,
+                                       "startPointY":  681,
+                                       "endPointY":  701
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  224,
+                                       "endPointX":  244,
+                                       "startPointY":  179,
+                                       "endPointY":  199
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "B5D-F5168-00-33",
+                                    "partName":  "ARO DA RODA DIANTEIRA",
+                                    "quantity":  1,
+                                    "remarks":  "YB P/ DPBMC,SMX",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90387-10854",
+                                    "partName":  "ESPACADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93106-20813",
+                                    "partName":  "RETENTOR DE OLEO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93306-300YF",
+                                    "partName":  "ROLAMENTO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "94110-12823",
+                                    "partName":  "PNEU (100/90-12 59J)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93900-00824",
+                                    "partName":  "VALVULA ARO DA RODA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95602-10200",
+                                    "partName":  "PORCA AUTOTRAVANTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BJF-F5181-00",
+                                    "partName":  "EIXO DA RODA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90387-10852",
+                                    "partName":  "ESPACADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90387-10851",
+                                    "partName":  "ESPACADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

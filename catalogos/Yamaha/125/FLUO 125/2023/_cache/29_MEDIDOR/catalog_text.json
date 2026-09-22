@@ -1,0 +1,134 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  365,
+                                       "endPointX":  385,
+                                       "startPointY":  148,
+                                       "endPointY":  168
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  275,
+                                       "endPointX":  295,
+                                       "startPointY":  207,
+                                       "endPointY":  227
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  430,
+                                       "endPointX":  450,
+                                       "startPointY":  551,
+                                       "endPointY":  571
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  186,
+                                       "endPointX":  206,
+                                       "startPointY":  648,
+                                       "endPointY":  668
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  222,
+                                       "endPointX":  242,
+                                       "startPointY":  636,
+                                       "endPointY":  656
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  258,
+                                       "endPointX":  278,
+                                       "startPointY":  652,
+                                       "endPointY":  672
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  304,
+                                       "endPointX":  324,
+                                       "startPointY":  666,
+                                       "endPointY":  686
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  342,
+                                       "endPointX":  362,
+                                       "startPointY":  675,
+                                       "endPointY":  695
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  89,
+                                       "endPointX":  109,
+                                       "startPointY":  556,
+                                       "endPointY":  576
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  120,
+                                       "endPointX":  140,
+                                       "startPointY":  683,
+                                       "endPointY":  703
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  442,
+                                       "endPointX":  462,
+                                       "startPointY":  711,
+                                       "endPointY":  731
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "BJF-H3510-00",
+                                    "partName":  "VELOCIMETRO CONJUNTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BJF-H3511-00",
+                                    "partName":  ". LENTE DO VELOCIMETRO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BJF-H3572-00",
+                                    "partName":  ". CAIXA INFERIOR DO MEDIDOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "97702-30014",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  5,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "97707-50016",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

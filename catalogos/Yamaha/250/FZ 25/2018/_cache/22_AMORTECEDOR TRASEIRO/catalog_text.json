@@ -1,0 +1,123 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  365,
+                                       "endPointX":  386,
+                                       "startPointY":  260,
+                                       "endPointY":  281
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  417,
+                                       "endPointX":  438,
+                                       "startPointY":  697,
+                                       "endPointY":  718
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  527,
+                                       "endPointX":  548,
+                                       "startPointY":  765,
+                                       "endPointY":  786
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  188,
+                                       "endPointX":  209,
+                                       "startPointY":  182,
+                                       "endPointY":  203
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  88,
+                                       "endPointX":  109,
+                                       "startPointY":  408,
+                                       "endPointY":  428
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  532,
+                                       "endPointX":  553,
+                                       "startPointY":  379,
+                                       "endPointY":  400
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  150,
+                                       "endPointX":  171,
+                                       "startPointY":  441,
+                                       "endPointY":  462
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  478,
+                                       "endPointX":  498,
+                                       "startPointY":  341,
+                                       "endPointY":  362
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "BC5-F2210-10",
+                                    "partName":  "AMORTECEDOR TRASEIRO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90387-12845",
+                                    "partName":  "ESPACADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-12057",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-12050",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95612-12100",
+                                    "partName":  "PORCA AUTOTRAVANTE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-122H1",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

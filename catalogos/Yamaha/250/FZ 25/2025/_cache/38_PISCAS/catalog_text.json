@@ -1,0 +1,92 @@
+﻿{
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  415,
+                                       "endPointX":  435,
+                                       "startPointY":  759,
+                                       "endPointY":  779
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  85,
+                                       "endPointX":  105,
+                                       "startPointY":  567,
+                                       "endPointY":  587
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  611,
+                                       "endPointX":  631,
+                                       "startPointY":  235,
+                                       "endPointY":  255
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  405,
+                                       "endPointX":  425,
+                                       "startPointY":  117,
+                                       "endPointY":  137
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  210,
+                                       "endPointX":  230,
+                                       "startPointY":  161,
+                                       "endPointY":  181
+                                   }
+                               ],
+    "notesDataCollection":  null,
+    "partsDataCollection":  [
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "BGJ-H330A-00",
+                                    "partName":  "PISCA CONJUNTO A",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "BGJ-H330B-00",
+                                    "partName":  "PISCA CONJUNTO B",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "BEA-H330A-00",
+                                    "partName":  "PISCA CONJUNTO A",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "B1X-H330B-00",
+                                    "partName":  "PISCA CONJUNTO B",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "BC5-H3399-00",
+                                    "partName":  "TAMPA DA LANTERNA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5"
+                                }
+                            ]
+}

@@ -1,0 +1,130 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  163,
+                                       "endPointX":  183,
+                                       "startPointY":  484,
+                                       "endPointY":  504
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  419,
+                                       "endPointX":  439,
+                                       "startPointY":  620,
+                                       "endPointY":  640
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  296,
+                                       "endPointX":  316,
+                                       "startPointY":  493,
+                                       "endPointY":  513
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  305,
+                                       "endPointX":  325,
+                                       "startPointY":  447,
+                                       "endPointY":  467
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  327,
+                                       "endPointX":  347,
+                                       "startPointY":  399,
+                                       "endPointY":  419
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  357,
+                                       "endPointX":  377,
+                                       "startPointY":  349,
+                                       "endPointY":  369
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  413,
+                                       "endPointX":  433,
+                                       "startPointY":  338,
+                                       "endPointY":  358
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  172,
+                                       "endPointX":  192,
+                                       "startPointY":  296,
+                                       "endPointY":  316
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  139,
+                                       "endPointX":  159,
+                                       "startPointY":  277,
+                                       "endPointY":  297
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "B5D-H1450-00",
+                                    "partName":  "ROTOR DO MAGNETO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B5D-H1410-12",
+                                    "partName":  "ESTATOR CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91332-06035",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91332-06020",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-12823",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90179-12004",
+                                    "partName":  "PORCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

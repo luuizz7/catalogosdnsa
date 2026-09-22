@@ -1,0 +1,495 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --fundo: #111111;
+    --painel: #1b1b1b;
+    --painel-2: #232323;
+    --borda: #343434;
+    --texto: #f2f2f2;
+    --texto-2: #bdbdbd;
+    --amarelo: #FFFF00;
+}
+
+html,
+body {
+    margin: 0;
+    min-height: 100%;
+    background: var(--fundo);
+    color: var(--texto);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    padding: 20px;
+}
+
+.pagina {
+    width: min(1380px, 100%);
+    margin: 0 auto;
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px 30px;
+    padding: 13px 16px;
+    background: var(--painel);
+    border: 1px solid var(--borda);
+    border-radius: 6px;
+}
+
+.info div {
+    display: flex;
+    gap: 8px;
+    align-items: baseline;
+}
+
+.info span {
+    color: var(--texto-2);
+    font-size: 12px;
+}
+
+.info strong {
+    color: #fff;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+/* =========================================================
+   ÍNDICE VISUAL - 4 CARDS POR LINHA
+   ========================================================= */
+
+.indice-catalogo {
+    margin-top: 16px;
+}
+
+.indice-topo {
+    padding: 8px 2px 18px;
+}
+
+.indice-topo h1 {
+    margin: 0 0 5px;
+    font-size: 20px;
+    color: #fff;
+}
+
+.indice-topo p {
+    margin: 0;
+    color: var(--texto-2);
+    font-size: 13px;
+}
+
+.grade-figuras {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 14px;
+}
+
+.card-figura {
+    appearance: none;
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+    cursor: pointer;
+    text-align: left;
+    color: #fff;
+    background: #1d1f1f;
+    border: 1px solid #2e3030;
+    border-radius: 10px;
+    transition:
+        transform .18s ease,
+        border-color .18s ease,
+        box-shadow .18s ease,
+        background .18s ease;
+}
+
+.card-figura:hover {
+    transform: translateY(-4px);
+    border-color: var(--amarelo);
+    background: #202222;
+    box-shadow:
+        0 10px 22px rgba(0, 0, 0, .34),
+        0 0 0 1px rgba(255, 255, 0, .08);
+}
+
+.card-figura-imagem {
+    height: 185px;
+    overflow: hidden;
+    background: #fff;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-figura-imagem img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+    transform: scale(1);
+    transition: transform .22s ease;
+}
+
+.card-figura:hover .card-figura-imagem img {
+    transform: scale(1.24);
+}
+
+.card-figura-rodape {
+    min-height: 58px;
+    padding: 11px 13px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    background: #1d1f1f;
+    border-top: 1px solid #2b2d2d;
+}
+
+.card-figura-titulo {
+    min-width: 0;
+    color: #fff;
+    font-size: 13px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.card-figura-seta {
+    flex: 0 0 auto;
+    color: var(--amarelo);
+    font-size: 27px;
+    line-height: 1;
+    font-weight: 700;
+    transform: translateX(0);
+    transition: transform .18s ease;
+}
+
+.card-figura:hover .card-figura-seta {
+    transform: translateX(5px);
+}
+
+/* =========================================================
+   VISUALIZADOR DA FIGURA
+   ========================================================= */
+
+.visualizador-catalogo {
+    margin-top: 14px;
+}
+
+.barra {
+    min-height: 56px;
+    padding: 9px 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--painel-2);
+    border: 1px solid var(--borda);
+    border-radius: 6px 6px 0 0;
+}
+
+.barra select {
+    width: min(520px, 48vw);
+    height: 38px;
+    padding: 0 11px;
+    color: #fff;
+    background: #151515;
+    border: 1px solid #444;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+button {
+    cursor: pointer;
+}
+
+.nav,
+.zoom button,
+.voltar-indice {
+    height: 38px;
+    min-width: 38px;
+    color: #fff;
+    background: #151515;
+    border: 1px solid #444;
+    border-radius: 4px;
+}
+
+.nav {
+    width: 42px;
+    font-size: 26px;
+    line-height: 1;
+}
+
+.nav:disabled {
+    opacity: .35;
+    cursor: default;
+}
+
+.voltar-indice {
+    padding: 0 13px;
+    font-weight: 700;
+    white-space: nowrap;
+}
+
+.voltar-indice:hover,
+.nav:hover:not(:disabled),
+.zoom button:hover {
+    border-color: var(--amarelo);
+    color: var(--amarelo);
+    background: #222;
+}
+
+.zoom {
+    margin-left: auto;
+    display: flex;
+    gap: 6px;
+    align-items: center;
+}
+
+#zoomValor {
+    min-width: 52px;
+    text-align: center;
+    color: var(--texto-2);
+    font-size: 12px;
+}
+
+.catalogo {
+    display: grid;
+    grid-template-columns: minmax(360px, 430px) 1fr;
+    min-height: 620px;
+    background: var(--painel);
+    border: 1px solid var(--borda);
+    border-top: 0;
+    border-radius: 0 0 6px 6px;
+    overflow: hidden;
+}
+
+.painel-imagem {
+    background: #fff;
+    border-right: 1px solid var(--borda);
+}
+
+.canvas-imagem {
+    position: relative;
+    width: 100%;
+    min-height: 620px;
+    height: 100%;
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 14px;
+    background: #fff;
+    cursor: zoom-in;
+}
+
+#diagrama {
+    display: block;
+    max-width: none;
+    transform-origin: top center;
+}
+
+.painel-tabela {
+    min-width: 0;
+    background: var(--painel);
+}
+
+.titulo-figura {
+    min-height: 46px;
+    padding: 10px 14px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    background: #181818;
+    border-bottom: 1px solid var(--borda);
+}
+
+.titulo-figura strong {
+    color: #fff;
+    font-size: 14px;
+}
+
+#contadorPecas {
+    color: var(--texto-2);
+    font-size: 12px;
+    white-space: nowrap;
+}
+
+.tabela-wrap {
+    max-height: 574px;
+    overflow: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    font-size: 13px;
+}
+
+thead th {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    padding: 9px 10px;
+    text-align: left;
+    color: #fff;
+    background: #202020;
+    border-bottom: 1px solid #444;
+}
+
+tbody td {
+    padding: 8px 10px;
+    color: #e8e8e8;
+    border-bottom: 1px solid #303030;
+}
+
+tbody tr:hover {
+    background: #292929;
+}
+
+.col-ref {
+    width: 70px;
+    text-align: right;
+}
+
+.col-codigo {
+    width: 210px;
+}
+
+.col-qtd {
+    width: 70px;
+    text-align: center;
+}
+
+tbody td:first-child {
+    text-align: right;
+}
+
+tbody td:last-child {
+    text-align: center;
+}
+
+/* =========================================================
+   LUPA - MAIOR E ZOOM MAIS SUAVE
+   ========================================================= */
+
+.lupa-imagem {
+    position: absolute;
+    width: 280px;
+    height: 280px;
+    border: 2px solid #666;
+    border-radius: 50%;
+    pointer-events: none;
+    display: none;
+    z-index: 50;
+    background-repeat: no-repeat;
+    background-color: #fff;
+    box-shadow:
+        0 10px 28px rgba(0, 0, 0, .48),
+        inset 0 0 0 1px rgba(255, 255, 255, .8);
+}
+
+.canvas-imagem.lupa-ativa {
+    cursor: none;
+}
+
+.erro {
+    margin-top: 16px;
+    padding: 14px;
+    border: 1px solid #7a2d2d;
+    background: #351919;
+    color: #ffb4b4;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #151515;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #444;
+    border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+@media (max-width: 1180px) {
+    .grade-figuras {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+}
+
+@media (max-width: 900px) {
+    body {
+        padding: 8px;
+    }
+
+    .grade-figuras {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .card-figura-imagem {
+        height: 170px;
+    }
+
+    .barra {
+        flex-wrap: wrap;
+    }
+
+    .barra select {
+        flex: 1;
+        width: auto;
+        min-width: 210px;
+    }
+
+    .zoom {
+        width: 100%;
+        margin-left: 0;
+        justify-content: flex-end;
+    }
+
+    .catalogo {
+        grid-template-columns: 1fr;
+    }
+
+    .painel-imagem {
+        border-right: 0;
+        border-bottom: 1px solid var(--borda);
+    }
+
+    .canvas-imagem {
+        min-height: 430px;
+        max-height: 520px;
+        cursor: default;
+    }
+
+    .lupa-imagem {
+        display: none !important;
+    }
+
+    .col-codigo {
+        width: 165px;
+    }
+}
+
+@media (max-width: 560px) {
+    .grade-figuras {
+        grid-template-columns: 1fr;
+    }
+
+    .card-figura-imagem {
+        height: 230px;
+    }
+}

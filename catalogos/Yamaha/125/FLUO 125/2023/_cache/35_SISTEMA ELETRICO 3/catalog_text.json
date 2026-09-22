@@ -1,0 +1,106 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  353,
+                                       "endPointX":  373,
+                                       "startPointY":  139,
+                                       "endPointY":  160
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  431,
+                                       "endPointX":  451,
+                                       "startPointY":  207,
+                                       "endPointY":  227
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  329,
+                                       "endPointX":  350,
+                                       "startPointY":  404,
+                                       "endPointY":  425
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  408,
+                                       "endPointX":  429,
+                                       "startPointY":  196,
+                                       "endPointY":  217
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  329,
+                                       "endPointX":  350,
+                                       "startPointY":  381,
+                                       "endPointY":  402
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  332,
+                                       "endPointX":  353,
+                                       "startPointY":  432,
+                                       "endPointY":  452
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  459,
+                                       "endPointX":  480,
+                                       "startPointY":  223,
+                                       "endPointY":  243
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "BJF-H5930-09",
+                                    "partName":  "UNIDADE HIDRAULICA CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90480-14816",
+                                    "partName":  "ILHO DE BORRACHA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90387-068N8",
+                                    "partName":  "ESPACADOR",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95D32-06020",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-068C5",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

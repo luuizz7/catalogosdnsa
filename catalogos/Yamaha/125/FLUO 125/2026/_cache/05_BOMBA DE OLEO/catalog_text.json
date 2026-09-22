@@ -1,0 +1,133 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  88,
+                                       "endPointX":  109,
+                                       "startPointY":  336,
+                                       "endPointY":  356
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  148,
+                                       "endPointX":  169,
+                                       "startPointY":  358,
+                                       "endPointY":  379
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  104,
+                                       "endPointX":  125,
+                                       "startPointY":  210,
+                                       "endPointY":  231
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  28,
+                                       "endPointX":  49,
+                                       "startPointY":  292,
+                                       "endPointY":  313
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  515,
+                                       "endPointX":  536,
+                                       "startPointY":  735,
+                                       "endPointY":  755
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  371,
+                                       "endPointX":  392,
+                                       "startPointY":  650,
+                                       "endPointY":  671
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  420,
+                                       "endPointX":  441,
+                                       "startPointY":  676,
+                                       "endPointY":  697
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  460,
+                                       "endPointX":  481,
+                                       "startPointY":  704,
+                                       "endPointY":  724
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "2PH-E3300-10",
+                                    "partName":  "BOMBA DE OLEO COMPLETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2PH-E3475-10",
+                                    "partName":  "GAXETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "98502-05020",
+                                    "partName":  "PARAFUSO CABECA DE PANELA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "54P-E5351-01",
+                                    "partName":  "TAMPAO DO DRENO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1GC-E3411-00",
+                                    "partName":  "FILTRADOR DE OLEO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90501-16004",
+                                    "partName":  "MOLA DE COMPRESSAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93210-29800",
+                                    "partName":  "ANEL DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

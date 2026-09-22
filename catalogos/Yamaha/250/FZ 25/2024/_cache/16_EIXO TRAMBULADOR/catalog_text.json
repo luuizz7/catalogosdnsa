@@ -1,0 +1,92 @@
+﻿{
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  179,
+                                       "endPointX":  200,
+                                       "startPointY":  601,
+                                       "endPointY":  621
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  430,
+                                       "endPointX":  451,
+                                       "startPointY":  317,
+                                       "endPointY":  338
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  338,
+                                       "endPointX":  358,
+                                       "startPointY":  263,
+                                       "endPointY":  284
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  235,
+                                       "endPointX":  256,
+                                       "startPointY":  212,
+                                       "endPointY":  233
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  518,
+                                       "endPointX":  539,
+                                       "startPointY":  489,
+                                       "endPointY":  509
+                                   }
+                               ],
+    "notesDataCollection":  null,
+    "partsDataCollection":  [
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "BC5-E8540-00",
+                                    "partName":  "CAME DE MUDANCA COMPLETO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "B97-E8511-00",
+                                    "partName":  "GARFO DE MUDANCA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "B97-E8512-00",
+                                    "partName":  "GARFO DE MUDANCA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "B97-E8513-00",
+                                    "partName":  "GARFO DE MUDANCA 3",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "B97-E8531-00",
+                                    "partName":  "BARRA GUIA DO GARFO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5"
+                                }
+                            ]
+}
