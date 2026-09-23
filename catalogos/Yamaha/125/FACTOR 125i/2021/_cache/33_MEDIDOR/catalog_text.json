@@ -1,0 +1,127 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  495,
+                                       "endPointX":  516,
+                                       "startPointY":  103,
+                                       "endPointY":  124
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  181,
+                                       "endPointX":  202,
+                                       "startPointY":  107,
+                                       "endPointY":  127
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  231,
+                                       "endPointX":  252,
+                                       "startPointY":  437,
+                                       "endPointY":  458
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  144,
+                                       "endPointX":  165,
+                                       "startPointY":  486,
+                                       "endPointY":  507
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  166,
+                                       "endPointX":  187,
+                                       "startPointY":  596,
+                                       "endPointY":  617
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  378,
+                                       "endPointX":  399,
+                                       "startPointY":  723,
+                                       "endPointY":  744
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  529,
+                                       "endPointX":  550,
+                                       "startPointY":  674,
+                                       "endPointY":  694
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  221,
+                                       "endPointX":  242,
+                                       "startPointY":  709,
+                                       "endPointY":  730
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  272,
+                                       "endPointX":  293,
+                                       "startPointY":  743,
+                                       "endPointY":  764
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  488,
+                                       "endPointX":  509,
+                                       "startPointY":  789,
+                                       "endPointY":  810
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "B37-H3500-02",
+                                    "partName":  "MEDIDOR CONJUNTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B37-H3571-00",
+                                    "partName":  ". CAIXA SUPERIOR DO VELOCIMETRO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2RP-H3572-02",
+                                    "partName":  ". CAIXA INFERIOR DO VELOCIMETRO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "97702-30016",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "97702-50016",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

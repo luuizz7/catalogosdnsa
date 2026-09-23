@@ -1,0 +1,140 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  463,
+                                       "endPointX":  483,
+                                       "startPointY":  746,
+                                       "endPointY":  766
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  147,
+                                       "endPointX":  167,
+                                       "startPointY":  566,
+                                       "endPointY":  586
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  317,
+                                       "endPointX":  337,
+                                       "startPointY":  500,
+                                       "endPointY":  520
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  445,
+                                       "endPointX":  465,
+                                       "startPointY":  572,
+                                       "endPointY":  592
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  456,
+                                       "endPointX":  476,
+                                       "startPointY":  346,
+                                       "endPointY":  366
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  174,
+                                       "endPointX":  194,
+                                       "startPointY":  191,
+                                       "endPointY":  211
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  251,
+                                       "endPointX":  271,
+                                       "startPointY":  226,
+                                       "endPointY":  246
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  380,
+                                       "endPointX":  400,
+                                       "startPointY":  300,
+                                       "endPointY":  320
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  148,
+                                       "endPointX":  168,
+                                       "startPointY":  390,
+                                       "endPointY":  410
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "BFH-H3310-10",
+                                    "partName":  "PISCA DIANTEIRO CONJ. 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BFH-H3320-10",
+                                    "partName":  "PISCA DIANTEIRO CONJ. 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "3D9-H3318-10",
+                                    "partName":  "SUPORTE DO PISCA 1",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-H3330-30",
+                                    "partName":  "PISCA TRASEIRO CONJ. 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-H3340-30",
+                                    "partName":  "PISCA TRASEIRO CONJ. 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "3D9-H3318-10",
+                                    "partName":  "SUPORTE DO PISCA 1",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-H2599-10",
+                                    "partName":  "CAPA DO CHICOTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

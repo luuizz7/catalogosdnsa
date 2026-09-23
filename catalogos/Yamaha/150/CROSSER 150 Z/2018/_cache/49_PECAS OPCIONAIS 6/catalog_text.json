@@ -1,0 +1,75 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  187,
+                                       "endPointX":  208,
+                                       "startPointY":  331,
+                                       "endPointY":  352
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  111,
+                                       "endPointX":  132,
+                                       "startPointY":  370,
+                                       "endPointY":  391
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  406,
+                                       "endPointX":  426,
+                                       "startPointY":  241,
+                                       "endPointY":  262
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  387,
+                                       "endPointX":  408,
+                                       "startPointY":  270,
+                                       "endPointY":  291
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "2CC-F510S-09",
+                                    "partName":  "PNEU DIANT. (90/90-19 52T)",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-F510V-09",
+                                    "partName":  "CAMARA DE AR DIANT. YJ-19",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-F510K-09",
+                                    "partName":  "PNEU TRAS. (110/90-17 60T)",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-F510T-09",
+                                    "partName":  "CAMARA DE AR TRAS. YJ-17",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

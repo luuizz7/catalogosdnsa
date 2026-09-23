@@ -1,0 +1,75 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  360,
+                                       "endPointX":  381,
+                                       "startPointY":  259,
+                                       "endPointY":  280
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  231,
+                                       "endPointX":  252,
+                                       "startPointY":  207,
+                                       "endPointY":  228
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  491,
+                                       "endPointX":  512,
+                                       "startPointY":  353,
+                                       "endPointY":  374
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  453,
+                                       "endPointX":  474,
+                                       "startPointY":  326,
+                                       "endPointY":  347
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "2CC-F2210-00",
+                                    "partName":  "AMORTECEDOR TRASEIRO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-10011",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95612-10100",
+                                    "partName":  "PORCA AUTOTRAVANTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-100E9",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

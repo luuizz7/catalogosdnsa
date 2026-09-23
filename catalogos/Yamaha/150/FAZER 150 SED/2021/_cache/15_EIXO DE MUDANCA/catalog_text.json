@@ -1,0 +1,293 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  102,
+                                       "endPointX":  123,
+                                       "startPointY":  335,
+                                       "endPointY":  356
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  77,
+                                       "endPointX":  98,
+                                       "startPointY":  314,
+                                       "endPointY":  335
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  179,
+                                       "endPointX":  200,
+                                       "startPointY":  332,
+                                       "endPointY":  353
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  335,
+                                       "endPointX":  356,
+                                       "startPointY":  206,
+                                       "endPointY":  227
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  328,
+                                       "endPointX":  349,
+                                       "startPointY":  265,
+                                       "endPointY":  285
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  349,
+                                       "endPointX":  370,
+                                       "startPointY":  274,
+                                       "endPointY":  295
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  176,
+                                       "endPointX":  197,
+                                       "startPointY":  256,
+                                       "endPointY":  277
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  288,
+                                       "endPointX":  309,
+                                       "startPointY":  419,
+                                       "endPointY":  440
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  569,
+                                       "endPointX":  590,
+                                       "startPointY":  469,
+                                       "endPointY":  490
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  297,
+                                       "endPointX":  318,
+                                       "startPointY":  573,
+                                       "endPointY":  594
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  579,
+                                       "endPointX":  599,
+                                       "startPointY":  650,
+                                       "endPointY":  671
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  428,
+                                       "endPointX":  449,
+                                       "startPointY":  478,
+                                       "endPointY":  499
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  559,
+                                       "endPointX":  580,
+                                       "startPointY":  618,
+                                       "endPointY":  639
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  217,
+                                       "endPointX":  237,
+                                       "startPointY":  494,
+                                       "endPointY":  515
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  530,
+                                       "endPointX":  551,
+                                       "startPointY":  595,
+                                       "endPointY":  616
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  236,
+                                       "endPointX":  257,
+                                       "startPointY":  520,
+                                       "endPointY":  541
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  607,
+                                       "endPointX":  627,
+                                       "startPointY":  500,
+                                       "endPointY":  520
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  239,
+                                       "endPointX":  259,
+                                       "startPointY":  578,
+                                       "endPointY":  598
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "21C-E8140-00",
+                                    "partName":  "ALAVANCA LIMITADORA CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90109-06279",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2SB-E8337-00",
+                                    "partName":  "MOLA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "21C-E8101-01",
+                                    "partName":  "EIXO DE MUDANCA CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90508-32805",
+                                    "partName":  ". MOLA DE TORCAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "99001-10600",
+                                    "partName":  ". ANEL TRAVA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93608-43238",
+                                    "partName":  "PINO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93102-12814",
+                                    "partName":  "RETENTOR DE OLEO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-E8111-10",
+                                    "partName":  "PEDAL DE CAMBIO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-E8112-00",
+                                    "partName":  "BRACO DO CAMBIO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1EG-E8113-01",
+                                    "partName":  "CAPA DO PEDAL",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-E8115-00",
+                                    "partName":  "HASTE DO CAMBIO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91401-20012",
+                                    "partName":  "CONTRAPINO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "92907-06200",
+                                    "partName":  "ARRUELA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "99002-10600",
+                                    "partName":  "ANEL TRAVA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "97012-06020",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "16",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

@@ -1,0 +1,733 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  424,
+                                       "endPointX":  444,
+                                       "startPointY":  123,
+                                       "endPointY":  144
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  399,
+                                       "endPointX":  419,
+                                       "startPointY":  156,
+                                       "endPointY":  177
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  512,
+                                       "endPointX":  533,
+                                       "startPointY":  105,
+                                       "endPointY":  126
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  199,
+                                       "endPointX":  220,
+                                       "startPointY":  384,
+                                       "endPointY":  405
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  235,
+                                       "endPointX":  256,
+                                       "startPointY":  406,
+                                       "endPointY":  427
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  511,
+                                       "endPointX":  532,
+                                       "startPointY":  310,
+                                       "endPointY":  331
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  581,
+                                       "endPointX":  601,
+                                       "startPointY":  155,
+                                       "endPointY":  176
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  583,
+                                       "endPointX":  604,
+                                       "startPointY":  121,
+                                       "endPointY":  142
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  578,
+                                       "endPointX":  598,
+                                       "startPointY":  90,
+                                       "endPointY":  111
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  523,
+                                       "endPointX":  544,
+                                       "startPointY":  632,
+                                       "endPointY":  652
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  372,
+                                       "endPointX":  392,
+                                       "startPointY":  656,
+                                       "endPointY":  676
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  373,
+                                       "endPointX":  393,
+                                       "startPointY":  817,
+                                       "endPointY":  838
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  364,
+                                       "endPointX":  385,
+                                       "startPointY":  689,
+                                       "endPointY":  710
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  455,
+                                       "endPointX":  476,
+                                       "startPointY":  617,
+                                       "endPointY":  638
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  235,
+                                       "endPointX":  256,
+                                       "startPointY":  745,
+                                       "endPointY":  766
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  328,
+                                       "endPointX":  349,
+                                       "startPointY":  728,
+                                       "endPointY":  749
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  466,
+                                       "endPointX":  487,
+                                       "startPointY":  409,
+                                       "endPointY":  430
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  303,
+                                       "endPointX":  324,
+                                       "startPointY":  748,
+                                       "endPointY":  769
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  283,
+                                       "endPointX":  304,
+                                       "startPointY":  387,
+                                       "endPointY":  408
+                                   },
+                                   {
+                                       "refNo":  "17",
+                                       "startPointX":  192,
+                                       "endPointX":  213,
+                                       "startPointY":  455,
+                                       "endPointY":  476
+                                   },
+                                   {
+                                       "refNo":  "18",
+                                       "startPointX":  189,
+                                       "endPointX":  209,
+                                       "startPointY":  649,
+                                       "endPointY":  670
+                                   },
+                                   {
+                                       "refNo":  "19",
+                                       "startPointX":  302,
+                                       "endPointX":  323,
+                                       "startPointY":  708,
+                                       "endPointY":  729
+                                   },
+                                   {
+                                       "refNo":  "19",
+                                       "startPointX":  404,
+                                       "endPointX":  425,
+                                       "startPointY":  581,
+                                       "endPointY":  601
+                                   },
+                                   {
+                                       "refNo":  "19",
+                                       "startPointX":  297,
+                                       "endPointX":  318,
+                                       "startPointY":  547,
+                                       "endPointY":  568
+                                   },
+                                   {
+                                       "refNo":  "20",
+                                       "startPointX":  94,
+                                       "endPointX":  115,
+                                       "startPointY":  726,
+                                       "endPointY":  747
+                                   },
+                                   {
+                                       "refNo":  "21",
+                                       "startPointX":  256,
+                                       "endPointX":  277,
+                                       "startPointY":  674,
+                                       "endPointY":  695
+                                   },
+                                   {
+                                       "refNo":  "22",
+                                       "startPointX":  188,
+                                       "endPointX":  208,
+                                       "startPointY":  291,
+                                       "endPointY":  311
+                                   },
+                                   {
+                                       "refNo":  "23",
+                                       "startPointX":  243,
+                                       "endPointX":  264,
+                                       "startPointY":  694,
+                                       "endPointY":  715
+                                   },
+                                   {
+                                       "refNo":  "24",
+                                       "startPointX":  226,
+                                       "endPointX":  247,
+                                       "startPointY":  211,
+                                       "endPointY":  232
+                                   },
+                                   {
+                                       "refNo":  "25",
+                                       "startPointX":  180,
+                                       "endPointX":  201,
+                                       "startPointY":  685,
+                                       "endPointY":  705
+                                   },
+                                   {
+                                       "refNo":  "26",
+                                       "startPointX":  108,
+                                       "endPointX":  129,
+                                       "startPointY":  671,
+                                       "endPointY":  692
+                                   },
+                                   {
+                                       "refNo":  "27",
+                                       "startPointX":  322,
+                                       "endPointX":  343,
+                                       "startPointY":  474,
+                                       "endPointY":  495
+                                   },
+                                   {
+                                       "refNo":  "28",
+                                       "startPointX":  346,
+                                       "endPointX":  367,
+                                       "startPointY":  432,
+                                       "endPointY":  453
+                                   },
+                                   {
+                                       "refNo":  "29",
+                                       "startPointX":  448,
+                                       "endPointX":  468,
+                                       "startPointY":  461,
+                                       "endPointY":  482
+                                   },
+                                   {
+                                       "refNo":  "30",
+                                       "startPointX":  364,
+                                       "endPointX":  385,
+                                       "startPointY":  374,
+                                       "endPointY":  395
+                                   },
+                                   {
+                                       "refNo":  "31",
+                                       "startPointX":  432,
+                                       "endPointX":  453,
+                                       "startPointY":  516,
+                                       "endPointY":  537
+                                   },
+                                   {
+                                       "refNo":  "31",
+                                       "startPointX":  447,
+                                       "endPointX":  467,
+                                       "startPointY":  496,
+                                       "endPointY":  517
+                                   },
+                                   {
+                                       "refNo":  "31",
+                                       "startPointX":  345,
+                                       "endPointX":  365,
+                                       "startPointY":  500,
+                                       "endPointY":  520
+                                   },
+                                   {
+                                       "refNo":  "31",
+                                       "startPointX":  351,
+                                       "endPointX":  372,
+                                       "startPointY":  473,
+                                       "endPointY":  493
+                                   },
+                                   {
+                                       "refNo":  "32",
+                                       "startPointX":  87,
+                                       "endPointX":  107,
+                                       "startPointY":  372,
+                                       "endPointY":  392
+                                   },
+                                   {
+                                       "refNo":  "33",
+                                       "startPointX":  388,
+                                       "endPointX":  409,
+                                       "startPointY":  118,
+                                       "endPointY":  139
+                                   },
+                                   {
+                                       "refNo":  "34",
+                                       "startPointX":  463,
+                                       "endPointX":  484,
+                                       "startPointY":  830,
+                                       "endPointY":  851
+                                   },
+                                   {
+                                       "refNo":  "35",
+                                       "startPointX":  80,
+                                       "endPointX":  101,
+                                       "startPointY":  569,
+                                       "endPointY":  590
+                                   },
+                                   {
+                                       "refNo":  "36",
+                                       "startPointX":  306,
+                                       "endPointX":  327,
+                                       "startPointY":  128,
+                                       "endPointY":  149
+                                   },
+                                   {
+                                       "refNo":  "37",
+                                       "startPointX":  268,
+                                       "endPointX":  288,
+                                       "startPointY":  138,
+                                       "endPointY":  158
+                                   },
+                                   {
+                                       "refNo":  "38",
+                                       "startPointX":  99,
+                                       "endPointX":  120,
+                                       "startPointY":  442,
+                                       "endPointY":  463
+                                   },
+                                   {
+                                       "refNo":  "38",
+                                       "startPointX":  601,
+                                       "endPointX":  622,
+                                       "startPointY":  685,
+                                       "endPointY":  705
+                                   },
+                                   {
+                                       "refNo":  "39",
+                                       "startPointX":  294,
+                                       "endPointX":  314,
+                                       "startPointY":  98,
+                                       "endPointY":  119
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1ST-F4110-10-33",
+                                    "partName":  "TANQUE DE COMBUSTIVEL COMP.",
+                                    "quantity":  1,
+                                    "remarks":  "YB",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F1781-70",
+                                    "partName":  ". EMBLEMA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F4141-00",
+                                    "partName":  "PROTETOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F4181-00",
+                                    "partName":  "AMORTIZADOR DE LOCALIZACAO 1",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F4182-00",
+                                    "partName":  "AMORTIZADOR DE LOCALIZACAO 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2RP-F4183-00",
+                                    "partName":  "AMORTIZADOR DE LOCALIZACAO 3",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-06110",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95822-06030",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F137W-00-P4",
+                                    "partName":  "TOMADA DE AR ESQUERDA 1",
+                                    "quantity":  1,
+                                    "remarks":  "MNM3",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F137U-00",
+                                    "partName":  "GUIA DE AR 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "97702-50016",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90480-12320",
+                                    "partName":  "ILHO DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90480-15878",
+                                    "partName":  "ILHO DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90480-13820",
+                                    "partName":  "ILHO DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95802-06010",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F411J-00",
+                                    "partName":  "AMORTIZADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "16",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F137X-00-P4",
+                                    "partName":  "TOMADA DE AR DIREITA 2",
+                                    "quantity":  1,
+                                    "remarks":  "MNM3",
+                                    "appSerial":  null,
+                                    "refNo":  "17",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F137V-00",
+                                    "partName":  "GUIA DE AR 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "18",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "97702-50016",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "19",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90480-12320",
+                                    "partName":  "ILHO DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "20",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90480-15878",
+                                    "partName":  "ILHO DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "21",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90480-13820",
+                                    "partName":  "ILHO DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "22",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95802-06010",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "23",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F411J-00",
+                                    "partName":  "AMORTIZADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "24",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F4216-00",
+                                    "partName":  "FIXADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "25",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95802-06010",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "26",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-E3907-01",
+                                    "partName":  "BOMBA DE COMBUSTIVEL COMPLETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "27",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-H5752-00",
+                                    "partName":  ". UNIDADE SENSOR DE COMB. CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "28",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F4491-01",
+                                    "partName":  "SUPORTE BOMBA DE COMBUSTIVEL",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "29",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "54P-F414G-10",
+                                    "partName":  "VEDACAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "30",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91312-05010",
+                                    "partName":  "PARAFUSO HEXAGONAL",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "31",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-24188-00",
+                                    "partName":  "MOLDURA DO TANQUE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "32",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "53P-2413H-20",
+                                    "partName":  "CAIXA FILTRADORA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "33",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F137C-40",
+                                    "partName":  "KIT GRAFICO TOMADA DE AR ESQ.",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA YB",
+                                    "appSerial":  null,
+                                    "refNo":  "34",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F137D-40",
+                                    "partName":  "KIT GRAFICO TOMADA DE AR DIR.",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA YB",
+                                    "appSerial":  null,
+                                    "refNo":  "35",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "22D-F118K-00",
+                                    "partName":  "ETIQUETA DE ATENCAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "36",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F815P-10",
+                                    "partName":  "ETIQUETA DE ADVERTENCIA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "37",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F413B-00",
+                                    "partName":  "EMBLEMA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "38",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F4602-00",
+                                    "partName":  "TAMPA DO TANQUE CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "39",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

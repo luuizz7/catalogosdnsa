@@ -1,0 +1,75 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  524,
+                                       "endPointX":  545,
+                                       "startPointY":  433,
+                                       "endPointY":  453
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  377,
+                                       "endPointX":  398,
+                                       "startPointY":  556,
+                                       "endPointY":  577
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  412,
+                                       "endPointX":  433,
+                                       "startPointY":  492,
+                                       "endPointY":  513
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  442,
+                                       "endPointX":  463,
+                                       "startPointY":  413,
+                                       "endPointY":  434
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "2CC-WF341-00",
+                                    "partName":  "KIT CAIXA DE DIRECAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93332-00079",
+                                    "partName":  ". ROLAMENTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93399-99949",
+                                    "partName":  ". ROLAMENTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HP-23416-00",
+                                    "partName":  ". CAPA DA PISTA DE ESFERA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

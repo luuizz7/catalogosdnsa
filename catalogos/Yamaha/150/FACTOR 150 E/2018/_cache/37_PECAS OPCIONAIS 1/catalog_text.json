@@ -1,0 +1,126 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  309,
+                                       "endPointX":  330,
+                                       "startPointY":  83,
+                                       "endPointY":  104
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  402,
+                                       "endPointX":  422,
+                                       "startPointY":  202,
+                                       "endPointY":  222
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  475,
+                                       "endPointX":  495,
+                                       "startPointY":  409,
+                                       "endPointY":  430
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  196,
+                                       "endPointX":  217,
+                                       "startPointY":  451,
+                                       "endPointY":  472
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  197,
+                                       "endPointX":  218,
+                                       "startPointY":  675,
+                                       "endPointY":  696
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  456,
+                                       "endPointX":  477,
+                                       "startPointY":  540,
+                                       "endPointY":  561
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  145,
+                                       "endPointX":  165,
+                                       "startPointY":  360,
+                                       "endPointY":  381
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1ST-WE001-10",
+                                    "partName":  "KIT DE GAXETAS",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-E1193-00",
+                                    "partName":  ". GAXETA DA TAMPA DO CABECOTE 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-E2435-00",
+                                    "partName":  ". GAXETA DA TAMPA DO CABECOTE 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-E1181-00",
+                                    "partName":  ". GAXETA, CABECOTE DO CILINDRO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-E1351-00",
+                                    "partName":  ". GAXETA DO CILINDRO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-E2213-00",
+                                    "partName":  ". GAXETA DA CAIXA DO TENSIONADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-E4613-00",
+                                    "partName":  ". GAXETA DO TUBO DE ESCAPE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

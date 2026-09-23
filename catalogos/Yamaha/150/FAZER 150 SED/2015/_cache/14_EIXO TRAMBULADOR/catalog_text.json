@@ -1,0 +1,143 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  292,
+                                       "endPointX":  312,
+                                       "startPointY":  734,
+                                       "endPointY":  754
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  441,
+                                       "endPointX":  462,
+                                       "startPointY":  751,
+                                       "endPointY":  772
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  415,
+                                       "endPointX":  435,
+                                       "startPointY":  731,
+                                       "endPointY":  752
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  555,
+                                       "endPointX":  576,
+                                       "startPointY":  215,
+                                       "endPointY":  236
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  271,
+                                       "endPointX":  292,
+                                       "startPointY":  331,
+                                       "endPointY":  352
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  491,
+                                       "endPointX":  512,
+                                       "startPointY":  179,
+                                       "endPointY":  200
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  214,
+                                       "endPointX":  235,
+                                       "startPointY":  357,
+                                       "endPointY":  377
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  342,
+                                       "endPointX":  362,
+                                       "startPointY":  214,
+                                       "endPointY":  235
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1ST-E8540-00",
+                                    "partName":  "CAME DE MUDANCA COMPLETO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-E8542-00",
+                                    "partName":  "PONTO NEUTRO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90501-06022",
+                                    "partName":  "MOLA DE COMPRESSAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1PM-E8511-00",
+                                    "partName":  "GARFO DE MUDANCA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1PM-E8512-00",
+                                    "partName":  "GARFO DE MUDANCA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1PM-E8513-00",
+                                    "partName":  "GARFO DE MUDANCA 3",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-E8531-00",
+                                    "partName":  "BARRA GUIA DO GARFO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-E8535-00",
+                                    "partName":  "BARRA GUIA DO GARFO 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

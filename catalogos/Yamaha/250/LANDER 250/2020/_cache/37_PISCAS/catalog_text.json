@@ -1,0 +1,327 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  538,
+                                       "endPointX":  559,
+                                       "startPointY":  605,
+                                       "endPointY":  625
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  415,
+                                       "endPointX":  436,
+                                       "startPointY":  724,
+                                       "endPointY":  745
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  444,
+                                       "endPointX":  465,
+                                       "startPointY":  715,
+                                       "endPointY":  736
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  564,
+                                       "endPointX":  585,
+                                       "startPointY":  672,
+                                       "endPointY":  693
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  202,
+                                       "endPointX":  223,
+                                       "startPointY":  456,
+                                       "endPointY":  477
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  178,
+                                       "endPointX":  199,
+                                       "startPointY":  636,
+                                       "endPointY":  657
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  201,
+                                       "endPointX":  222,
+                                       "startPointY":  609,
+                                       "endPointY":  630
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  285,
+                                       "endPointX":  306,
+                                       "startPointY":  522,
+                                       "endPointY":  543
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  324,
+                                       "endPointX":  345,
+                                       "startPointY":  665,
+                                       "endPointY":  686
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  370,
+                                       "endPointX":  390,
+                                       "startPointY":  687,
+                                       "endPointY":  708
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  514,
+                                       "endPointX":  535,
+                                       "startPointY":  251,
+                                       "endPointY":  272
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  496,
+                                       "endPointX":  517,
+                                       "startPointY":  298,
+                                       "endPointY":  319
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  474,
+                                       "endPointX":  494,
+                                       "startPointY":  340,
+                                       "endPointY":  361
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  393,
+                                       "endPointX":  414,
+                                       "startPointY":  426,
+                                       "endPointY":  447
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  168,
+                                       "endPointX":  189,
+                                       "startPointY":  73,
+                                       "endPointY":  94
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  263,
+                                       "endPointX":  284,
+                                       "startPointY":  199,
+                                       "endPointY":  220
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  199,
+                                       "endPointX":  220,
+                                       "startPointY":  213,
+                                       "endPointY":  233
+                                   },
+                                   {
+                                       "refNo":  "17",
+                                       "startPointX":  77,
+                                       "endPointX":  98,
+                                       "startPointY":  241,
+                                       "endPointY":  261
+                                   },
+                                   {
+                                       "refNo":  "18",
+                                       "startPointX":  304,
+                                       "endPointX":  325,
+                                       "startPointY":  395,
+                                       "endPointY":  415
+                                   },
+                                   {
+                                       "refNo":  "18",
+                                       "startPointX":  192,
+                                       "endPointX":  213,
+                                       "startPointY":  331,
+                                       "endPointY":  352
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1S4-H3310-31",
+                                    "partName":  "PISCA DIANTEIRO CONJ. 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-H334A-01",
+                                    "partName":  ". LENTE COMPLETA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2C1-H3311-20",
+                                    "partName":  ". LAMPADA DO PISCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-H3333-00",
+                                    "partName":  ". PARAFUSO DE FIXACAO DA LENTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-H3320-31",
+                                    "partName":  "PISCA DIANTEIRO CONJ. 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-H333A-01",
+                                    "partName":  ". LENTE COMPLETA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2C1-H3311-20",
+                                    "partName":  ". LAMPADA DO PISCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-H3333-00",
+                                    "partName":  ". PARAFUSO DE FIXACAO DA LENTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-H3318-00",
+                                    "partName":  "SUPORTE DO PISCA 1",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-H3330-11",
+                                    "partName":  "PISCA TRASEIRO CONJ. 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-H333A-01",
+                                    "partName":  ". LENTE COMPLETA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2C1-H3311-20",
+                                    "partName":  ". LAMPADA DO PISCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-H3333-00",
+                                    "partName":  ". PARAFUSO DE FIXACAO DA LENTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-H3340-11",
+                                    "partName":  "PISCA TRASEIRO CONJ. 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-H334A-01",
+                                    "partName":  ". LENTE COMPLETA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2C1-H3311-20",
+                                    "partName":  ". LAMPADA DO PISCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "16",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-H3333-00",
+                                    "partName":  ". PARAFUSO DE FIXACAO DA LENTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "17",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-H3318-00",
+                                    "partName":  "SUPORTE DO PISCA 1",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "18",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

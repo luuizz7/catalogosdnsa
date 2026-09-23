@@ -1,0 +1,66 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  350,
+                                       "endPointX":  371,
+                                       "startPointY":  122,
+                                       "endPointY":  143
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  324,
+                                       "endPointX":  344,
+                                       "startPointY":  121,
+                                       "endPointY":  142
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  527,
+                                       "endPointX":  548,
+                                       "startPointY":  309,
+                                       "endPointY":  329
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  128,
+                                       "endPointX":  149,
+                                       "startPointY":  307,
+                                       "endPointY":  328
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  310,
+                                       "endPointX":  331,
+                                       "startPointY":  393,
+                                       "endPointY":  413
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  339,
+                                       "endPointX":  359,
+                                       "startPointY":  396,
+                                       "endPointY":  417
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  160,
+                                       "endPointX":  181,
+                                       "startPointY":  540,
+                                       "endPointY":  561
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "4B4-F339E-00",
+                                    "partName":  "GRAFICO 1",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA DPBSE",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

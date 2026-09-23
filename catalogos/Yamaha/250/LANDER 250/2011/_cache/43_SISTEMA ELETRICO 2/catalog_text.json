@@ -1,0 +1,432 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  317,
+                                       "endPointX":  337,
+                                       "startPointY":  146,
+                                       "endPointY":  167
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  377,
+                                       "endPointX":  397,
+                                       "startPointY":  109,
+                                       "endPointY":  130
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  281,
+                                       "endPointX":  302,
+                                       "startPointY":  107,
+                                       "endPointY":  128
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  215,
+                                       "endPointX":  236,
+                                       "startPointY":  132,
+                                       "endPointY":  153
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  128,
+                                       "endPointX":  149,
+                                       "startPointY":  84,
+                                       "endPointY":  104
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  110,
+                                       "endPointX":  131,
+                                       "startPointY":  229,
+                                       "endPointY":  249
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  310,
+                                       "endPointX":  331,
+                                       "startPointY":  747,
+                                       "endPointY":  768
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  259,
+                                       "endPointX":  279,
+                                       "startPointY":  717,
+                                       "endPointY":  738
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  416,
+                                       "endPointX":  437,
+                                       "startPointY":  794,
+                                       "endPointY":  815
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  370,
+                                       "endPointX":  391,
+                                       "startPointY":  803,
+                                       "endPointY":  824
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  480,
+                                       "endPointX":  501,
+                                       "startPointY":  788,
+                                       "endPointY":  809
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  319,
+                                       "endPointX":  340,
+                                       "startPointY":  619,
+                                       "endPointY":  640
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  588,
+                                       "endPointX":  609,
+                                       "startPointY":  706,
+                                       "endPointY":  727
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  521,
+                                       "endPointX":  541,
+                                       "startPointY":  521,
+                                       "endPointY":  541
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  573,
+                                       "endPointX":  594,
+                                       "startPointY":  531,
+                                       "endPointY":  552
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  592,
+                                       "endPointX":  613,
+                                       "startPointY":  531,
+                                       "endPointY":  552
+                                   },
+                                   {
+                                       "refNo":  "17",
+                                       "startPointX":  586,
+                                       "endPointX":  607,
+                                       "startPointY":  785,
+                                       "endPointY":  806
+                                   },
+                                   {
+                                       "refNo":  "18",
+                                       "startPointX":  418,
+                                       "endPointX":  439,
+                                       "startPointY":  596,
+                                       "endPointY":  617
+                                   },
+                                   {
+                                       "refNo":  "19",
+                                       "startPointX":  436,
+                                       "endPointX":  457,
+                                       "startPointY":  683,
+                                       "endPointY":  704
+                                   },
+                                   {
+                                       "refNo":  "20",
+                                       "startPointX":  372,
+                                       "endPointX":  392,
+                                       "startPointY":  689,
+                                       "endPointY":  710
+                                   },
+                                   {
+                                       "refNo":  "21",
+                                       "startPointX":  574,
+                                       "endPointX":  595,
+                                       "startPointY":  226,
+                                       "endPointY":  247
+                                   },
+                                   {
+                                       "refNo":  "22",
+                                       "startPointX":  128,
+                                       "endPointX":  149,
+                                       "startPointY":  603,
+                                       "endPointY":  624
+                                   },
+                                   {
+                                       "refNo":  "23",
+                                       "startPointX":  79,
+                                       "endPointX":  100,
+                                       "startPointY":  615,
+                                       "endPointY":  636
+                                   },
+                                   {
+                                       "refNo":  "24",
+                                       "startPointX":  585,
+                                       "endPointX":  606,
+                                       "startPointY":  487,
+                                       "endPointY":  508
+                                   },
+                                   {
+                                       "refNo":  "25",
+                                       "startPointX":  537,
+                                       "endPointX":  558,
+                                       "startPointY":  481,
+                                       "endPointY":  502
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "4B4-H591A-10",
+                                    "partName":  "UNIDADE DE CONTROLE MOTORA CJ",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5D1-F1646-00",
+                                    "partName":  "CINTA DE FIXACAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4GR-82310-00",
+                                    "partName":  "BOBINA DE IGNICAO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "97007-06080",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9570M-06500",
+                                    "partName":  "PORCA FLANGE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-H2370-01",
+                                    "partName":  "CACHIMBO DA VELA CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4GY-82540-10",
+                                    "partName":  "INTERRUPTOR NEUTRO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90430-10148",
+                                    "partName":  "GAXETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90465-13152",
+                                    "partName":  "BRACADEIRA",
+                                    "quantity":  6,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90464-15195",
+                                    "partName":  "BRACADEIRA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90464-12089",
+                                    "partName":  "BRACADEIRA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90464-20181",
+                                    "partName":  "BRACADEIRA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90464-20213",
+                                    "partName":  "BRACADEIRA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90464-13077",
+                                    "partName":  "BRACADEIRA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90464-25004",
+                                    "partName":  "BRACADEIRA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90464-25004",
+                                    "partName":  "BRACADEIRA",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "16",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90465-13W06",
+                                    "partName":  "BRACADEIRA",
+                                    "quantity":  5,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "17",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90464-08007",
+                                    "partName":  "BRACADEIRA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "18",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90464-08M07",
+                                    "partName":  "BRACADEIRA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "19",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90464-25098",
+                                    "partName":  "BRACADEIRA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "20",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4B4-H3350-00",
+                                    "partName":  "RELE DO PISCA CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "21",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-H3371-01",
+                                    "partName":  "BUZINA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "22",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9580M-06010",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "23",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "23L-H5130-00",
+                                    "partName":  "REFLETOR TRASEIRO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "24",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9570M-06500",
+                                    "partName":  "PORCA FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "25",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

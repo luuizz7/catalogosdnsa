@@ -1,0 +1,92 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  353,
+                                       "endPointX":  374,
+                                       "startPointY":  117,
+                                       "endPointY":  137
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  327,
+                                       "endPointX":  348,
+                                       "startPointY":  117,
+                                       "endPointY":  138
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  516,
+                                       "endPointX":  537,
+                                       "startPointY":  445,
+                                       "endPointY":  466
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  159,
+                                       "endPointX":  180,
+                                       "startPointY":  456,
+                                       "endPointY":  477
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  161,
+                                       "endPointX":  182,
+                                       "startPointY":  522,
+                                       "endPointY":  542
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "4B4-F173E-B0",
+                                    "partName":  "GRAFICO 1",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA DPBSE",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4B4-F173F-B0",
+                                    "partName":  "GRAFICO 2",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA DPBSE",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4B4-F137C-50",
+                                    "partName":  "KIT GRAFICO TOMADA DE AR ESQ.",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA DPBSE",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4B4-F137D-50",
+                                    "partName":  "KIT GRAFICO TOMADA DE AR DIR.",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA DPBSE",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4B4-F339E-00",
+                                    "partName":  "GRAFICO 1",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA DPBSE",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

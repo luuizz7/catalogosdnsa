@@ -1,0 +1,325 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  534,
+                                       "endPointX":  555,
+                                       "startPointY":  646,
+                                       "endPointY":  667
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  394,
+                                       "endPointX":  415,
+                                       "startPointY":  740,
+                                       "endPointY":  761
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  524,
+                                       "endPointX":  545,
+                                       "startPointY":  559,
+                                       "endPointY":  580
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  325,
+                                       "endPointX":  346,
+                                       "startPointY":  707,
+                                       "endPointY":  728
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  518,
+                                       "endPointX":  538,
+                                       "startPointY":  521,
+                                       "endPointY":  542
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  288,
+                                       "endPointX":  309,
+                                       "startPointY":  700,
+                                       "endPointY":  721
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  572,
+                                       "endPointX":  593,
+                                       "startPointY":  416,
+                                       "endPointY":  436
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  504,
+                                       "endPointX":  525,
+                                       "startPointY":  440,
+                                       "endPointY":  461
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  225,
+                                       "endPointX":  246,
+                                       "startPointY":  674,
+                                       "endPointY":  695
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  175,
+                                       "endPointX":  196,
+                                       "startPointY":  724,
+                                       "endPointY":  744
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  511,
+                                       "endPointX":  532,
+                                       "startPointY":  478,
+                                       "endPointY":  499
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  253,
+                                       "endPointX":  274,
+                                       "startPointY":  686,
+                                       "endPointY":  706
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  527,
+                                       "endPointX":  547,
+                                       "startPointY":  590,
+                                       "endPointY":  611
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  356,
+                                       "endPointX":  377,
+                                       "startPointY":  725,
+                                       "endPointY":  746
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  374,
+                                       "endPointX":  395,
+                                       "startPointY":  151,
+                                       "endPointY":  172
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  365,
+                                       "endPointX":  386,
+                                       "startPointY":  175,
+                                       "endPointY":  196
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  344,
+                                       "endPointX":  365,
+                                       "startPointY":  163,
+                                       "endPointY":  183
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  234,
+                                       "endPointX":  255,
+                                       "startPointY":  266,
+                                       "endPointY":  286
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  398,
+                                       "endPointX":  419,
+                                       "startPointY":  263,
+                                       "endPointY":  284
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  431,
+                                       "endPointX":  452,
+                                       "startPointY":  223,
+                                       "endPointY":  244
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  477,
+                                       "endPointX":  498,
+                                       "startPointY":  301,
+                                       "endPointY":  322
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  186,
+                                       "endPointX":  207,
+                                       "startPointY":  467,
+                                       "endPointY":  488
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  189,
+                                       "endPointX":  210,
+                                       "startPointY":  437,
+                                       "endPointY":  458
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  166,
+                                       "endPointX":  187,
+                                       "startPointY":  423,
+                                       "endPointY":  444
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "BK7-E2111-00",
+                                    "partName":  "VALVULA DE ADMISSAO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B0T-E2121-00",
+                                    "partName":  "VALVULA DE ESCAPE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1GC-E2119-00",
+                                    "partName":  "RETENTOR DA HASTE DA VALVULA",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B63-E2113-00",
+                                    "partName":  "MOLA INTERNA DA VALVULA",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5TL-E2118-00",
+                                    "partName":  "TRAVA DA VALVULA",
+                                    "quantity":  8,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B7J-E2117-00",
+                                    "partName":  "ASSENTO SUPERIOR DA MOLA",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "38B-E2126-00",
+                                    "partName":  "ASSENTO DA MOLA DA VALVULA 2",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BK6-E2150-00",
+                                    "partName":  "BRACO DO BALANCIM DA VALVULA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90170-05803",
+                                    "partName":  ". PORCA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BCW-E2166-00",
+                                    "partName":  "EIXO DO BALANCIM 3",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BK6-E1557-00",
+                                    "partName":  "ARRUELA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BK6-E2226-00",
+                                    "partName":  "MOLA DO BRACO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BK7-E2279-00",
+                                    "partName":  "PLACA DE FIXACAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BCW-E2160-00",
+                                    "partName":  "BRACO DO BALANCIM DA VALVULA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90170-05302",
+                                    "partName":  ". PORCA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

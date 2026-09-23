@@ -1,0 +1,227 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  512,
+                                       "endPointX":  533,
+                                       "startPointY":  240,
+                                       "endPointY":  260
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  366,
+                                       "endPointX":  387,
+                                       "startPointY":  221,
+                                       "endPointY":  242
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  378,
+                                       "endPointX":  399,
+                                       "startPointY":  281,
+                                       "endPointY":  302
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  429,
+                                       "endPointX":  450,
+                                       "startPointY":  311,
+                                       "endPointY":  332
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  198,
+                                       "endPointX":  219,
+                                       "startPointY":  191,
+                                       "endPointY":  211
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  395,
+                                       "endPointX":  415,
+                                       "startPointY":  171,
+                                       "endPointY":  192
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  514,
+                                       "endPointX":  535,
+                                       "startPointY":  586,
+                                       "endPointY":  607
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  346,
+                                       "endPointX":  366,
+                                       "startPointY":  704,
+                                       "endPointY":  725
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  292,
+                                       "endPointX":  312,
+                                       "startPointY":  675,
+                                       "endPointY":  696
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  251,
+                                       "endPointX":  272,
+                                       "startPointY":  650,
+                                       "endPointY":  671
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "B37-E1630-00-A0",
+                                    "partName":  "KIT DO PISTAO (STD)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B37-E1630-10",
+                                    "partName":  "KIT DO PISTAO (0.25MM O/S)",
+                                    "quantity":  1,
+                                    "remarks":  "AP",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B37-E1630-20",
+                                    "partName":  "KIT DO PISTAO (0.50MM O/S)",
+                                    "quantity":  1,
+                                    "remarks":  "AP",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B37-E1631-00-A0",
+                                    "partName":  ". PISTAO (STD)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B37-E1635-09",
+                                    "partName":  ". PISTAO (0.25MM O/S)",
+                                    "quantity":  1,
+                                    "remarks":  "AP",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B37-E1636-09",
+                                    "partName":  ". PISTAO (0.50MM O/S)",
+                                    "quantity":  1,
+                                    "remarks":  "AP",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B37-E1633-00",
+                                    "partName":  ". PINO DO PISTAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93450-16068",
+                                    "partName":  ". ANEL TRAVA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B37-E1603-00",
+                                    "partName":  ". JOGO DE ANEIS (STD)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B37-E1604-00",
+                                    "partName":  ". JOGO DE ANEIS (0.25MM O/S)",
+                                    "quantity":  1,
+                                    "remarks":  "AP",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B37-E1605-00",
+                                    "partName":  ". JOGO DE ANEIS (0.50MM O/S)",
+                                    "quantity":  1,
+                                    "remarks":  "AP",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-E1650-10",
+                                    "partName":  "BIELA COMPLETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "21C-E1681-01",
+                                    "partName":  ". PINO DO VIRABREQUIM 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93310-628X0",
+                                    "partName":  ". ROLAMENTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-E1651-00",
+                                    "partName":  ". BIELA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

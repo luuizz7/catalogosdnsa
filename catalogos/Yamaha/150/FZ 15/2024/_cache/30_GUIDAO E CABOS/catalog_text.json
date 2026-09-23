@@ -1,0 +1,293 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  317,
+                                       "endPointX":  337,
+                                       "startPointY":  446,
+                                       "endPointY":  466
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  104,
+                                       "endPointX":  124,
+                                       "startPointY":  613,
+                                       "endPointY":  633
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  217,
+                                       "endPointX":  237,
+                                       "startPointY":  287,
+                                       "endPointY":  307
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  115,
+                                       "endPointX":  135,
+                                       "startPointY":  318,
+                                       "endPointY":  338
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  75,
+                                       "endPointX":  95,
+                                       "startPointY":  360,
+                                       "endPointY":  380
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  78,
+                                       "endPointX":  98,
+                                       "startPointY":  379,
+                                       "endPointY":  399
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  265,
+                                       "endPointX":  285,
+                                       "startPointY":  564,
+                                       "endPointY":  584
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  394,
+                                       "endPointX":  414,
+                                       "startPointY":  638,
+                                       "endPointY":  658
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  342,
+                                       "endPointX":  362,
+                                       "startPointY":  600,
+                                       "endPointY":  620
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  313,
+                                       "endPointX":  333,
+                                       "startPointY":  584,
+                                       "endPointY":  604
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  540,
+                                       "endPointX":  560,
+                                       "startPointY":  400,
+                                       "endPointY":  420
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  173,
+                                       "endPointX":  193,
+                                       "startPointY":  235,
+                                       "endPointY":  255
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  128,
+                                       "endPointX":  148,
+                                       "startPointY":  179,
+                                       "endPointY":  199
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  603,
+                                       "endPointX":  623,
+                                       "startPointY":  417,
+                                       "endPointY":  437
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  363,
+                                       "endPointX":  383,
+                                       "startPointY":  378,
+                                       "endPointY":  398
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  401,
+                                       "endPointX":  421,
+                                       "startPointY":  394,
+                                       "endPointY":  414
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  362,
+                                       "endPointX":  382,
+                                       "startPointY":  276,
+                                       "endPointY":  296
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  328,
+                                       "endPointX":  348,
+                                       "startPointY":  301,
+                                       "endPointY":  321
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "BFW-F6111-00",
+                                    "partName":  "GUIDAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BGK-F6302-00",
+                                    "partName":  "CABO ACELERADOR CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1C6-F6281-01",
+                                    "partName":  "CAPA DA MANOPLA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1C6-F6282-00",
+                                    "partName":  "CAPA DA MANOPLA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "98502-05020",
+                                    "partName":  "PARAFUSO CABECA DE PANELA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BFW-F6335-00",
+                                    "partName":  "CABO DE EMBREAGEM",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4TL-F6372-01",
+                                    "partName":  "CAPA DA ALAVANCA DO GUIDAO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90123-08046",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90179-08148",
+                                    "partName":  "PORCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F6241-00",
+                                    "partName":  "MANOPLA ESQUERDA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F6240-10",
+                                    "partName":  "MANOPLA DIREITA CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "21C-F620B-40",
+                                    "partName":  "TERMINACAO DA MANOPLA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B3G-F6280-00",
+                                    "partName":  "ESPELHO RETROVISOR CONJ. (ESQ)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B3G-F629T-00",
+                                    "partName":  ". BOTA DO ESPELHO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B3G-F6290-00",
+                                    "partName":  "ESPELHO RETROVISOR CONJ. (DIR)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B3G-F629T-00",
+                                    "partName":  ". BOTA DO ESPELHO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "16",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

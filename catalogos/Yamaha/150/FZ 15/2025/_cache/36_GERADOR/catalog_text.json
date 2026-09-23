@@ -1,0 +1,109 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  95,
+                                       "endPointX":  115,
+                                       "startPointY":  632,
+                                       "endPointY":  652
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  354,
+                                       "endPointX":  374,
+                                       "startPointY":  746,
+                                       "endPointY":  766
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  332,
+                                       "endPointX":  352,
+                                       "startPointY":  467,
+                                       "endPointY":  487
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  425,
+                                       "endPointX":  445,
+                                       "startPointY":  434,
+                                       "endPointY":  454
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  283,
+                                       "endPointX":  303,
+                                       "startPointY":  647,
+                                       "endPointY":  667
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  242,
+                                       "endPointX":  262,
+                                       "startPointY":  624,
+                                       "endPointY":  644
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1ST-H1450-01",
+                                    "partName":  "ROTOR DO MAGNETO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-H1410-13",
+                                    "partName":  "ESTATOR CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91312-06025",
+                                    "partName":  "PARAFUSO HEXAGONAL INTERNO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91312-06016",
+                                    "partName":  "PARAFUSO HEXAGONAL",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95707-12500",
+                                    "partName":  "PORCA FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-122H1",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

@@ -1,0 +1,72 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  520,
+                                       "endPointX":  541,
+                                       "startPointY":  425,
+                                       "endPointY":  446
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  311,
+                                       "endPointX":  332,
+                                       "startPointY":  295,
+                                       "endPointY":  316
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  448,
+                                       "endPointX":  468,
+                                       "startPointY":  380,
+                                       "endPointY":  401
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  172,
+                                       "endPointX":  193,
+                                       "startPointY":  468,
+                                       "endPointY":  489
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  315,
+                                       "endPointX":  336,
+                                       "startPointY":  575,
+                                       "endPointY":  595
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "5RM-WF741-00",
+                                    "partName":  "KIT CAPA DO ESTRIBO DIANTEIRO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5RM-F7413-00",
+                                    "partName":  ". CAPA DO ESTRIBO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9131M-06010",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

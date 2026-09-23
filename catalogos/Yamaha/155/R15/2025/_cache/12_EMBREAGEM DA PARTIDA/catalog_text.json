@@ -1,0 +1,126 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  383,
+                                       "endPointX":  403,
+                                       "startPointY":  426,
+                                       "endPointY":  447
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  326,
+                                       "endPointX":  347,
+                                       "startPointY":  392,
+                                       "endPointY":  413
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  328,
+                                       "endPointX":  349,
+                                       "startPointY":  708,
+                                       "endPointY":  729
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  289,
+                                       "endPointX":  309,
+                                       "startPointY":  616,
+                                       "endPointY":  637
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  241,
+                                       "endPointX":  261,
+                                       "startPointY":  584,
+                                       "endPointY":  605
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  547,
+                                       "endPointX":  568,
+                                       "startPointY":  604,
+                                       "endPointY":  625
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  473,
+                                       "endPointX":  494,
+                                       "startPointY":  557,
+                                       "endPointY":  578
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1CK-E5514-00",
+                                    "partName":  "ENGRENAGEM 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BK7-E5521-00",
+                                    "partName":  "EIXO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2FB-E5524-00",
+                                    "partName":  "POLIA DA PARTIDA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93310-325YC",
+                                    "partName":  "ROLAMENTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-25290",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2GS-E5580-10",
+                                    "partName":  "EMBREAGEM DE PARTIDA EXTERNA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91312-06020",
+                                    "partName":  "PARAFUSO HEXAGONAL",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

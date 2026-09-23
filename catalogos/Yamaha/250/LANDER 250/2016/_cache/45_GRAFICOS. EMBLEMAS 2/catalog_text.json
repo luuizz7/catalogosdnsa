@@ -1,0 +1,76 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  352,
+                                       "endPointX":  373,
+                                       "startPointY":  105,
+                                       "endPointY":  126
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  328,
+                                       "endPointX":  349,
+                                       "startPointY":  106,
+                                       "endPointY":  127
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  547,
+                                       "endPointX":  568,
+                                       "startPointY":  284,
+                                       "endPointY":  305
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  102,
+                                       "endPointX":  123,
+                                       "startPointY":  285,
+                                       "endPointY":  306
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  312,
+                                       "endPointX":  333,
+                                       "startPointY":  362,
+                                       "endPointY":  383
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  340,
+                                       "endPointX":  360,
+                                       "startPointY":  361,
+                                       "endPointY":  382
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  159,
+                                       "endPointX":  180,
+                                       "startPointY":  501,
+                                       "endPointY":  521
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "4B4-F137C-L0",
+                                    "partName":  "KIT GRAFICO TOMADA DE AR ESQ.",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA VYRS4",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4B4-F339E-70",
+                                    "partName":  "GRAFICO 1",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA VYRS4",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

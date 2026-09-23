@@ -1,0 +1,126 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  423,
+                                       "endPointX":  443,
+                                       "startPointY":  263,
+                                       "endPointY":  283
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  453,
+                                       "endPointX":  473,
+                                       "startPointY":  357,
+                                       "endPointY":  377
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  443,
+                                       "endPointX":  463,
+                                       "startPointY":  436,
+                                       "endPointY":  456
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  173,
+                                       "endPointX":  193,
+                                       "startPointY":  228,
+                                       "endPointY":  248
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  311,
+                                       "endPointX":  331,
+                                       "startPointY":  625,
+                                       "endPointY":  645
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  437,
+                                       "endPointX":  457,
+                                       "startPointY":  697,
+                                       "endPointY":  717
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  565,
+                                       "endPointX":  585,
+                                       "startPointY":  634,
+                                       "endPointY":  654
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1DR-H1890-04",
+                                    "partName":  ". MOTOR DE PARTIDA COMPLETO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2BM-WH18E-00",
+                                    "partName":  ". . JOGO DE ESCOVAS",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5D9-H1861-00",
+                                    "partName":  ". . . GAXETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5D9-H1828-00",
+                                    "partName":  ". . PARAFUSO 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2GS-H183G-00",
+                                    "partName":  ". CHICOTE DO MOTOR COMPLETO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91342-06020",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93210-29803",
+                                    "partName":  "ANEL DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

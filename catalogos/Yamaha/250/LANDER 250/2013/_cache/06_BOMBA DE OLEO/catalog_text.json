@@ -1,0 +1,368 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  284,
+                                       "endPointX":  305,
+                                       "startPointY":  570,
+                                       "endPointY":  590
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  174,
+                                       "endPointX":  195,
+                                       "startPointY":  504,
+                                       "endPointY":  525
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  189,
+                                       "endPointX":  210,
+                                       "startPointY":  579,
+                                       "endPointY":  600
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  139,
+                                       "endPointX":  160,
+                                       "startPointY":  484,
+                                       "endPointY":  505
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  108,
+                                       "endPointX":  128,
+                                       "startPointY":  467,
+                                       "endPointY":  487
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  329,
+                                       "endPointX":  350,
+                                       "startPointY":  595,
+                                       "endPointY":  616
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  238,
+                                       "endPointX":  259,
+                                       "startPointY":  540,
+                                       "endPointY":  561
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  108,
+                                       "endPointX":  128,
+                                       "startPointY":  673,
+                                       "endPointY":  694
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  116,
+                                       "endPointX":  137,
+                                       "startPointY":  732,
+                                       "endPointY":  753
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  350,
+                                       "endPointX":  371,
+                                       "startPointY":  237,
+                                       "endPointY":  258
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  254,
+                                       "endPointX":  274,
+                                       "startPointY":  180,
+                                       "endPointY":  201
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  320,
+                                       "endPointX":  341,
+                                       "startPointY":  219,
+                                       "endPointY":  240
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  283,
+                                       "endPointX":  304,
+                                       "startPointY":  198,
+                                       "endPointY":  219
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  93,
+                                       "endPointX":  114,
+                                       "startPointY":  278,
+                                       "endPointY":  298
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  133,
+                                       "endPointX":  154,
+                                       "startPointY":  345,
+                                       "endPointY":  366
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  214,
+                                       "endPointX":  234,
+                                       "startPointY":  156,
+                                       "endPointY":  177
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  542,
+                                       "endPointX":  563,
+                                       "startPointY":  135,
+                                       "endPointY":  156
+                                   },
+                                   {
+                                       "refNo":  "17",
+                                       "startPointX":  271,
+                                       "endPointX":  292,
+                                       "startPointY":  103,
+                                       "endPointY":  124
+                                   },
+                                   {
+                                       "refNo":  "18",
+                                       "startPointX":  292,
+                                       "endPointX":  313,
+                                       "startPointY":  177,
+                                       "endPointY":  198
+                                   },
+                                   {
+                                       "refNo":  "18",
+                                       "startPointX":  280,
+                                       "endPointX":  301,
+                                       "startPointY":  137,
+                                       "endPointY":  158
+                                   },
+                                   {
+                                       "refNo":  "19",
+                                       "startPointX":  571,
+                                       "endPointX":  591,
+                                       "startPointY":  270,
+                                       "endPointY":  291
+                                   },
+                                   {
+                                       "refNo":  "20",
+                                       "startPointX":  492,
+                                       "endPointX":  513,
+                                       "startPointY":  225,
+                                       "endPointY":  246
+                                   },
+                                   {
+                                       "refNo":  "20",
+                                       "startPointX":  530,
+                                       "endPointX":  550,
+                                       "startPointY":  247,
+                                       "endPointY":  268
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "44C-E3300-00",
+                                    "partName":  "BOMBA DE OLEO COMPLETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "12B-E3326-10",
+                                    "partName":  "ENGRENAGEM MOTRIZ DA BOMBA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93603-12803",
+                                    "partName":  "PINO GUIA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "92902-08200",
+                                    "partName":  "ARRUELA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "99009-08400",
+                                    "partName":  "ANEL TRAVA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-E3329-00",
+                                    "partName":  "GAXETA DA TAMPA DA BOMBA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "92012-06035",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90430-06156",
+                                    "partName":  "GAXETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-E3411-01",
+                                    "partName":  "FILTRADOR DE OLEO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5D3-13440-01",
+                                    "partName":  "ELEMENTO DO FILTRO DE OLEO CJ",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-E3447-00",
+                                    "partName":  "TAMPA DO ELEMENTO DE OLEO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93210-54175",
+                                    "partName":  "ANEL DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93210-07135",
+                                    "partName":  "ANEL DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91314-06070",
+                                    "partName":  "PARAFUSO HEXAGONAL INTERNO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91314-06020",
+                                    "partName":  "PARAFUSO HEXAGONAL INTERNO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5XT-13161-01",
+                                    "partName":  "TUBO DE DELIBERACAO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "16",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90401-10817",
+                                    "partName":  "PARAFUSO DE UNIAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "17",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90430-10171",
+                                    "partName":  "GAXETA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "18",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90401-08802",
+                                    "partName":  "PARAFUSO DE UNIAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "19",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90430-08119",
+                                    "partName":  "GAXETA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "20",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

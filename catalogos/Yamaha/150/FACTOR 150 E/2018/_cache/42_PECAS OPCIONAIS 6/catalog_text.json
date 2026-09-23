@@ -1,0 +1,75 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  157,
+                                       "endPointX":  178,
+                                       "startPointY":  371,
+                                       "endPointY":  391
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  101,
+                                       "endPointX":  122,
+                                       "startPointY":  419,
+                                       "endPointY":  440
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  445,
+                                       "endPointX":  466,
+                                       "startPointY":  220,
+                                       "endPointY":  241
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  397,
+                                       "endPointX":  418,
+                                       "startPointY":  263,
+                                       "endPointY":  283
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "18D-F510S-09",
+                                    "partName":  "PNEU DIANT. 2.75-18M/C TT",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F510T-09",
+                                    "partName":  "CAMARA DE AR YG-18",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-F510K-09",
+                                    "partName":  "PNEU TRAS. 90/90-18M/C TT",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F510T-09",
+                                    "partName":  "CAMARA DE AR YG-18",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

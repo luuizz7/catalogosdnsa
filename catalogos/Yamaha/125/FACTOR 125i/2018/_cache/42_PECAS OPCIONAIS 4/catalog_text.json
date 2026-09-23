@@ -1,0 +1,228 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  498,
+                                       "endPointX":  518,
+                                       "startPointY":  208,
+                                       "endPointY":  229
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  227,
+                                       "endPointX":  248,
+                                       "startPointY":  231,
+                                       "endPointY":  252
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  362,
+                                       "endPointX":  383,
+                                       "startPointY":  111,
+                                       "endPointY":  131
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  253,
+                                       "endPointX":  273,
+                                       "startPointY":  187,
+                                       "endPointY":  207
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  288,
+                                       "endPointX":  309,
+                                       "startPointY":  213,
+                                       "endPointY":  234
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  336,
+                                       "endPointX":  357,
+                                       "startPointY":  411,
+                                       "endPointY":  432
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  326,
+                                       "endPointX":  346,
+                                       "startPointY":  506,
+                                       "endPointY":  527
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  468,
+                                       "endPointX":  489,
+                                       "startPointY":  512,
+                                       "endPointY":  533
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  264,
+                                       "endPointX":  285,
+                                       "startPointY":  472,
+                                       "endPointY":  493
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  238,
+                                       "endPointX":  259,
+                                       "startPointY":  456,
+                                       "endPointY":  476
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  424,
+                                       "endPointX":  444,
+                                       "startPointY":  601,
+                                       "endPointY":  622
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  425,
+                                       "endPointX":  446,
+                                       "startPointY":  646,
+                                       "endPointY":  666
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  194,
+                                       "endPointX":  215,
+                                       "startPointY":  605,
+                                       "endPointY":  626
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "B37-W001A-00",
+                                    "partName":  "KIT DE TRANSMISSAO (43D)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93823-14821",
+                                    "partName":  ". PINHAO (14D)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B37-F5443-00",
+                                    "partName":  ". COROA DA RODA TRASEIRA (43D)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F53C0-00",
+                                    "partName":  ". CORRENTE (DID428MX 126L)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "94668-G4001",
+                                    "partName":  ". . JUNCAO DA CORRENTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F7100-00",
+                                    "partName":  "KIT CAVALETE CENTRAL",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F7111-00",
+                                    "partName":  ". CAVALETE CENTRAL",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F7112-00",
+                                    "partName":  ". EIXO DO CAVALETE CENTRAL",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-163H8",
+                                    "partName":  ". ARRUELA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91401-30030",
+                                    "partName":  ". CONTRAPINO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F7116-00",
+                                    "partName":  ". MOLA DO CAVALETE CENTRAL",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F247A-00",
+                                    "partName":  ". MANGUEIRA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VV-F7214-00",
+                                    "partName":  ". LIMITADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

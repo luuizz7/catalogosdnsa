@@ -1,0 +1,41 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  566,
+                                       "endPointX":  587,
+                                       "startPointY":  338,
+                                       "endPointY":  359
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  473,
+                                       "endPointX":  493,
+                                       "startPointY":  644,
+                                       "endPointY":  665
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "2CC-WF01A-09",
+                                    "partName":  "KIT DE TRANSMISSAO",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-WF534-09",
+                                    "partName":  "JOGO DE SAPATA DE FREIO 2",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

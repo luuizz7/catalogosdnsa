@@ -1,0 +1,116 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  353,
+                                       "endPointX":  374,
+                                       "startPointY":  124,
+                                       "endPointY":  145
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  326,
+                                       "endPointX":  347,
+                                       "startPointY":  122,
+                                       "endPointY":  143
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  327,
+                                       "endPointX":  348,
+                                       "startPointY":  208,
+                                       "endPointY":  229
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  356,
+                                       "endPointX":  377,
+                                       "startPointY":  207,
+                                       "endPointY":  228
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  339,
+                                       "endPointX":  360,
+                                       "startPointY":  428,
+                                       "endPointY":  449
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  318,
+                                       "endPointX":  338,
+                                       "startPointY":  429,
+                                       "endPointY":  450
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  163,
+                                       "endPointX":  183,
+                                       "startPointY":  538,
+                                       "endPointY":  559
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "4B4-F174G-40",
+                                    "partName":  "GRAFICO 3",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA DPBSE",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4B4-F174H-40",
+                                    "partName":  "GRAFICO 4",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA DPBSE",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4B4-F1781-60",
+                                    "partName":  "EMBLEMA BLUEFLEX",
+                                    "quantity":  2,
+                                    "remarks":  "UR PARA DPBSE",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4B4-F159A-40",
+                                    "partName":  "JOGO DE GRAFICOS 1",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA DPBSE",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4B4-F159B-40",
+                                    "partName":  "JOGO DE GRAFICOS 2",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA DPBSE",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4B4-F339E-B0",
+                                    "partName":  "GRAFICO 1",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA DPBSE",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

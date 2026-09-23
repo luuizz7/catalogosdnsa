@@ -1,0 +1,92 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  282,
+                                       "endPointX":  303,
+                                       "startPointY":  154,
+                                       "endPointY":  175
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  95,
+                                       "endPointX":  116,
+                                       "startPointY":  466,
+                                       "endPointY":  487
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  216,
+                                       "endPointX":  237,
+                                       "startPointY":  338,
+                                       "endPointY":  359
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  203,
+                                       "endPointX":  223,
+                                       "startPointY":  550,
+                                       "endPointY":  570
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  364,
+                                       "endPointX":  385,
+                                       "startPointY":  424,
+                                       "endPointY":  445
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1ST-WF01A-09",
+                                    "partName":  "KIT DE TRANSMISSAO (41D)",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-F5805-09",
+                                    "partName":  "KIT DE PASTILHAS DE FREIO",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-WF534-09",
+                                    "partName":  "JOGO DE SAPATA DE FREIO 2",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "18D-F510S-19",
+                                    "partName":  "PNEU DIANT. 2.75-18M/C TL",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F510K-09",
+                                    "partName":  "PNEU TRAS. 100/80-18M/C TL",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

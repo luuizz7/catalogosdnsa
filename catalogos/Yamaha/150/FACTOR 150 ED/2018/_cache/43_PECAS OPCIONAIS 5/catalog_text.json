@@ -1,0 +1,58 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  491,
+                                       "endPointX":  512,
+                                       "startPointY":  341,
+                                       "endPointY":  362
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  309,
+                                       "endPointX":  330,
+                                       "startPointY":  617,
+                                       "endPointY":  638
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  535,
+                                       "endPointX":  556,
+                                       "startPointY":  618,
+                                       "endPointY":  639
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "2RP-WF01A-09",
+                                    "partName":  "KIT DE TRANSMISSAO (38D)",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2RP-F5805-09",
+                                    "partName":  "KIT DE PASTILHAS DE FREIO",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-WF534-09",
+                                    "partName":  "JOGO DE SAPATA DE FREIO 2",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

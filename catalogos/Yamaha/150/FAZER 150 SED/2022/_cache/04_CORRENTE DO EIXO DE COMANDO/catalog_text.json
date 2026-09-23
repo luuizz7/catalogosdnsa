@@ -1,0 +1,303 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  133,
+                                       "endPointX":  153,
+                                       "startPointY":  386,
+                                       "endPointY":  407
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  247,
+                                       "endPointX":  268,
+                                       "startPointY":  315,
+                                       "endPointY":  336
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  135,
+                                       "endPointX":  155,
+                                       "startPointY":  258,
+                                       "endPointY":  278
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  231,
+                                       "endPointX":  252,
+                                       "startPointY":  308,
+                                       "endPointY":  329
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  192,
+                                       "endPointX":  213,
+                                       "startPointY":  368,
+                                       "endPointY":  389
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  109,
+                                       "endPointX":  130,
+                                       "startPointY":  215,
+                                       "endPointY":  236
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  487,
+                                       "endPointX":  508,
+                                       "startPointY":  253,
+                                       "endPointY":  274
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  269,
+                                       "endPointX":  290,
+                                       "startPointY":  462,
+                                       "endPointY":  483
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  264,
+                                       "endPointX":  285,
+                                       "startPointY":  226,
+                                       "endPointY":  246
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  369,
+                                       "endPointX":  390,
+                                       "startPointY":  483,
+                                       "endPointY":  504
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  373,
+                                       "endPointX":  394,
+                                       "startPointY":  338,
+                                       "endPointY":  359
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  252,
+                                       "endPointX":  273,
+                                       "startPointY":  611,
+                                       "endPointY":  632
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  448,
+                                       "endPointX":  469,
+                                       "startPointY":  690,
+                                       "endPointY":  710
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  415,
+                                       "endPointX":  435,
+                                       "startPointY":  670,
+                                       "endPointY":  691
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  478,
+                                       "endPointX":  498,
+                                       "startPointY":  704,
+                                       "endPointY":  725
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  567,
+                                       "endPointX":  587,
+                                       "startPointY":  499,
+                                       "endPointY":  520
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  519,
+                                       "endPointX":  540,
+                                       "startPointY":  527,
+                                       "endPointY":  548
+                                   },
+                                   {
+                                       "refNo":  "17",
+                                       "startPointX":  609,
+                                       "endPointX":  630,
+                                       "startPointY":  471,
+                                       "endPointY":  492
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1ST-E2170-00",
+                                    "partName":  "EIXO DE COMANDO COMPLETO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93306-906Y4",
+                                    "partName":  ". ROLAMENTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93210-12801",
+                                    "partName":  ". ANEL DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93605-06800",
+                                    "partName":  ". PINO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93306-002YW",
+                                    "partName":  "ROLAMENTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2GS-E111F-00",
+                                    "partName":  "PLACA DE FIXACAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-E2280-00",
+                                    "partName":  "DESCOMPRESSOR COMPLETO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1PM-E2288-01",
+                                    "partName":  "CAME DE DESCOMPRESSAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-08196",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "94568-F9096",
+                                    "partName":  "CORRENTE (DID SCR-0404 SV)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-E2231-00",
+                                    "partName":  "GUIA LIMITADORA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2GS-E2241-00",
+                                    "partName":  "GUIA LIMITADORA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4LS-E5598-00",
+                                    "partName":  "ESPACADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90149-06829",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-E2210-00",
+                                    "partName":  "TENSIONADOR DA CORRENTE CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-E2213-00",
+                                    "partName":  "GAXETA DA CAIXA DO TENSIONADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "16",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90110-06393",
+                                    "partName":  "PARAFUSO HEXAGONAL INTERNO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "17",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

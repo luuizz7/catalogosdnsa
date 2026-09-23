@@ -1,0 +1,252 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  371,
+                                       "endPointX":  392,
+                                       "startPointY":  161,
+                                       "endPointY":  182
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  114,
+                                       "endPointX":  135,
+                                       "startPointY":  695,
+                                       "endPointY":  716
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  80,
+                                       "endPointX":  101,
+                                       "startPointY":  677,
+                                       "endPointY":  698
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  242,
+                                       "endPointX":  263,
+                                       "startPointY":  770,
+                                       "endPointY":  791
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  200,
+                                       "endPointX":  221,
+                                       "startPointY":  189,
+                                       "endPointY":  210
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  228,
+                                       "endPointX":  248,
+                                       "startPointY":  218,
+                                       "endPointY":  238
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  105,
+                                       "endPointX":  126,
+                                       "startPointY":  256,
+                                       "endPointY":  277
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  181,
+                                       "endPointX":  202,
+                                       "startPointY":  304,
+                                       "endPointY":  324
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  427,
+                                       "endPointX":  447,
+                                       "startPointY":  491,
+                                       "endPointY":  511
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  382,
+                                       "endPointX":  403,
+                                       "startPointY":  675,
+                                       "endPointY":  696
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  209,
+                                       "endPointX":  230,
+                                       "startPointY":  470,
+                                       "endPointY":  491
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  196,
+                                       "endPointX":  217,
+                                       "startPointY":  567,
+                                       "endPointY":  588
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  299,
+                                       "endPointX":  320,
+                                       "startPointY":  218,
+                                       "endPointY":  238
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  270,
+                                       "endPointX":  291,
+                                       "startPointY":  200,
+                                       "endPointY":  221
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  75,
+                                       "endPointX":  96,
+                                       "startPointY":  636,
+                                       "endPointY":  657
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1ST-F1110-00",
+                                    "partName":  "QUADRO COMPLETO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F1316-00",
+                                    "partName":  "SUPORTE DO MOTOR 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-10282",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90179-10658",
+                                    "partName":  "PORCA",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-F1317-00",
+                                    "partName":  "SUPORTE DO MOTOR 3",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95812-08016",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-08229",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90179-08674",
+                                    "partName":  "PORCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-10176",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-10861",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90179-10658",
+                                    "partName":  "PORCA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5TP-E4747-00",
+                                    "partName":  "AMORTIZADOR DO SILENCIADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90387-08830",
+                                    "partName":  "ESPACADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4VW-F111M-04",
+                                    "partName":  "ETIQUETA DE FABRICACAO LOCAL",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

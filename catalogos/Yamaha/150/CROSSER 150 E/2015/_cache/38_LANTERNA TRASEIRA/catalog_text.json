@@ -1,0 +1,188 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  257,
+                                       "endPointX":  278,
+                                       "startPointY":  148,
+                                       "endPointY":  169
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  274,
+                                       "endPointX":  295,
+                                       "startPointY":  233,
+                                       "endPointY":  253
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  308,
+                                       "endPointX":  329,
+                                       "startPointY":  204,
+                                       "endPointY":  224
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  381,
+                                       "endPointX":  402,
+                                       "startPointY":  151,
+                                       "endPointY":  172
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  452,
+                                       "endPointX":  473,
+                                       "startPointY":  98,
+                                       "endPointY":  119
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  507,
+                                       "endPointX":  528,
+                                       "startPointY":  371,
+                                       "endPointY":  391
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  556,
+                                       "endPointX":  577,
+                                       "startPointY":  396,
+                                       "endPointY":  417
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  165,
+                                       "endPointX":  186,
+                                       "startPointY":  639,
+                                       "endPointY":  659
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  255,
+                                       "endPointX":  275,
+                                       "startPointY":  722,
+                                       "endPointY":  743
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  125,
+                                       "endPointX":  145,
+                                       "startPointY":  671,
+                                       "endPointY":  692
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  216,
+                                       "endPointX":  237,
+                                       "startPointY":  752,
+                                       "endPointY":  773
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  186,
+                                       "endPointX":  207,
+                                       "startPointY":  777,
+                                       "endPointY":  797
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  91,
+                                       "endPointX":  112,
+                                       "startPointY":  695,
+                                       "endPointY":  716
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "2CC-H4710-00",
+                                    "partName":  "LANTERNA TRASEIRA COMPLETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1ST-H4714-00",
+                                    "partName":  ". LAMPADA (12V 21/5W)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-H4723-00",
+                                    "partName":  ". GAXETA DA LENTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-H4721-00",
+                                    "partName":  ". LENTE DA LANTERNA TRASEIRA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "97707-40525",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-10018",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90480-14819",
+                                    "partName":  "ILHO DE BORRACHA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-06380",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90176-06055",
+                                    "partName":  "PORCA COROA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

@@ -1,0 +1,585 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  484,
+                                       "endPointX":  505,
+                                       "startPointY":  144,
+                                       "endPointY":  165
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  548,
+                                       "endPointX":  568,
+                                       "startPointY":  452,
+                                       "endPointY":  473
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  482,
+                                       "endPointX":  503,
+                                       "startPointY":  452,
+                                       "endPointY":  473
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  491,
+                                       "endPointX":  512,
+                                       "startPointY":  430,
+                                       "endPointY":  451
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  500,
+                                       "endPointX":  521,
+                                       "startPointY":  403,
+                                       "endPointY":  424
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  530,
+                                       "endPointX":  551,
+                                       "startPointY":  318,
+                                       "endPointY":  339
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  295,
+                                       "endPointX":  316,
+                                       "startPointY":  630,
+                                       "endPointY":  651
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  254,
+                                       "endPointX":  275,
+                                       "startPointY":  746,
+                                       "endPointY":  767
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  365,
+                                       "endPointX":  385,
+                                       "startPointY":  795,
+                                       "endPointY":  816
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  359,
+                                       "endPointX":  380,
+                                       "startPointY":  823,
+                                       "endPointY":  844
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  334,
+                                       "endPointX":  354,
+                                       "startPointY":  529,
+                                       "endPointY":  549
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  375,
+                                       "endPointX":  396,
+                                       "startPointY":  405,
+                                       "endPointY":  426
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  393,
+                                       "endPointX":  414,
+                                       "startPointY":  361,
+                                       "endPointY":  381
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  434,
+                                       "endPointX":  454,
+                                       "startPointY":  237,
+                                       "endPointY":  258
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  425,
+                                       "endPointX":  446,
+                                       "startPointY":  262,
+                                       "endPointY":  283
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  445,
+                                       "endPointX":  465,
+                                       "startPointY":  207,
+                                       "endPointY":  227
+                                   },
+                                   {
+                                       "refNo":  "17",
+                                       "startPointX":  286,
+                                       "endPointX":  306,
+                                       "startPointY":  401,
+                                       "endPointY":  422
+                                   },
+                                   {
+                                       "refNo":  "18",
+                                       "startPointX":  219,
+                                       "endPointX":  240,
+                                       "startPointY":  465,
+                                       "endPointY":  486
+                                   },
+                                   {
+                                       "refNo":  "19",
+                                       "startPointX":  499,
+                                       "endPointX":  520,
+                                       "startPointY":  449,
+                                       "endPointY":  470
+                                   },
+                                   {
+                                       "refNo":  "20",
+                                       "startPointX":  507,
+                                       "endPointX":  528,
+                                       "startPointY":  430,
+                                       "endPointY":  451
+                                   },
+                                   {
+                                       "refNo":  "21",
+                                       "startPointX":  517,
+                                       "endPointX":  538,
+                                       "startPointY":  403,
+                                       "endPointY":  423
+                                   },
+                                   {
+                                       "refNo":  "22",
+                                       "startPointX":  548,
+                                       "endPointX":  568,
+                                       "startPointY":  317,
+                                       "endPointY":  338
+                                   },
+                                   {
+                                       "refNo":  "23",
+                                       "startPointX":  314,
+                                       "endPointX":  335,
+                                       "startPointY":  630,
+                                       "endPointY":  651
+                                   },
+                                   {
+                                       "refNo":  "24",
+                                       "startPointX":  272,
+                                       "endPointX":  293,
+                                       "startPointY":  746,
+                                       "endPointY":  767
+                                   },
+                                   {
+                                       "refNo":  "25",
+                                       "startPointX":  382,
+                                       "endPointX":  403,
+                                       "startPointY":  795,
+                                       "endPointY":  816
+                                   },
+                                   {
+                                       "refNo":  "26",
+                                       "startPointX":  379,
+                                       "endPointX":  400,
+                                       "startPointY":  822,
+                                       "endPointY":  843
+                                   },
+                                   {
+                                       "refNo":  "27",
+                                       "startPointX":  354,
+                                       "endPointX":  375,
+                                       "startPointY":  530,
+                                       "endPointY":  551
+                                   },
+                                   {
+                                       "refNo":  "28",
+                                       "startPointX":  397,
+                                       "endPointX":  418,
+                                       "startPointY":  405,
+                                       "endPointY":  426
+                                   },
+                                   {
+                                       "refNo":  "29",
+                                       "startPointX":  414,
+                                       "endPointX":  434,
+                                       "startPointY":  359,
+                                       "endPointY":  379
+                                   },
+                                   {
+                                       "refNo":  "30",
+                                       "startPointX":  455,
+                                       "endPointX":  476,
+                                       "startPointY":  236,
+                                       "endPointY":  257
+                                   },
+                                   {
+                                       "refNo":  "31",
+                                       "startPointX":  446,
+                                       "endPointX":  467,
+                                       "startPointY":  262,
+                                       "endPointY":  282
+                                   },
+                                   {
+                                       "refNo":  "32",
+                                       "startPointX":  465,
+                                       "endPointX":  486,
+                                       "startPointY":  206,
+                                       "endPointY":  227
+                                   },
+                                   {
+                                       "refNo":  "33",
+                                       "startPointX":  414,
+                                       "endPointX":  434,
+                                       "startPointY":  149,
+                                       "endPointY":  170
+                                   },
+                                   {
+                                       "refNo":  "34",
+                                       "startPointX":  194,
+                                       "endPointX":  215,
+                                       "startPointY":  173,
+                                       "endPointY":  193
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "2CC-F3102-20",
+                                    "partName":  "GARFO DIANTEIRO CONJ. (ESQ.)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-F3126-20",
+                                    "partName":  ". TUBO EXTERNO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5BP-F3145-00",
+                                    "partName":  ". . RETENTOR DE OLEO DO GARFO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "22W-F3156-L0",
+                                    "partName":  ". . CLIPE DO RETENTOR DE OLEO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5BP-F3144-00",
+                                    "partName":  ". . PROTETOR DE POEIRA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-F3110-00",
+                                    "partName":  ". TUBO INTERNO COMPLETO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-F3170-00",
+                                    "partName":  ". CILINDRO COMPLETO DO GARFO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2JK-F3173-00",
+                                    "partName":  ". VALVULA DE PRESSAO DO OLEO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "509-F3158-L0",
+                                    "partName":  ". GAXETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "31B-F3181-00",
+                                    "partName":  ". PARAFUSO DO GARFO DIANTEIRO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-F3141-00",
+                                    "partName":  ". MOLA DO GARFO DIANTEIRO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2JK-F3149-01",
+                                    "partName":  ". ARRUELA DA MOLA SUPERIOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5BP-F3118-10",
+                                    "partName":  ". ESPACADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5BP-F3111-10",
+                                    "partName":  ". PARAFUSO, CAPA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2JK-F3114-00",
+                                    "partName":  ". GAXETA DE VEDACAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2N4-23168-00",
+                                    "partName":  ". TAMPAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "16",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-F3103-20",
+                                    "partName":  "GARFO DIANTEIRO CONJ. (DIR.)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "17",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-F3136-20",
+                                    "partName":  ". TUBO EXTERNO 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "18",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5BP-F3145-00",
+                                    "partName":  ". . RETENTOR DE OLEO DO GARFO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "19",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "22W-F3156-L0",
+                                    "partName":  ". . CLIPE DO RETENTOR DE OLEO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "20",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5BP-F3144-00",
+                                    "partName":  ". . PROTETOR DE POEIRA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "21",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-F3110-00",
+                                    "partName":  ". TUBO INTERNO COMPLETO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "22",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-F3170-00",
+                                    "partName":  ". CILINDRO COMPLETO DO GARFO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "23",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2JK-F3173-00",
+                                    "partName":  ". VALVULA DE PRESSAO DO OLEO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "24",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "509-F3158-L0",
+                                    "partName":  ". GAXETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "25",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "31B-F3181-00",
+                                    "partName":  ". PARAFUSO DO GARFO DIANTEIRO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "26",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-F3141-00",
+                                    "partName":  ". MOLA DO GARFO DIANTEIRO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "27",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2JK-F3149-01",
+                                    "partName":  ". ARRUELA DA MOLA SUPERIOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "28",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5BP-F3118-10",
+                                    "partName":  ". ESPACADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "29",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5BP-F3111-10",
+                                    "partName":  ". PARAFUSO, CAPA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "30",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2JK-F3114-00",
+                                    "partName":  ". GAXETA DE VEDACAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "31",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2N4-23168-00",
+                                    "partName":  ". TAMPAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "32",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-F3340-10",
+                                    "partName":  "SUPORTE INFERIOR COMPLETO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "33",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-088F5",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "34",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

@@ -1,0 +1,82 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  353,
+                                       "endPointX":  374,
+                                       "startPointY":  118,
+                                       "endPointY":  139
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  326,
+                                       "endPointX":  347,
+                                       "startPointY":  122,
+                                       "endPointY":  143
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  343,
+                                       "endPointX":  363,
+                                       "startPointY":  427,
+                                       "endPointY":  448
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  310,
+                                       "endPointX":  331,
+                                       "startPointY":  428,
+                                       "endPointY":  449
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  161,
+                                       "endPointX":  181,
+                                       "startPointY":  534,
+                                       "endPointY":  555
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "4B4-F173E-P0",
+                                    "partName":  "GRAFICO 1",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA DPBSE",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4B4-F173F-P0",
+                                    "partName":  "GRAFICO 2",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA DPBSE",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4B4-F137C-H0",
+                                    "partName":  "KIT GRAFICO TOMADA DE AR ESQ.",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA DPBSE",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4B4-F339E-00",
+                                    "partName":  "GRAFICO 1",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA DPBSE",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

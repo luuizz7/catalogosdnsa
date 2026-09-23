@@ -1,0 +1,75 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  497,
+                                       "endPointX":  518,
+                                       "startPointY":  418,
+                                       "endPointY":  439
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  223,
+                                       "endPointX":  244,
+                                       "startPointY":  440,
+                                       "endPointY":  461
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  359,
+                                       "endPointX":  379,
+                                       "startPointY":  318,
+                                       "endPointY":  339
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  307,
+                                       "endPointX":  327,
+                                       "startPointY":  398,
+                                       "endPointY":  419
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "2RP-W001A-00",
+                                    "partName":  "KIT DE TRANSMISSAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93823-14821",
+                                    "partName":  ". PINHAO (14D)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2RP-F5439-00",
+                                    "partName":  ". COROA DA RODA TRASEIRA (39D)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "94568-F3124",
+                                    "partName":  ". CORRENTE (DID 428MX-124L)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

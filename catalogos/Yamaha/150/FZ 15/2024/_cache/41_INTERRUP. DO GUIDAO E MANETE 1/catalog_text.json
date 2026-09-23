@@ -1,0 +1,208 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  530,
+                                       "endPointX":  550,
+                                       "startPointY":  582,
+                                       "endPointY":  602
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  476,
+                                       "endPointX":  496,
+                                       "startPointY":  573,
+                                       "endPointY":  593
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  486,
+                                       "endPointX":  506,
+                                       "startPointY":  562,
+                                       "endPointY":  582
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  185,
+                                       "endPointX":  205,
+                                       "startPointY":  216,
+                                       "endPointY":  236
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  92,
+                                       "endPointX":  112,
+                                       "startPointY":  306,
+                                       "endPointY":  326
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  447,
+                                       "endPointX":  467,
+                                       "startPointY":  439,
+                                       "endPointY":  459
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  384,
+                                       "endPointX":  404,
+                                       "startPointY":  612,
+                                       "endPointY":  632
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  331,
+                                       "endPointX":  351,
+                                       "startPointY":  386,
+                                       "endPointY":  406
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  428,
+                                       "endPointX":  448,
+                                       "startPointY":  548,
+                                       "endPointY":  568
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  431,
+                                       "endPointX":  451,
+                                       "startPointY":  396,
+                                       "endPointY":  416
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  332,
+                                       "endPointX":  352,
+                                       "startPointY":  423,
+                                       "endPointY":  443
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  194,
+                                       "endPointX":  214,
+                                       "startPointY":  549,
+                                       "endPointY":  569
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  264,
+                                       "endPointX":  284,
+                                       "startPointY":  522,
+                                       "endPointY":  542
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "2CC-H3972-20",
+                                    "partName":  "INTERRUPTOR DO GUIDAO 4",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "98507-05035",
+                                    "partName":  ". PARAFUSO CABECA PANELA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-H3975-30",
+                                    "partName":  "INTERRUPTOR DO GUIDAO 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "98507-05018",
+                                    "partName":  ". PARAFUSO CABECA PANELA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5YY-H2911-02",
+                                    "partName":  "FIXADOR DA ALAVANCA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "21C-H3912-01",
+                                    "partName":  "ALAVANCA ESQUERDA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "36L-H3945-10",
+                                    "partName":  "PARAFUSO DA ALAVANCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95707-06300",
+                                    "partName":  "PORCA AUTO-TRAVANTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9750M-06425",
+                                    "partName":  "PARAFUSO COM ARRUELA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-08834",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "36L-H3936-00",
+                                    "partName":  "BRACADEIRA DO CABO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

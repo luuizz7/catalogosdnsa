@@ -601,62 +601,143 @@
       }
     }
   },
-"Yamaha": {
-  "125": {
-    "Rx 125": {
-      "1982 -": "catalogos/Yamaha/125/RX 125/1982 -.pdf"
+  "Yamaha": {
+    "125": {
+      "Rx 125": {
+        "1982 -": "catalogos/Yamaha/125/RX 125/1982 -.pdf"
+      },
+      "Fluo 125": {
+        "2023": "ypec.html?catalogo=catalogos/Yamaha/125/FLUO%20125/2023/catalogo.json",
+        "2026": "ypec.html?catalogo=catalogos/Yamaha/125/FLUO%20125/2026/catalogo.json"
+      },
+      "Xtz 125 E (Partida Elétrica)": {
+        "2003": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2003/catalogo.json",
+        "2005": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2005/catalogo.json",
+        "2006": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2006/catalogo.json",
+        "2007": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2007/catalogo.json",
+        "2008": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2008/catalogo.json",
+        "2009": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2009/catalogo.json",
+        "2010": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2010/catalogo.json",
+        "2011": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2011/catalogo.json",
+        "2014": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2014/catalogo.json",
+        "2015": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2015/catalogo.json",
+        "2016": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2016/catalogo.json"
+      },
+      "Xtz 125 K (Partida Pedal)": {
+        "2003": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2003/catalogo.json",
+        "2005": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2005/catalogo.json",
+        "2006": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2006/catalogo.json",
+        "2007": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2007/catalogo.json",
+        "2008": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2008/catalogo.json",
+        "2009": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2009/catalogo.json",
+        "2010": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2010/catalogo.json",
+        "2011": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2011/catalogo.json",
+        "2014": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2014/catalogo.json"
+      },
+      "Ybr 125 K (Partida Pedal)": {
+        "2007": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125K/2007/catalogo.json",
+        "2008": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125K/2008/catalogo.json",
+        "2009": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125K/2009/catalogo.json",
+        "2010": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125K/2010/catalogo.json",
+        "2011": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125K/2011/catalogo.json",
+        "2013": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125K/2013/catalogo.json",
+        "2014": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125K/2014/catalogo.json",
+        "2015": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125K/2015/catalogo.json",
+        "2016": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125K/2016/catalogo.json"
+      },
+      "Ybr 125 E (Partida Elétrica)": {
+        "2006": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125E/2006/catalogo.json",
+        "2007": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125E/2007/catalogo.json",
+        "2008": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125E/2008/catalogo.json",
+        "2009": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125E/2009/catalogo.json",
+        "2010": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125E/2010/catalogo.json",
+        "2011": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125E/2011/catalogo.json",
+        "2013": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125E/2013/catalogo.json",
+        "2014": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125E/2014/catalogo.json",
+        "2015": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125E/2015/catalogo.json",
+        "2016": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125E/2016/catalogo.json"
+      },
+      "Ybr 125 ED (Partida Elétrica/Freio a Disco)": {
+        "2006": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125ED/2006/catalogo.json",
+        "2007": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125ED/2007/catalogo.json",
+        "2008": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125ED/2008/catalogo.json",
+        "2009": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125ED/2009/catalogo.json",
+        "2010": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125ED/2010/catalogo.json",
+        "2011": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125ED/2011/catalogo.json",
+        "2013": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125ED/2013/catalogo.json",
+        "2014": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125ED/2014/catalogo.json",
+        "2015": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125ED/2015/catalogo.json",
+        "2016": "ypec.html?catalogo=catalogos/Yamaha/125/YBR%20125ED/2016/catalogo.json"
+      },
+      "Factor 125i": {
+        "2017": "ypec.html?catalogo=catalogos/Yamaha/125/FACTOR%20125i/2017/catalogo.json",
+        "2018": "ypec.html?catalogo=catalogos/Yamaha/125/FACTOR%20125i/2018/catalogo.json",
+        "2019": "ypec.html?catalogo=catalogos/Yamaha/125/FACTOR%20125i/2019/catalogo.json",
+        "2020": "ypec.html?catalogo=catalogos/Yamaha/125/FACTOR%20125i/2020/catalogo.json",
+        "2021": "ypec.html?catalogo=catalogos/Yamaha/125/FACTOR%20125i/2021/catalogo.json",
+        "2022": "ypec.html?catalogo=catalogos/Yamaha/125/FACTOR%20125i/2022/catalogo.json",
+        "2023": "ypec.html?catalogo=catalogos/Yamaha/125/FACTOR%20125i/2023/catalogo.json",
+        "2024": "ypec.html?catalogo=catalogos/Yamaha/125/FACTOR%20125i/2024/catalogo.json",
+        "2025": "ypec.html?catalogo=catalogos/Yamaha/125/FACTOR%20125i/2025/catalogo.json"
+      }
     },
-    "Fluo 125": {
-      "2023": "ypec.html?catalogo=catalogos/Yamaha/125/FLUO%20125/2023/catalogo.json",
-      "2026": "ypec.html?catalogo=catalogos/Yamaha/125/FLUO%20125/2026/catalogo.json"
-    },
-    "Xtz 125E": {
-      "2003": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2003/catalogo.json",
-      "2005": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2005/catalogo.json",
-      "2006": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2006/catalogo.json",
-      "2007": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2007/catalogo.json",
-      "2008": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2008/catalogo.json",
-      "2009": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2009/catalogo.json",
-      "2010": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2010/catalogo.json",
-      "2011": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2011/catalogo.json",
-      "2014": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2014/catalogo.json",
-      "2015": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2015/catalogo.json",
-      "2016": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125E/2016/catalogo.json"
-    },
-    "Xtz 125K": {
-      "2003": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2003/catalogo.json",
-      "2005": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2005/catalogo.json",
-      "2006": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2006/catalogo.json",
-      "2007": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2007/catalogo.json",
-      "2008": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2008/catalogo.json",
-      "2009": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2009/catalogo.json",
-      "2010": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2010/catalogo.json",
-      "2011": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2011/catalogo.json",
-      "2014": "ypec.html?catalogo=catalogos/Yamaha/125/XTZ%20125K/2014/catalogo.json"
-    }
-  },
     "135": {
       "Rd 135": {
         "1995 -": "catalogos/Yamaha/135/RD 135/1995 -.pdf"
       }
     },
     "150": {
-      "Factor 150": {
-        "2016": "catalogos/Yamaha/150/FACTOR 150/2016.pdf",
-        "2021": "catalogos/Yamaha/150/FACTOR 150/2021.pdf",
-        "2023": "catalogos/Yamaha/150/FACTOR 150/Factor_YBR150_2023.pdf"
+      "Factor 150 E (Roda Raiada/Freio a Tambor)": {
+        "2016": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20E/2016/catalogo.json",
+        "2017": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20E/2017/catalogo.json",
+        "2018": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20E/2018/catalogo.json"
       },
-      "Fazer 150": {
-        "2014 -": "catalogos/Yamaha/150/FAZER 150/2014 -.pdf",
-        "2023": "catalogos/Yamaha/150/FAZER 150/Fazer150_2023.pdf"
+      "Factor 150 ED (Roda Liga/Freio a Disco)": {
+        "2016": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20ED/2016/catalogo.json",
+        "2017": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20ED/2017/catalogo.json",
+        "2018": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20ED/2018/catalogo.json",
+        "2019": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20ED/2019/catalogo.json",
+        "2020": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20ED/2020/catalogo.json",
+        "2021": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20ED/2021/catalogo.json",
+        "2022": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20ED/2022/catalogo.json",
+        "2023": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20ED/2023/catalogo.json",
+        "2024": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20ED/2024/catalogo.json",
+        "2025": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20ED/2025/catalogo.json",
+        "2026": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20ED/2026/catalogo.json"
       },
-      "Crosser 150": {
-        "2023": "catalogos/Yamaha/150/CROSSER 150/Crosser_XTZ150_2023.pdf"
+      "Fazer 150 ED (Sem Cavalete Central)": {
+        "2014": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20ED/2014/catalogo.json",
+        "2015": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20ED/2015/catalogo.json"
+      },
+      "Fazer 150 SED (Com Cavalete Central)": {
+        "2014": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20SED/2014/catalogo.json",
+        "2015": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20SED/2015/catalogo.json",
+        "2016": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20SED/2016/catalogo.json",
+        "2017": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20SED/2017/catalogo.json",
+        "2018": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20SED/2018/catalogo.json",
+        "2019": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20SED/2019/catalogo.json",
+        "2020": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20SED/2020/catalogo.json",
+        "2021": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20SED/2021/catalogo.json",
+        "2022": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20SED/2022/catalogo.json",
+        "2023": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20SED/2023/catalogo.json",
+        "2024": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20SED/2024/catalogo.json",
+        "2025": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20SED/2025/catalogo.json"
+      },
+      "Fz 15": {
+        "2023": "ypec.html?catalogo=catalogos/Yamaha/150/FZ%2015/2023/catalogo.json",
+        "2024": "ypec.html?catalogo=catalogos/Yamaha/150/FZ%2015/2024/catalogo.json",
+        "2025": "ypec.html?catalogo=catalogos/Yamaha/150/FZ%2015/2025/catalogo.json",
+        "2026": "ypec.html?catalogo=catalogos/Yamaha/150/FZ%2015/2026/catalogo.json",
+        "2027": "ypec.html?catalogo=catalogos/Yamaha/150/FZ%2015/2027/catalogo.json"
       }
     },
     "155": {
       "R15": {
-        "2024 -": "catalogos/Yamaha/155/R15/2024 -.pdf"
+        "2022": "ypec.html?catalogo=catalogos/Yamaha/155/R15/2022/catalogo.json",
+        "2024": "ypec.html?catalogo=catalogos/Yamaha/155/R15/2024/catalogo.json",
+        "2025": "ypec.html?catalogo=catalogos/Yamaha/155/R15/2025/catalogo.json",
+        "2026": "ypec.html?catalogo=catalogos/Yamaha/155/R15/2026/catalogo.json",
+        "2027": "ypec.html?catalogo=catalogos/Yamaha/155/R15/2027/catalogo.json"
       }
     },
     "180": {
@@ -693,20 +774,38 @@
       }
     },
     "250": {
-
       "Fz 25": {
-      "2018": "ypec.html?catalogo=catalogos/Yamaha/250/FZ%2025/2018/catalogo.json",
-      "2019": "ypec.html?catalogo=catalogos/Yamaha/250/FZ%2025/2019/catalogo.json",
-      "2020": "ypec.html?catalogo=catalogos/Yamaha/250/FZ%2025/2020/catalogo.json",
-      "2021": "ypec.html?catalogo=catalogos/Yamaha/250/FZ%2025/2021/catalogo.json",
-      "2022": "ypec.html?catalogo=catalogos/Yamaha/250/FZ%2025/2022/catalogo.json",
-      "2023": "ypec.html?catalogo=catalogos/Yamaha/250/FZ%2025/2023/catalogo.json",
-      "2024": "ypec.html?catalogo=catalogos/Yamaha/250/FZ%2025/2024/catalogo.json",
-      "2025": "ypec.html?catalogo=catalogos/Yamaha/250/FZ%2025/2025/catalogo.json",
-      "2026": "ypec.html?catalogo=catalogos/Yamaha/250/FZ%2025/2026/catalogo.json"
+        "2018": "ypec.html?catalogo=catalogos/Yamaha/250/FZ%2025/2018/catalogo.json",
+        "2019": "ypec.html?catalogo=catalogos/Yamaha/250/FZ%2025/2019/catalogo.json",
+        "2020": "ypec.html?catalogo=catalogos/Yamaha/250/FZ%2025/2020/catalogo.json",
+        "2021": "ypec.html?catalogo=catalogos/Yamaha/250/FZ%2025/2021/catalogo.json",
+        "2022": "ypec.html?catalogo=catalogos/Yamaha/250/FZ%2025/2022/catalogo.json",
+        "2023": "ypec.html?catalogo=catalogos/Yamaha/250/FZ%2025/2023/catalogo.json",
+        "2024": "ypec.html?catalogo=catalogos/Yamaha/250/FZ%2025/2024/catalogo.json",
+        "2025": "ypec.html?catalogo=catalogos/Yamaha/250/FZ%2025/2025/catalogo.json",
+        "2026": "ypec.html?catalogo=catalogos/Yamaha/250/FZ%2025/2026/catalogo.json"
       },
       "Lander 250": {
-        "2023": "catalogos/Yamaha/250/LANDER 250/Lander_XTZ250_2023.pdf"
+        "2007": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2007/catalogo.json",
+        "2008": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2008/catalogo.json",
+        "2009": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2009/catalogo.json",
+        "2010": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2010/catalogo.json",
+        "2011": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2011/catalogo.json",
+        "2012": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2012/catalogo.json",
+        "2013": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2013/catalogo.json",
+        "2014": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2014/catalogo.json",
+        "2015": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2015/catalogo.json",
+        "2016": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2016/catalogo.json",
+        "2017": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2017/catalogo.json",
+        "2018": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2018/catalogo.json",
+        "2019": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2019/catalogo.json",
+        "2020": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2020/catalogo.json",
+        "2021": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2021/catalogo.json",
+        "2022": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2022/catalogo.json",
+        "2023": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2023/catalogo.json",
+        "2024": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2024/catalogo.json",
+        "2025": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2025/catalogo.json",
+        "2026": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2026/catalogo.json"
       },
       "Xmax 250": {
         "2023": "catalogos/Yamaha/250/Xmax 250/XMAX250_2023.pdf"

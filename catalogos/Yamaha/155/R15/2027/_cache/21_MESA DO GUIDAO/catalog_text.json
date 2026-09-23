@@ -1,0 +1,225 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  214,
+                                       "endPointX":  235,
+                                       "startPointY":  640,
+                                       "endPointY":  661
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  445,
+                                       "endPointX":  466,
+                                       "startPointY":  367,
+                                       "endPointY":  388
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  423,
+                                       "endPointX":  444,
+                                       "startPointY":  425,
+                                       "endPointY":  446
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  435,
+                                       "endPointX":  455,
+                                       "startPointY":  395,
+                                       "endPointY":  416
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  454,
+                                       "endPointX":  475,
+                                       "startPointY":  346,
+                                       "endPointY":  366
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  475,
+                                       "endPointX":  496,
+                                       "startPointY":  276,
+                                       "endPointY":  297
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  459,
+                                       "endPointX":  480,
+                                       "startPointY":  323,
+                                       "endPointY":  344
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  467,
+                                       "endPointX":  488,
+                                       "startPointY":  297,
+                                       "endPointY":  318
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  486,
+                                       "endPointX":  507,
+                                       "startPointY":  248,
+                                       "endPointY":  269
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  552,
+                                       "endPointX":  572,
+                                       "startPointY":  174,
+                                       "endPointY":  194
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  525,
+                                       "endPointX":  546,
+                                       "startPointY":  262,
+                                       "endPointY":  283
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  303,
+                                       "endPointX":  324,
+                                       "startPointY":  146,
+                                       "endPointY":  166
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  520,
+                                       "endPointX":  540,
+                                       "startPointY":  90,
+                                       "endPointY":  111
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  507,
+                                       "endPointX":  528,
+                                       "startPointY":  130,
+                                       "endPointY":  151
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "2FB-F3873-00",
+                                    "partName":  "ROLAMENTO DA MESA SUPERIOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BK7-F3411-00",
+                                    "partName":  "PISTA DE ESFERAS 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "21C-F3412-00",
+                                    "partName":  "PISTA DE ESFERAS 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4LS-F341E-10",
+                                    "partName":  "JOGO DE ESFERAS",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "20P-F3416-00",
+                                    "partName":  "CAPA DA PISTA DE ESFERA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90179-25615",
+                                    "partName":  "PORCA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90202-26142",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "20P-F3418-00",
+                                    "partName":  "ARRUELA ESPECIAL",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BK7-F3435-00",
+                                    "partName":  "MESA DO GUIDAO COMPLETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91317-08030",
+                                    "partName":  "PARAFUSO HEXAGONAL INTERNO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90101-10832",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90209-10812",
+                                    "partName":  "ARRUELA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

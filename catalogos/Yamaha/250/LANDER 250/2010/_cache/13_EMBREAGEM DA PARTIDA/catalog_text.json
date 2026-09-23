@@ -1,0 +1,160 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  602,
+                                       "endPointX":  624,
+                                       "startPointY":  325,
+                                       "endPointY":  347
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  466,
+                                       "endPointX":  488,
+                                       "startPointY":  248,
+                                       "endPointY":  270
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  410,
+                                       "endPointX":  432,
+                                       "startPointY":  368,
+                                       "endPointY":  387
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  370,
+                                       "endPointX":  392,
+                                       "startPointY":  344,
+                                       "endPointY":  366
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  272,
+                                       "endPointX":  294,
+                                       "startPointY":  680,
+                                       "endPointY":  699
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  138,
+                                       "endPointX":  160,
+                                       "startPointY":  597,
+                                       "endPointY":  619
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  205,
+                                       "endPointX":  227,
+                                       "startPointY":  632,
+                                       "endPointY":  654
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  355,
+                                       "endPointX":  377,
+                                       "startPointY":  722,
+                                       "endPointY":  744
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  512,
+                                       "endPointX":  534,
+                                       "startPointY":  805,
+                                       "endPointY":  827
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1S4-15512-00",
+                                    "partName":  "ENGRENAGEM LOUCA 1 (72T)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-E5521-00",
+                                    "partName":  "EIXO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-15517-00",
+                                    "partName":  "ENGRENAGEM LOUCA 2 (15T/15T)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-E5522-00",
+                                    "partName":  "EIXO 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-15515-00",
+                                    "partName":  "ENGRENAGEM 3 (72T)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-25291",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93310-225N0",
+                                    "partName":  "ROLAMENTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5BP-15590-00",
+                                    "partName":  "PARTIDA SENTIDO UNICO COMP.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90110-08053",
+                                    "partName":  "PARAFUSO HEXAGONAL INTERNO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

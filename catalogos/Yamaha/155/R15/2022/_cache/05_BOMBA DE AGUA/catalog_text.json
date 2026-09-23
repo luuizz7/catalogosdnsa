@@ -1,0 +1,263 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  513,
+                                       "endPointX":  534,
+                                       "startPointY":  463,
+                                       "endPointY":  484
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  273,
+                                       "endPointX":  293,
+                                       "startPointY":  465,
+                                       "endPointY":  486
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  460,
+                                       "endPointX":  481,
+                                       "startPointY":  436,
+                                       "endPointY":  456
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  273,
+                                       "endPointX":  294,
+                                       "startPointY":  298,
+                                       "endPointY":  319
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  343,
+                                       "endPointX":  364,
+                                       "startPointY":  497,
+                                       "endPointY":  518
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  106,
+                                       "endPointX":  126,
+                                       "startPointY":  260,
+                                       "endPointY":  280
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  136,
+                                       "endPointX":  157,
+                                       "startPointY":  275,
+                                       "endPointY":  296
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  591,
+                                       "endPointX":  612,
+                                       "startPointY":  516,
+                                       "endPointY":  537
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  529,
+                                       "endPointX":  550,
+                                       "startPointY":  573,
+                                       "endPointY":  594
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  560,
+                                       "endPointX":  581,
+                                       "startPointY":  679,
+                                       "endPointY":  700
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  595,
+                                       "endPointX":  616,
+                                       "startPointY":  669,
+                                       "endPointY":  689
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  501,
+                                       "endPointX":  522,
+                                       "startPointY":  559,
+                                       "endPointY":  580
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  169,
+                                       "endPointX":  190,
+                                       "startPointY":  294,
+                                       "endPointY":  315
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  425,
+                                       "endPointX":  446,
+                                       "startPointY":  668,
+                                       "endPointY":  689
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  241,
+                                       "endPointX":  262,
+                                       "startPointY":  442,
+                                       "endPointY":  463
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  240,
+                                       "endPointX":  261,
+                                       "startPointY":  545,
+                                       "endPointY":  565
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  316,
+                                       "endPointX":  337,
+                                       "startPointY":  328,
+                                       "endPointY":  348
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  89,
+                                       "endPointX":  110,
+                                       "startPointY":  467,
+                                       "endPointY":  488
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "BK7-E2422-00",
+                                    "partName":  "TAMPA DA CAIXA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93103-10011",
+                                    "partName":  "RETENTOR DE OLEO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2DP-E2428-00",
+                                    "partName":  "GAXETA DA TAMPA CAIXA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BK7-E1185-00",
+                                    "partName":  "TAMPA LATERAL DO CABECOTE 3",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BK7-E2450-00",
+                                    "partName":  "EIXO IMPULSOR COMPLETO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BK7-E2842-00",
+                                    "partName":  "CIRCLIP",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93306-000Y3",
+                                    "partName":  "ROLAMENTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BK7-E2615-00",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BK7-E2435-00",
+                                    "partName":  "GAXETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93210-39803",
+                                    "partName":  "ANEL DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BK7-E2443-00",
+                                    "partName":  "FIXADOR DA MANGUEIRA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95022-06025",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93210-19809",
+                                    "partName":  "ANEL DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

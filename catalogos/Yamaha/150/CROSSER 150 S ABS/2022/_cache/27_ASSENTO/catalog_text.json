@@ -1,0 +1,243 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  178,
+                                       "endPointX":  199,
+                                       "startPointY":  118,
+                                       "endPointY":  139
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  372,
+                                       "endPointX":  393,
+                                       "startPointY":  100,
+                                       "endPointY":  121
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  543,
+                                       "endPointX":  563,
+                                       "startPointY":  245,
+                                       "endPointY":  266
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  498,
+                                       "endPointX":  519,
+                                       "startPointY":  310,
+                                       "endPointY":  331
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  384,
+                                       "endPointX":  404,
+                                       "startPointY":  401,
+                                       "endPointY":  421
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  341,
+                                       "endPointX":  362,
+                                       "startPointY":  425,
+                                       "endPointY":  446
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  564,
+                                       "endPointX":  585,
+                                       "startPointY":  400,
+                                       "endPointY":  420
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  576,
+                                       "endPointX":  596,
+                                       "startPointY":  743,
+                                       "endPointY":  764
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  310,
+                                       "endPointX":  331,
+                                       "startPointY":  547,
+                                       "endPointY":  568
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  187,
+                                       "endPointX":  208,
+                                       "startPointY":  608,
+                                       "endPointY":  628
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  395,
+                                       "endPointX":  416,
+                                       "startPointY":  511,
+                                       "endPointY":  531
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  373,
+                                       "endPointX":  394,
+                                       "startPointY":  717,
+                                       "endPointY":  738
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  503,
+                                       "endPointX":  524,
+                                       "startPointY":  571,
+                                       "endPointY":  592
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  594,
+                                       "endPointX":  615,
+                                       "startPointY":  525,
+                                       "endPointY":  546
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  592,
+                                       "endPointX":  612,
+                                       "startPointY":  465,
+                                       "endPointY":  485
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  499,
+                                       "endPointX":  520,
+                                       "startPointY":  449,
+                                       "endPointY":  469
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  548,
+                                       "endPointX":  569,
+                                       "startPointY":  465,
+                                       "endPointY":  485
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  113,
+                                       "endPointX":  133,
+                                       "startPointY":  517,
+                                       "endPointY":  538
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "2CC-F4730-12",
+                                    "partName":  "SELIM DUPLO COMPLETO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-F4731-12",
+                                    "partName":  ". CAPA DO SELIM",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4AN-F4741-10",
+                                    "partName":  ". AMORTIZADOR",
+                                    "quantity":  8,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90119-06137",
+                                    "partName":  "PARAFUSO COM ARRUELA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-F474A-00",
+                                    "partName":  "SUPORTE DO CARONA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-F474W-00",
+                                    "partName":  "SUPORTE DO CARONA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95D32-08020",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-F4718-01",
+                                    "partName":  "SUPORTE DO SELIM",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5RM-F1719-00",
+                                    "partName":  "ILHO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "98512-05012",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CC-F8199-W7",
+                                    "partName":  "MANUAL DO PROPRIETARIO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}
