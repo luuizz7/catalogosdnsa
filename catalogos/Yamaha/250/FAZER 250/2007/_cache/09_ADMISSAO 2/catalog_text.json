@@ -1,0 +1,177 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  204,
+                                       "endPointX":  226,
+                                       "startPointY":  706,
+                                       "endPointY":  728
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  426,
+                                       "endPointX":  448,
+                                       "startPointY":  381,
+                                       "endPointY":  403
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  388,
+                                       "endPointX":  410,
+                                       "startPointY":  395,
+                                       "endPointY":  417
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  185,
+                                       "endPointX":  207,
+                                       "startPointY":  379,
+                                       "endPointY":  398
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  169,
+                                       "endPointX":  191,
+                                       "startPointY":  321,
+                                       "endPointY":  343
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  440,
+                                       "endPointX":  462,
+                                       "startPointY":  284,
+                                       "endPointY":  306
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  485,
+                                       "endPointX":  507,
+                                       "startPointY":  481,
+                                       "endPointY":  500
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  528,
+                                       "endPointX":  550,
+                                       "startPointY":  670,
+                                       "endPointY":  692
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  451,
+                                       "endPointX":  470,
+                                       "startPointY":  730,
+                                       "endPointY":  752
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  116,
+                                       "endPointX":  138,
+                                       "startPointY":  139,
+                                       "endPointY":  161
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1S4-13750-01",
+                                    "partName":  "CONJ. DE VALVULA DE ACELERACAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-13770-00",
+                                    "partName":  ". INJETOR CONJUNTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5CA-14147-00",
+                                    "partName":  ". . ANEL DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-1410H-00",
+                                    "partName":  ". VALVULA SOLENOIDE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-14216-00",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95827-06020",
+                                    "partName":  ". PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-14104-00",
+                                    "partName":  ". JOGO DO PARAFUSO DO AR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "98507-05010",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-13925-00",
+                                    "partName":  ". JUNCAO DO PULSO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-13973-00",
+                                    "partName":  ". TUBO DE COMBUSTIVEL 3",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

@@ -1,0 +1,243 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  603,
+                                       "endPointX":  624,
+                                       "startPointY":  248,
+                                       "endPointY":  269
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  390,
+                                       "endPointX":  411,
+                                       "startPointY":  201,
+                                       "endPointY":  222
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  417,
+                                       "endPointX":  438,
+                                       "startPointY":  215,
+                                       "endPointY":  236
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  445,
+                                       "endPointX":  465,
+                                       "startPointY":  232,
+                                       "endPointY":  253
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  470,
+                                       "endPointX":  491,
+                                       "startPointY":  247,
+                                       "endPointY":  268
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  497,
+                                       "endPointX":  518,
+                                       "startPointY":  262,
+                                       "endPointY":  283
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  376,
+                                       "endPointX":  397,
+                                       "startPointY":  191,
+                                       "endPointY":  212
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  403,
+                                       "endPointX":  424,
+                                       "startPointY":  209,
+                                       "endPointY":  230
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  429,
+                                       "endPointX":  450,
+                                       "startPointY":  223,
+                                       "endPointY":  244
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  457,
+                                       "endPointX":  478,
+                                       "startPointY":  240,
+                                       "endPointY":  261
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  484,
+                                       "endPointX":  505,
+                                       "startPointY":  256,
+                                       "endPointY":  276
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  511,
+                                       "endPointX":  532,
+                                       "startPointY":  272,
+                                       "endPointY":  293
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  331,
+                                       "endPointX":  352,
+                                       "startPointY":  167,
+                                       "endPointY":  187
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  282,
+                                       "endPointX":  303,
+                                       "startPointY":  114,
+                                       "endPointY":  135
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  542,
+                                       "endPointX":  563,
+                                       "startPointY":  601,
+                                       "endPointY":  621
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  197,
+                                       "endPointX":  217,
+                                       "startPointY":  642,
+                                       "endPointY":  663
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  381,
+                                       "endPointX":  401,
+                                       "startPointY":  468,
+                                       "endPointY":  489
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  243,
+                                       "endPointX":  264,
+                                       "startPointY":  619,
+                                       "endPointY":  640
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1S4-WE631-00",
+                                    "partName":  "KIT DE EMBREAGEM",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-E6324-00",
+                                    "partName":  ". PLACA DE EMBREAGEM 1",
+                                    "quantity":  5,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-E6321-00",
+                                    "partName":  ". PLACA DE FRICCAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-E6331-00",
+                                    "partName":  ". PLACA DE FRICCAO 2",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-E6307-00",
+                                    "partName":  ". PLACA DE FRICCAO 3",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-E6351-00",
+                                    "partName":  ". PLACA DE PRESSAO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-E5461-00",
+                                    "partName":  ". GAXETA DA TAMPA DA CARCACA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-W001A-00",
+                                    "partName":  "KIT DE TRANSMISSAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5XT-17460-00",
+                                    "partName":  ". PINHAO DE TRANSMISSAO (15D)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-F5445-00",
+                                    "partName":  ". COROA DA RODA TRASEIRA (45D)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "94581-90132",
+                                    "partName":  ". CORRENTE (DID428V-132L)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

@@ -1,0 +1,372 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  504,
+                                       "endPointX":  525,
+                                       "startPointY":  183,
+                                       "endPointY":  203
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  170,
+                                       "endPointX":  191,
+                                       "startPointY":  100,
+                                       "endPointY":  121
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  290,
+                                       "endPointX":  311,
+                                       "startPointY":  136,
+                                       "endPointY":  156
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  292,
+                                       "endPointX":  313,
+                                       "startPointY":  52,
+                                       "endPointY":  72
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  389,
+                                       "endPointX":  410,
+                                       "startPointY":  38,
+                                       "endPointY":  59
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  290,
+                                       "endPointX":  311,
+                                       "startPointY":  18,
+                                       "endPointY":  39
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  411,
+                                       "endPointX":  432,
+                                       "startPointY":  235,
+                                       "endPointY":  256
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  446,
+                                       "endPointX":  467,
+                                       "startPointY":  214,
+                                       "endPointY":  235
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  438,
+                                       "endPointX":  459,
+                                       "startPointY":  109,
+                                       "endPointY":  130
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  121,
+                                       "endPointX":  142,
+                                       "startPointY":  257,
+                                       "endPointY":  277
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  240,
+                                       "endPointX":  261,
+                                       "startPointY":  151,
+                                       "endPointY":  172
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  266,
+                                       "endPointX":  286,
+                                       "startPointY":  271,
+                                       "endPointY":  292
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  391,
+                                       "endPointX":  412,
+                                       "startPointY":  289,
+                                       "endPointY":  310
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  384,
+                                       "endPointX":  405,
+                                       "startPointY":  318,
+                                       "endPointY":  339
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  277,
+                                       "endPointX":  298,
+                                       "startPointY":  103,
+                                       "endPointY":  124
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  345,
+                                       "endPointX":  366,
+                                       "startPointY":  504,
+                                       "endPointY":  525
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  345,
+                                       "endPointX":  366,
+                                       "startPointY":  748,
+                                       "endPointY":  769
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  155,
+                                       "endPointX":  175,
+                                       "startPointY":  331,
+                                       "endPointY":  351
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  311,
+                                       "endPointX":  332,
+                                       "startPointY":  764,
+                                       "endPointY":  785
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  249,
+                                       "endPointX":  270,
+                                       "startPointY":  794,
+                                       "endPointY":  815
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  227,
+                                       "endPointX":  248,
+                                       "startPointY":  294,
+                                       "endPointY":  314
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  192,
+                                       "endPointX":  212,
+                                       "startPointY":  314,
+                                       "endPointY":  335
+                                   },
+                                   {
+                                       "refNo":  "17",
+                                       "startPointX":  262,
+                                       "endPointX":  283,
+                                       "startPointY":  552,
+                                       "endPointY":  573
+                                   },
+                                   {
+                                       "refNo":  "18",
+                                       "startPointX":  446,
+                                       "endPointX":  467,
+                                       "startPointY":  419,
+                                       "endPointY":  440
+                                   },
+                                   {
+                                       "refNo":  "19",
+                                       "startPointX":  208,
+                                       "endPointX":  229,
+                                       "startPointY":  581,
+                                       "endPointY":  602
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "5RM-F583T-10",
+                                    "partName":  "CILINDRO MESTRE DIANTEIRO CJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5RM-W0041-00",
+                                    "partName":  ". KIT DE REPARO DO CILINDRO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F5854-00",
+                                    "partName":  ". DIAFRAGMA DO RESERVATORIO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5LW-F5852-00",
+                                    "partName":  ". TAMPA DO RESERVATORIO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9870M-04012",
+                                    "partName":  ". PARAFUSO CABECA PLANA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F5867-00",
+                                    "partName":  ". SUPORTE DO CILINDRO MESTRE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-F6332-00",
+                                    "partName":  ". PARAFUSO FLANGE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5RM-H3922-00",
+                                    "partName":  ". ALAVANCA DIREITA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90109-06577",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9560M-06100",
+                                    "partName":  ". PORCA AUTOTRAVANTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5HH-H3980-10",
+                                    "partName":  ". INTERRUPTOR DE FREIO DIANT.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9760L-04312",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5LW-F585B-00",
+                                    "partName":  ". PLACA DO DIAFRAGMA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-25872-00",
+                                    "partName":  "MANGUEIRA DE FREIO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90401-10159",
+                                    "partName":  "PARAFUSO DE UNIAO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-10886",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "16",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-F5886-00",
+                                    "partName":  "SUPORTE DA MANGUEIRA DE FREIO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "17",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-F5875-00",
+                                    "partName":  "SUPORTE MANGUEIRA DE FREIO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "18",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-06007",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "19",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

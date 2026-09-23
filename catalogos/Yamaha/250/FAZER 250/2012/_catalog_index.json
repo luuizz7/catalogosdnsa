@@ -1,0 +1,318 @@
+﻿{
+    "catalogLangDataCollection":  [
+                                      {
+                                          "catalogLangName":  "Portuguese",
+                                          "selected":  true,
+                                          "catalogLangId":  "06"
+                                      },
+                                      {
+                                          "catalogLangName":  "English",
+                                          "selected":  false,
+                                          "catalogLangId":  "02"
+                                      }
+                                  ],
+    "catalogNo":  "1L44C280P1",
+    "figDataCollection":  [
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/4B43280-H010.PNG",
+                                  "figNo":  "01",
+                                  "figBranchNo":  "1",
+                                  "figName":  "CABECOTE DO CILINDRO",
+                                  "illustNo":  "4B43280-H010"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/5/5XT1010-C020.PNG",
+                                  "figNo":  "02",
+                                  "figBranchNo":  "1",
+                                  "figName":  "CILINDRO",
+                                  "illustNo":  "5XT1010-C020"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/1/1S41280-E030.PNG",
+                                  "figNo":  "03",
+                                  "figBranchNo":  "1",
+                                  "figName":  "VIRABREQUIM E PISTAO",
+                                  "illustNo":  "1S41280-E030"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/5/5BP1460-1040.PNG",
+                                  "figNo":  "04",
+                                  "figBranchNo":  "1",
+                                  "figName":  "VALVULA",
+                                  "illustNo":  "5BP1460-1040"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/1/1S41280-E050.PNG",
+                                  "figNo":  "05",
+                                  "figBranchNo":  "1",
+                                  "figName":  "CORRENTE DO EIXO DE COMANDO",
+                                  "illustNo":  "1S41280-E050"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K060.PNG",
+                                  "figNo":  "06",
+                                  "figBranchNo":  "1",
+                                  "figName":  "BOMBA DE OLEO",
+                                  "illustNo":  "44C5280-K060"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/1/1S41280-E070.PNG",
+                                  "figNo":  "07",
+                                  "figBranchNo":  "1",
+                                  "figName":  "COLETOR DE OLEO",
+                                  "illustNo":  "1S41280-E070"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K080.PNG",
+                                  "figNo":  "08",
+                                  "figBranchNo":  "1",
+                                  "figName":  "ADMISSAO",
+                                  "illustNo":  "44C5280-K080"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/5/5D11280-F091.PNG",
+                                  "figNo":  "09",
+                                  "figBranchNo":  "1",
+                                  "figName":  "ADMISSAO 2",
+                                  "illustNo":  "5D11280-F091"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C6280-L100.PNG",
+                                  "figNo":  "10",
+                                  "figBranchNo":  "1",
+                                  "figName":  "ESCAPAMENTO",
+                                  "illustNo":  "44C6280-L100"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/1/1S41280-E110.PNG",
+                                  "figNo":  "11",
+                                  "figBranchNo":  "1",
+                                  "figName":  "CARCACA DO MOTOR",
+                                  "illustNo":  "1S41280-E110"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K120.PNG",
+                                  "figNo":  "12",
+                                  "figBranchNo":  "1",
+                                  "figName":  "TAMPA DA CARCACA 1",
+                                  "illustNo":  "44C5280-K120"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C6280-L130.PNG",
+                                  "figNo":  "13",
+                                  "figBranchNo":  "1",
+                                  "figName":  "EMBREAGEM DA PARTIDA",
+                                  "illustNo":  "44C6280-L130"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/5/5D11280-F140.PNG",
+                                  "figNo":  "14",
+                                  "figBranchNo":  "1",
+                                  "figName":  "EMBREAGEM",
+                                  "illustNo":  "5D11280-F140"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/1/1S41280-E151.PNG",
+                                  "figNo":  "15",
+                                  "figBranchNo":  "1",
+                                  "figName":  "TRANSMISSAO",
+                                  "illustNo":  "1S41280-E151"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/5/5XT1010-C150.PNG",
+                                  "figNo":  "16",
+                                  "figBranchNo":  "1",
+                                  "figName":  "EIXO TRAMBULADOR",
+                                  "illustNo":  "5XT1010-C150"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C6280-L170.PNG",
+                                  "figNo":  "17",
+                                  "figBranchNo":  "1",
+                                  "figName":  "EIXO DE MUDANCA",
+                                  "illustNo":  "44C6280-L170"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C6280-L180.PNG",
+                                  "figNo":  "18",
+                                  "figBranchNo":  "1",
+                                  "figName":  "CHASSI",
+                                  "illustNo":  "44C6280-L180"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K191.PNG",
+                                  "figNo":  "19",
+                                  "figBranchNo":  "1",
+                                  "figName":  "PARA-LAMA",
+                                  "illustNo":  "44C5280-K191"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K200.PNG",
+                                  "figNo":  "20",
+                                  "figBranchNo":  "1",
+                                  "figName":  "TAMPA LATERAL",
+                                  "illustNo":  "44C5280-K200"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K210.PNG",
+                                  "figNo":  "21",
+                                  "figBranchNo":  "1",
+                                  "figName":  "GARFO TRASEIRO",
+                                  "illustNo":  "44C5280-K210"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/1/1S41280-E220.PNG",
+                                  "figNo":  "22",
+                                  "figBranchNo":  "1",
+                                  "figName":  "AMORTECEDOR TRASEIRO",
+                                  "illustNo":  "1S41280-E220"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K230.PNG",
+                                  "figNo":  "23",
+                                  "figBranchNo":  "1",
+                                  "figName":  "MESA DO GUIDAO",
+                                  "illustNo":  "44C5280-K230"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/1/1S41280-E240.PNG",
+                                  "figNo":  "24",
+                                  "figBranchNo":  "1",
+                                  "figName":  "GARFO DIANTEIRO",
+                                  "illustNo":  "1S41280-E240"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C6280-L250.PNG",
+                                  "figNo":  "25",
+                                  "figBranchNo":  "1",
+                                  "figName":  "TANQUE DE COMBUSTIVEL",
+                                  "illustNo":  "44C6280-L250"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K260.PNG",
+                                  "figNo":  "26",
+                                  "figBranchNo":  "1",
+                                  "figName":  "ASSENTO",
+                                  "illustNo":  "44C5280-K260"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K270.PNG",
+                                  "figNo":  "27",
+                                  "figBranchNo":  "1",
+                                  "figName":  "RODA DIANTEIRA 1",
+                                  "illustNo":  "44C5280-K270"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/1/1S41280-E281.PNG",
+                                  "figNo":  "28",
+                                  "figBranchNo":  "1",
+                                  "figName":  "PINCA DE FREIO DIANTEIRA",
+                                  "illustNo":  "1S41280-E281"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K290.PNG",
+                                  "figNo":  "29",
+                                  "figBranchNo":  "1",
+                                  "figName":  "RODA TRASEIRA 1",
+                                  "illustNo":  "44C5280-K290"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K300.PNG",
+                                  "figNo":  "30",
+                                  "figBranchNo":  "1",
+                                  "figName":  "PINCA DE FREIO TRASEIRA",
+                                  "illustNo":  "44C5280-K300"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K310.PNG",
+                                  "figNo":  "31",
+                                  "figBranchNo":  "1",
+                                  "figName":  "GUIDAO E CABOS",
+                                  "illustNo":  "44C5280-K310"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K321.PNG",
+                                  "figNo":  "32",
+                                  "figBranchNo":  "1",
+                                  "figName":  "CILINDRO MESTRE DIANTEIRO",
+                                  "illustNo":  "44C5280-K321"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K330.PNG",
+                                  "figNo":  "33",
+                                  "figBranchNo":  "1",
+                                  "figName":  "CAVALETE. ESTRIBOS. PEDAL",
+                                  "illustNo":  "44C5280-K330"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K340.PNG",
+                                  "figNo":  "34",
+                                  "figBranchNo":  "1",
+                                  "figName":  "CILINDRO MESTRE TRASEIRO",
+                                  "illustNo":  "44C5280-K340"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K350.PNG",
+                                  "figNo":  "35",
+                                  "figBranchNo":  "1",
+                                  "figName":  "GERADOR",
+                                  "illustNo":  "44C5280-K350"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C6280-L360.PNG",
+                                  "figNo":  "36",
+                                  "figBranchNo":  "1",
+                                  "figName":  "MOTOR DE PARTIDA",
+                                  "illustNo":  "44C6280-L360"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/2/27S1300-G320.PNG",
+                                  "figNo":  "37",
+                                  "figBranchNo":  "1",
+                                  "figName":  "PISCAS",
+                                  "illustNo":  "27S1300-G320"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C6280-L380.PNG",
+                                  "figNo":  "38",
+                                  "figBranchNo":  "1",
+                                  "figName":  "MEDIDOR",
+                                  "illustNo":  "44C6280-L380"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K391.PNG",
+                                  "figNo":  "39",
+                                  "figBranchNo":  "1",
+                                  "figName":  "FAROL DIANTEIRO",
+                                  "illustNo":  "44C5280-K391"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K400.PNG",
+                                  "figNo":  "40",
+                                  "figBranchNo":  "1",
+                                  "figName":  "LANTERNA TRASEIRA",
+                                  "illustNo":  "44C5280-K400"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K410.PNG",
+                                  "figNo":  "41",
+                                  "figBranchNo":  "1",
+                                  "figName":  "INTERRUP. DO GUIDAO E MANETE 1",
+                                  "illustNo":  "44C5280-K410"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C6280-L420.PNG",
+                                  "figNo":  "42",
+                                  "figBranchNo":  "1",
+                                  "figName":  "SISTEMA ELETRICO 1",
+                                  "illustNo":  "44C6280-L420"
+                              },
+                              {
+                                  "illustFileURL":  "//ypec-sss.yamaha-motor.co.jp/ypec/illust/4/44C5280-K430.PNG",
+                                  "figNo":  "43",
+                                  "figBranchNo":  "1",
+                                  "figName":  "SISTEMA ELETRICO 2",
+                                  "illustNo":  "44C5280-K430"
+                              }
+                          ]
+}

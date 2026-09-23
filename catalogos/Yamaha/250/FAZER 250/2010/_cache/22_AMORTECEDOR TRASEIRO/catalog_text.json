@@ -1,0 +1,167 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  297,
+                                       "endPointX":  319,
+                                       "startPointY":  155,
+                                       "endPointY":  177
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  429,
+                                       "endPointX":  448,
+                                       "startPointY":  465,
+                                       "endPointY":  487
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  175,
+                                       "endPointX":  197,
+                                       "startPointY":  480,
+                                       "endPointY":  499
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  474,
+                                       "endPointX":  493,
+                                       "startPointY":  494,
+                                       "endPointY":  516
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  364,
+                                       "endPointX":  386,
+                                       "startPointY":  708,
+                                       "endPointY":  730
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  243,
+                                       "endPointX":  265,
+                                       "startPointY":  637,
+                                       "endPointY":  659
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  401,
+                                       "endPointX":  420,
+                                       "startPointY":  728,
+                                       "endPointY":  747
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  212,
+                                       "endPointX":  231,
+                                       "startPointY":  113,
+                                       "endPointY":  135
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  443,
+                                       "endPointX":  465,
+                                       "startPointY":  243,
+                                       "endPointY":  262
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  486,
+                                       "endPointX":  508,
+                                       "startPointY":  274,
+                                       "endPointY":  293
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1S4-F2210-00",
+                                    "partName":  "AMORTECEDOR TRASEIRO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-12688",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90101-12021",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95617-12100",
+                                    "partName":  "PORCA AUTOTRAVANTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90387-127W0",
+                                    "partName":  "ESPACADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93106-17801",
+                                    "partName":  "RETENTOR DE OLEO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90101-12022",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-12688",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95617-12100",
+                                    "partName":  "PORCA AUTOTRAVANTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

@@ -1,0 +1,75 @@
+﻿{
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  403,
+                                       "endPointX":  458,
+                                       "startPointY":  237,
+                                       "endPointY":  288
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  494,
+                                       "endPointX":  548,
+                                       "startPointY":  580,
+                                       "endPointY":  632
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  93,
+                                       "endPointX":  148,
+                                       "startPointY":  245,
+                                       "endPointY":  296
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  461,
+                                       "endPointX":  515,
+                                       "startPointY":  444,
+                                       "endPointY":  495
+                                   }
+                               ],
+    "notesDataCollection":  null,
+    "partsDataCollection":  [
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "1S4-E1311-00-A0",
+                                    "partName":  "CILINDRO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "1S4-E1351-00",
+                                    "partName":  "GAXETA DO CILINDRO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "91314-06065",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "93210-13657",
+                                    "partName":  "ANEL DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4"
+                                }
+                            ]
+}
