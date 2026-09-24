@@ -259,7 +259,8 @@ button {
 .catalogo {
     display: grid;
     grid-template-columns: minmax(360px, 430px) 1fr;
-    min-height: 620px;
+    min-height: 0;
+    align-items: start;
     background: var(--painel);
     border: 1px solid var(--borda);
     border-top: 0;
@@ -268,20 +269,21 @@ button {
 }
 
 .painel-imagem {
-    background: #fff;
+    align-self: start;
+    background: transparent;
     border-right: 1px solid var(--borda);
 }
 
 .canvas-imagem {
     position: relative;
     width: 100%;
-    min-height: 620px;
-    height: 620px;
+    height: auto;
+    min-height: 0;
     overflow: hidden;
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    padding: 14px;
+    padding: 0;
     background: #fff;
     cursor: zoom-in;
     user-select: none;
@@ -301,8 +303,10 @@ button {
 
 #diagrama {
     display: block;
+    width: 100%;
+    height: auto;
     flex: 0 0 auto;
-    max-width: none;
+    max-width: 100%;
     transform-origin: center center;
     user-select: none;
     -webkit-user-drag: none;
@@ -463,8 +467,9 @@ tbody td:last-child {
     }
 
     .canvas-imagem {
-        min-height: 430px;
-        max-height: 520px;
+        height: auto;
+        min-height: 0;
+        max-height: none;
     }
 .col-codigo {
         width: 165px;
@@ -494,19 +499,21 @@ body.catalogo-honda .catalogo {
 
 body.catalogo-honda .painel-imagem {
     width: 100%;
-    background: #fff;
+    align-self: start;
+    background: transparent;
     border-right: 0;
     border-bottom: 1px solid var(--borda);
 }
 
 body.catalogo-honda .canvas-imagem {
-    width: min(860px, 100%);
-    height: 560px;
-    min-height: 560px;
+    width: 100%;
+    height: auto;
+    min-height: 0;
+    max-height: none;
     margin: 0 auto;
-    padding: 22px;
+    padding: 0;
     overflow: hidden;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
 }
 
@@ -562,10 +569,10 @@ body.catalogo-honda tbody td:nth-child(4) {
 @media (max-width: 900px) {
     body.catalogo-honda .canvas-imagem {
         width: 100%;
-        height: 470px;
-        min-height: 470px;
-        max-height: 470px;
-        padding: 12px;
+        height: auto;
+        min-height: 0;
+        max-height: none;
+        padding: 0;
     }
 
     body.catalogo-honda .col-codigo {
@@ -575,9 +582,9 @@ body.catalogo-honda tbody td:nth-child(4) {
 
 @media (max-width: 560px) {
     body.catalogo-honda .canvas-imagem {
-        height: 380px;
-        min-height: 380px;
-        max-height: 380px;
+        height: auto;
+        min-height: 0;
+        max-height: none;
     }
 
     body.catalogo-honda .col-ref {
@@ -591,26 +598,20 @@ body.catalogo-honda tbody td:nth-child(4) {
 
 
 /* =========================================================
-   V3 - REDUÇÃO DA MARGEM BRANCA DAS ILUSTRAÇÕES
+   IMAGEM NA PROPORÇÃO REAL
+   O quadro branco acompanha a proporção da própria ilustração.
+   Não há altura fixa, padding extra nem escala-base em 100%.
    ========================================================= */
 
+.canvas-imagem,
 body.catalogo-honda .canvas-imagem {
-    height: 500px;
-    min-height: 500px;
+    height: auto;
+    min-height: 0;
+    max-height: none;
+    padding: 0;
 }
 
-@media (max-width: 900px) {
-    body.catalogo-honda .canvas-imagem {
-        height: 430px;
-        min-height: 430px;
-        max-height: 430px;
-    }
-}
-
-@media (max-width: 560px) {
-    body.catalogo-honda .canvas-imagem {
-        height: 350px;
-        min-height: 350px;
-        max-height: 350px;
-    }
+#diagrama {
+    width: 100%;
+    height: auto;
 }

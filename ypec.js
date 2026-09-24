@@ -75,7 +75,7 @@
 
     function aplicarPosicaoImagem() {
         el.imagem.style.transform =
-            `translate3d(${panX}px, ${panY}px, 0)`;
+            `translate3d(${panX}px, ${panY}px, 0) scale(${zoom})`;
     }
 
     function resetarPosicaoImagem() {
@@ -87,12 +87,9 @@
     function aplicarZoom() {
         const canvas = document.getElementById("canvasImagem");
 
-        // As ilustrações Yamaha/Honda já vêm com bastante margem branca
-        // dentro do próprio PNG. Em 100% aumentamos levemente a imagem
-        // para cortar visualmente essa sobra, sem alterar o valor do zoom.
-        const escalaBase = ehHonda ? 1.22 : 1.15;
-
-        el.imagem.style.width = `${zoom * escalaBase * 100}%`;
+        // Em 100% a imagem aparece inteira, na proporção original.
+        // O zoom usa transform para não alterar o tamanho-base do quadro
+        // e não criar borda branca artificial.
         el.zoomValor.textContent = `${Math.round(zoom * 100)}%`;
 
         if (!canvas) {

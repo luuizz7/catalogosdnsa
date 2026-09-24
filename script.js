@@ -265,7 +265,28 @@ document.addEventListener('DOMContentLoaded', function() {
             resultadoDiv.innerHTML = '';
             atualizarInfoModelo('');
 
-            const marcas = Object.keys(catalogo).sort((a, b) => a.localeCompare(b));
+            const ordemMarcas = [
+                'Honda',
+                'Yamaha',
+                'Suzuki',
+                'Shineray',
+                'Sundown',
+                'Tvs',
+                'Dafra',
+                'Haojue',
+                'Kasinski'
+            ];
+
+            const marcas = Object.keys(catalogo).sort((a, b) => {
+                const posA = ordemMarcas.indexOf(a);
+                const posB = ordemMarcas.indexOf(b);
+
+                if (posA !== -1 && posB !== -1) return posA - posB;
+                if (posA !== -1) return -1;
+                if (posB !== -1) return 1;
+
+                return a.localeCompare(b);
+            });
 
             marcas.forEach(marca => {
                 selMarca.innerHTML += `<option value="${marca}">${marca}</option>`;
