@@ -1,0 +1,110 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  427,
+                                       "endPointX":  447,
+                                       "startPointY":  291,
+                                       "endPointY":  311
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  80,
+                                       "endPointX":  100,
+                                       "startPointY":  291,
+                                       "endPointY":  311
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  598,
+                                       "endPointX":  618,
+                                       "startPointY":  669,
+                                       "endPointY":  689
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  96,
+                                       "endPointX":  116,
+                                       "startPointY":  534,
+                                       "endPointY":  554
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  118,
+                                       "endPointX":  138,
+                                       "startPointY":  268,
+                                       "endPointY":  288
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  266,
+                                       "endPointX":  286,
+                                       "startPointY":  593,
+                                       "endPointY":  613
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  494,
+                                       "endPointX":  514,
+                                       "startPointY":  691,
+                                       "endPointY":  711
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  66,
+                                       "endPointX":  86,
+                                       "startPointY":  395,
+                                       "endPointY":  415
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  412,
+                                       "endPointX":  432,
+                                       "startPointY":  705,
+                                       "endPointY":  725
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "BKA-H3220-52",
+                                    "partName":  "MEDIDOR CONJUNTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90183-06818",
+                                    "partName":  "PORCA MOLA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "97702-50016",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95D32-06025",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

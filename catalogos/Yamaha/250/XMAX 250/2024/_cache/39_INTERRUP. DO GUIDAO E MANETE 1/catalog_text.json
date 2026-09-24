@@ -1,0 +1,89 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  558,
+                                       "endPointX":  579,
+                                       "startPointY":  539,
+                                       "endPointY":  560
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  523,
+                                       "endPointX":  544,
+                                       "startPointY":  529,
+                                       "endPointY":  550
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  513,
+                                       "endPointX":  534,
+                                       "startPointY":  560,
+                                       "endPointY":  581
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  57,
+                                       "endPointX":  78,
+                                       "startPointY":  250,
+                                       "endPointY":  271
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  87,
+                                       "endPointX":  108,
+                                       "startPointY":  253,
+                                       "endPointY":  274
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  86,
+                                       "endPointX":  107,
+                                       "startPointY":  290,
+                                       "endPointY":  311
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "B74-H3963-00",
+                                    "partName":  "INTERRUPTOR DO GUIDAO 3",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "98507-05040",
+                                    "partName":  ". PARAFUSO CABECA PANELA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-H3973-10",
+                                    "partName":  "INTERRUPTOR DO GUIDAO 3",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "98507-05025",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

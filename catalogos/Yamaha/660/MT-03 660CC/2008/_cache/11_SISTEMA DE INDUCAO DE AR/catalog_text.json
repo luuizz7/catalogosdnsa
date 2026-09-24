@@ -1,0 +1,167 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  198,
+                                       "endPointX":  220,
+                                       "startPointY":  240,
+                                       "endPointY":  262
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  261,
+                                       "endPointX":  283,
+                                       "startPointY":  670,
+                                       "endPointY":  692
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  306,
+                                       "endPointX":  328,
+                                       "startPointY":  651,
+                                       "endPointY":  673
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  171,
+                                       "endPointX":  193,
+                                       "startPointY":  666,
+                                       "endPointY":  688
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  63,
+                                       "endPointX":  82,
+                                       "startPointY":  448,
+                                       "endPointY":  470
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  75,
+                                       "endPointX":  94,
+                                       "startPointY":  391,
+                                       "endPointY":  413
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  82,
+                                       "endPointX":  104,
+                                       "startPointY":  500,
+                                       "endPointY":  522
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  231,
+                                       "endPointX":  250,
+                                       "startPointY":  465,
+                                       "endPointY":  487
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  207,
+                                       "endPointX":  229,
+                                       "startPointY":  384,
+                                       "endPointY":  406
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  483,
+                                       "endPointX":  505,
+                                       "startPointY":  259,
+                                       "endPointY":  281
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "5VK-14803-00",
+                                    "partName":  "SISTEMA DE INDUCAO DE AR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VK-14871-02",
+                                    "partName":  "TUBO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VK-14815-00",
+                                    "partName":  "GAXETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91380-06016",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5YK-E4881-00",
+                                    "partName":  "MANGUEIRA CURVADA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90467-17089",
+                                    "partName":  "PRESILHA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5YK-E4882-00",
+                                    "partName":  "MANGUEIRA CURVADA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90467-17089",
+                                    "partName":  "PRESILHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90467-170A0",
+                                    "partName":  "PRESILHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

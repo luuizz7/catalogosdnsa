@@ -1,0 +1,75 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  278,
+                                       "endPointX":  300,
+                                       "startPointY":  412,
+                                       "endPointY":  434
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  507,
+                                       "endPointX":  529,
+                                       "startPointY":  689,
+                                       "endPointY":  711
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  507,
+                                       "endPointX":  526,
+                                       "startPointY":  653,
+                                       "endPointY":  675
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  568,
+                                       "endPointX":  590,
+                                       "startPointY":  521,
+                                       "endPointY":  543
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "5VK-18101-00",
+                                    "partName":  "EIXO DE MUDANCA CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "29D-E8110-00",
+                                    "partName":  "PEDAL DE CAMBIO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4VW-E8113-00",
+                                    "partName":  ". CAPA DO PEDAL",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91317-06020",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

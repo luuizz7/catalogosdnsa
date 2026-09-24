@@ -1,0 +1,123 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  247,
+                                       "endPointX":  268,
+                                       "startPointY":  561,
+                                       "endPointY":  582
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  421,
+                                       "endPointX":  442,
+                                       "startPointY":  644,
+                                       "endPointY":  665
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  347,
+                                       "endPointX":  368,
+                                       "startPointY":  555,
+                                       "endPointY":  576
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  335,
+                                       "endPointX":  356,
+                                       "startPointY":  604,
+                                       "endPointY":  625
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  443,
+                                       "endPointX":  463,
+                                       "startPointY":  514,
+                                       "endPointY":  535
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  408,
+                                       "endPointX":  429,
+                                       "startPointY":  491,
+                                       "endPointY":  512
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  380,
+                                       "endPointX":  400,
+                                       "startPointY":  477,
+                                       "endPointY":  497
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  191,
+                                       "endPointX":  212,
+                                       "startPointY":  496,
+                                       "endPointY":  517
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1WD-H1450-00",
+                                    "partName":  "ROTOR DO MAGNETO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WD-H1410-01",
+                                    "partName":  "ESTATOR CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91312-06030",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-10883",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-102R1",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90280-05013",
+                                    "partName":  "CHAVETA MEIA LUA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

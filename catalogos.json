@@ -820,23 +820,80 @@
         "2025": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2025/catalogo.json",
         "2026": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2026/catalogo.json"
       },
+
       "Xmax 250": {
-        "2023": "catalogos/Yamaha/250/Xmax 250/XMAX250_2023.pdf"
+        "2021": "ypec.html?catalogo=catalogos/Yamaha/250/XMAX%20250/2021/catalogo.json",
+        "2022": "ypec.html?catalogo=catalogos/Yamaha/250/XMAX%20250/2022/catalogo.json",
+        "2023": "ypec.html?catalogo=catalogos/Yamaha/250/XMAX%20250/2023/catalogo.json",
+        "2024": "ypec.html?catalogo=catalogos/Yamaha/250/XMAX%20250/2024/catalogo.json",
+        "2025": "ypec.html?catalogo=catalogos/Yamaha/250/XMAX%20250/2025/catalogo.json"
+      },
+
+      "Xv 250 Virago": {
+        "1995 -": "catalogos/Yamaha/250/VIRAGO 250/virago2501995.pdf",
+        "1997 -": "catalogos/Yamaha/250/VIRAGO 250/virago2501997.pdf",
+        "1999 -": "catalogos/Yamaha/250/VIRAGO 250/virago2501999.pdf",
+        "2000 -": "catalogos/Yamaha/250/VIRAGO 250/virago2502000.pdf",
+        "2002 -": "catalogos/Yamaha/250/VIRAGO 250/virago2502002.pdf"
       }
+
     },
     "320": {
-      "Mt-03": {
-        "2017": "catalogos/Yamaha/320/MT-03/MT-03-ABS-2017.pdf",
-        "2023": "catalogos/Yamaha/320/MT-03/MT03_2023.pdf"
+      "Mt-03 ABS": {
+        "2017": "ypec.html?catalogo=catalogos/Yamaha/320/MT-03%20ABS/2017/catalogo.json",
+        "2018": "ypec.html?catalogo=catalogos/Yamaha/320/MT-03%20ABS/2018/catalogo.json",
+        "2019": "ypec.html?catalogo=catalogos/Yamaha/320/MT-03%20ABS/2019/catalogo.json",
+        "2020": "ypec.html?catalogo=catalogos/Yamaha/320/MT-03%20ABS/2020/catalogo.json",
+        "2021": "ypec.html?catalogo=catalogos/Yamaha/320/MT-03%20ABS/2021/catalogo.json",
+        "2022": "ypec.html?catalogo=catalogos/Yamaha/320/MT-03%20ABS/2022/catalogo.json",
+        "2023": "ypec.html?catalogo=catalogos/Yamaha/320/MT-03%20ABS/2023/catalogo.json",
+        "2024": "ypec.html?catalogo=catalogos/Yamaha/320/MT-03%20ABS/2024/catalogo.json",
+        "2025": "ypec.html?catalogo=catalogos/Yamaha/320/MT-03%20ABS/2025/catalogo.json",
+        "2026": "ypec.html?catalogo=catalogos/Yamaha/320/MT-03%20ABS/2026/catalogo.json",
+        "2027": "ypec.html?catalogo=catalogos/Yamaha/320/MT-03%20ABS/2027/catalogo.json"
       },
-      "Yzf-R3": {
-        "2016": "catalogos/Yamaha/320/R3/YZF-R3-2016.pdf",
-        "2023": "catalogos/Yamaha/320/R3/R3_2023.pdf"
+      "Mt-03 Sem ABS": {
+        "2017": "ypec.html?catalogo=catalogos/Yamaha/320/MT-03%20SEM%20ABS/2017/catalogo.json",
+        "2018": "ypec.html?catalogo=catalogos/Yamaha/320/MT-03%20SEM%20ABS/2018/catalogo.json"
+      },
+      "R3 ABS": {
+        "2016": "ypec.html?catalogo=catalogos/Yamaha/320/R3%20ABS/2016/catalogo.json",
+        "2017": "ypec.html?catalogo=catalogos/Yamaha/320/R3%20ABS/2017/catalogo.json",
+        "2018": "ypec.html?catalogo=catalogos/Yamaha/320/R3%20ABS/2018/catalogo.json",
+        "2019": "ypec.html?catalogo=catalogos/Yamaha/320/R3%20ABS/2019/catalogo.json",
+        "2020": "ypec.html?catalogo=catalogos/Yamaha/320/R3%20ABS/2020/catalogo.json",
+        "2021": "ypec.html?catalogo=catalogos/Yamaha/320/R3%20ABS/2021/catalogo.json",
+        "2022": "ypec.html?catalogo=catalogos/Yamaha/320/R3%20ABS/2022/catalogo.json",
+        "2023": "ypec.html?catalogo=catalogos/Yamaha/320/R3%20ABS/2023/catalogo.json",
+        "2024": "ypec.html?catalogo=catalogos/Yamaha/320/R3%20ABS/2024/catalogo.json",
+        "2025": "ypec.html?catalogo=catalogos/Yamaha/320/R3%20ABS/2025/catalogo.json",
+        "2026": "ypec.html?catalogo=catalogos/Yamaha/320/R3%20ABS/2026/catalogo.json",
+        "2027": "ypec.html?catalogo=catalogos/Yamaha/320/R3%20ABS/2027/catalogo.json"
+      },
+      "R3 Sem ABS": {
+        "2016": "ypec.html?catalogo=catalogos/Yamaha/320/R3%20SEM%20ABS/2016/catalogo.json",
+        "2017": "ypec.html?catalogo=catalogos/Yamaha/320/R3%20SEM%20ABS/2017/catalogo.json"
       }
+          },
+
+    "535": {
+      "Xv 535 Virago": {
+        "1994 -": "catalogos/Yamaha/535/VIRAGO 535/virago5351994.pdf",
+        "1995 -": "catalogos/Yamaha/535/VIRAGO 535/virago5351995.pdf",
+        "1997 -": "catalogos/Yamaha/535/VIRAGO 535/virago5351997.pdf",
+        "1999 -": "catalogos/Yamaha/535/VIRAGO 535/virago5351999.pdf",
+        "2000 -": "catalogos/Yamaha/535/VIRAGO 535/virago5352000.pdf"
+      }
+
     },
     "600": {
       "Xt 600Z Tenere": {
         "1989 -": "catalogos/Yamaha/600/Xt 600Z Tenere/1989 -.pdf"
+      }
+    },
+    "660": {
+      "Mt-03 660cc": {
+        "2008": "ypec.html?catalogo=catalogos/Yamaha/660/MT-03%20660CC/2008/catalogo.json"
       }
     },
     "900": {

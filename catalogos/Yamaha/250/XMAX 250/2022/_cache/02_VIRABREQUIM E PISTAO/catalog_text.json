@@ -1,0 +1,488 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  464,
+                                       "endPointX":  485,
+                                       "startPointY":  263,
+                                       "endPointY":  284
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  446,
+                                       "endPointX":  466,
+                                       "startPointY":  672,
+                                       "endPointY":  693
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  311,
+                                       "endPointX":  332,
+                                       "startPointY":  590,
+                                       "endPointY":  610
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  339,
+                                       "endPointX":  360,
+                                       "startPointY":  672,
+                                       "endPointY":  693
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  499,
+                                       "endPointX":  520,
+                                       "startPointY":  595,
+                                       "endPointY":  616
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  459,
+                                       "endPointX":  480,
+                                       "startPointY":  515,
+                                       "endPointY":  536
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  331,
+                                       "endPointX":  352,
+                                       "startPointY":  468,
+                                       "endPointY":  489
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  281,
+                                       "endPointX":  302,
+                                       "startPointY":  481,
+                                       "endPointY":  502
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  153,
+                                       "endPointX":  174,
+                                       "startPointY":  258,
+                                       "endPointY":  278
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  199,
+                                       "endPointX":  219,
+                                       "startPointY":  292,
+                                       "endPointY":  312
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  228,
+                                       "endPointX":  249,
+                                       "startPointY":  329,
+                                       "endPointY":  350
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  544,
+                                       "endPointX":  565,
+                                       "startPointY":  456,
+                                       "endPointY":  477
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  479,
+                                       "endPointX":  499,
+                                       "startPointY":  481,
+                                       "endPointY":  502
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  234,
+                                       "endPointX":  255,
+                                       "startPointY":  383,
+                                       "endPointY":  404
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  287,
+                                       "endPointX":  308,
+                                       "startPointY":  204,
+                                       "endPointY":  225
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  354,
+                                       "endPointX":  375,
+                                       "startPointY":  186,
+                                       "endPointY":  207
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  472,
+                                       "endPointX":  493,
+                                       "startPointY":  226,
+                                       "endPointY":  247
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  312,
+                                       "endPointX":  333,
+                                       "startPointY":  132,
+                                       "endPointY":  153
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  276,
+                                       "endPointX":  296,
+                                       "startPointY":  728,
+                                       "endPointY":  749
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  214,
+                                       "endPointX":  235,
+                                       "startPointY":  746,
+                                       "endPointY":  767
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  201,
+                                       "endPointX":  222,
+                                       "startPointY":  552,
+                                       "endPointY":  573
+                                   },
+                                   {
+                                       "refNo":  "17",
+                                       "startPointX":  159,
+                                       "endPointX":  180,
+                                       "startPointY":  537,
+                                       "endPointY":  558
+                                   },
+                                   {
+                                       "refNo":  "17",
+                                       "startPointX":  308,
+                                       "endPointX":  328,
+                                       "startPointY":  690,
+                                       "endPointY":  711
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "BG6-E1400-10",
+                                    "partName":  "VIRABREQUIM CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BG6-11650-00",
+                                    "partName":  "BIELA COMPLETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2C0-11654-00",
+                                    "partName":  ". PARAFUSO DA BIELA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90179-07001",
+                                    "partName":  ". PORCA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-11656-00",
+                                    "partName":  "BRONZINA PLANA DA BIELA",
+                                    "quantity":  2,
+                                    "remarks":  "UR AZUL",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-11656-10",
+                                    "partName":  "BRONZINA PLANA DA BIELA",
+                                    "quantity":  2,
+                                    "remarks":  "UR PRETO",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-11656-20",
+                                    "partName":  "BRONZINA PLANA DA BIELA",
+                                    "quantity":  2,
+                                    "remarks":  "UR MARROM",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-11656-30",
+                                    "partName":  "BRONZINA PLANA DA BIELA",
+                                    "quantity":  2,
+                                    "remarks":  "UR VERDE",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-10883",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-10848",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90280-05013",
+                                    "partName":  "CHAVETA MEIA LUA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-11416-A0",
+                                    "partName":  "ROLAMENTO PLANO DO VIRABREQ. 1",
+                                    "quantity":  2,
+                                    "remarks":  "UR BRANCO",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-11416-00",
+                                    "partName":  "ROLAMENTO PLANO DO VIRABREQ. 1",
+                                    "quantity":  2,
+                                    "remarks":  "UR AZUL",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-11416-10",
+                                    "partName":  "ROLAMENTO PLANO DO VIRABREQ. 1",
+                                    "quantity":  2,
+                                    "remarks":  "UR PRETO",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-11416-20",
+                                    "partName":  "ROLAMENTO PLANO DO VIRABREQ. 1",
+                                    "quantity":  2,
+                                    "remarks":  "UR MARROM",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-11416-30",
+                                    "partName":  "ROLAMENTO PLANO DO VIRABREQ. 1",
+                                    "quantity":  2,
+                                    "remarks":  "UR VERDE",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-11416-40",
+                                    "partName":  "ROLAMENTO PLANO DO VIRABREQ. 1",
+                                    "quantity":  2,
+                                    "remarks":  "UR AMARELO",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-11416-50",
+                                    "partName":  "ROLAMENTO PLANO DO VIRABREQ. 1",
+                                    "quantity":  2,
+                                    "remarks":  "UR ROSA",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-11417-A0",
+                                    "partName":  "BRONZINA PLANA DO VIRABREQUIM",
+                                    "quantity":  2,
+                                    "remarks":  "UR BRANCO",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-11417-00",
+                                    "partName":  "BRONZINA PLANA DO VIRABREQUIM",
+                                    "quantity":  2,
+                                    "remarks":  "UR AZUL",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-11417-10",
+                                    "partName":  "BRONZINA PLANA DO VIRABREQUIM",
+                                    "quantity":  2,
+                                    "remarks":  "UR PRETO",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-11417-20",
+                                    "partName":  "BRONZINA PLANA DO VIRABREQUIM",
+                                    "quantity":  2,
+                                    "remarks":  "UR MARROM",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-11417-30",
+                                    "partName":  "BRONZINA PLANA DO VIRABREQUIM",
+                                    "quantity":  2,
+                                    "remarks":  "UR VERDE",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-11417-40",
+                                    "partName":  "BRONZINA PLANA DO VIRABREQUIM",
+                                    "quantity":  2,
+                                    "remarks":  "UR AMARELO",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-11417-50",
+                                    "partName":  "BRONZINA PLANA DO VIRABREQUIM",
+                                    "quantity":  2,
+                                    "remarks":  "UR ROSA",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BDC-E1500-00",
+                                    "partName":  "BALANCEADOR CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93306-303YT",
+                                    "partName":  "ROLAMENTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93306-204XV",
+                                    "partName":  "ROLAMENTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BG6-E1631-00",
+                                    "partName":  "PISTAO (STD)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-E1603-01",
+                                    "partName":  "JOGO DE ANEIS (STD)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-E1633-00",
+                                    "partName":  "PINO DO PISTAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "16",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93450-17129",
+                                    "partName":  "ANEL TRAVA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "17",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

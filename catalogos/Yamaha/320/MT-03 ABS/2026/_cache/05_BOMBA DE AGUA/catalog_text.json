@@ -1,0 +1,358 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  467,
+                                       "endPointX":  487,
+                                       "startPointY":  125,
+                                       "endPointY":  145
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  500,
+                                       "endPointX":  520,
+                                       "startPointY":  256,
+                                       "endPointY":  276
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  502,
+                                       "endPointX":  522,
+                                       "startPointY":  225,
+                                       "endPointY":  245
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  505,
+                                       "endPointX":  525,
+                                       "startPointY":  186,
+                                       "endPointY":  206
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  274,
+                                       "endPointX":  294,
+                                       "startPointY":  804,
+                                       "endPointY":  824
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  546,
+                                       "endPointX":  566,
+                                       "startPointY":  761,
+                                       "endPointY":  781
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  366,
+                                       "endPointX":  386,
+                                       "startPointY":  859,
+                                       "endPointY":  879
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  616,
+                                       "endPointX":  636,
+                                       "startPointY":  746,
+                                       "endPointY":  766
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  525,
+                                       "endPointX":  545,
+                                       "startPointY":  693,
+                                       "endPointY":  713
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  331,
+                                       "endPointX":  351,
+                                       "startPointY":  837,
+                                       "endPointY":  857
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  638,
+                                       "endPointX":  658,
+                                       "startPointY":  756,
+                                       "endPointY":  776
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  435,
+                                       "endPointX":  455,
+                                       "startPointY":  678,
+                                       "endPointY":  698
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  480,
+                                       "endPointX":  500,
+                                       "startPointY":  701,
+                                       "endPointY":  721
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  553,
+                                       "endPointX":  573,
+                                       "startPointY":  600,
+                                       "endPointY":  620
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  195,
+                                       "endPointX":  215,
+                                       "startPointY":  588,
+                                       "endPointY":  608
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  178,
+                                       "endPointX":  198,
+                                       "startPointY":  785,
+                                       "endPointY":  805
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  135,
+                                       "endPointX":  155,
+                                       "startPointY":  782,
+                                       "endPointY":  802
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  75,
+                                       "endPointX":  95,
+                                       "startPointY":  646,
+                                       "endPointY":  666
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  90,
+                                       "endPointX":  110,
+                                       "startPointY":  545,
+                                       "endPointY":  565
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  109,
+                                       "endPointX":  129,
+                                       "startPointY":  765,
+                                       "endPointY":  785
+                                   },
+                                   {
+                                       "refNo":  "17",
+                                       "startPointX":  712,
+                                       "endPointX":  732,
+                                       "startPointY":  542,
+                                       "endPointY":  562
+                                   },
+                                   {
+                                       "refNo":  "18",
+                                       "startPointX":  206,
+                                       "endPointX":  226,
+                                       "startPointY":  328,
+                                       "endPointY":  348
+                                   },
+                                   {
+                                       "refNo":  "19",
+                                       "startPointX":  240,
+                                       "endPointX":  260,
+                                       "startPointY":  346,
+                                       "endPointY":  366
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "BRA-E2420-00",
+                                    "partName":  "BOMBA DE AGUA COMPLETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93317-11096",
+                                    "partName":  ". ROLAMENTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93315-21570",
+                                    "partName":  ". ROLAMENTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93102-15801",
+                                    "partName":  ". RETENTOR DE OLEO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WD-E2450-00",
+                                    "partName":  ". EIXO IMPULSOR COMPLETO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WD-E2453-00",
+                                    "partName":  ". ENGRENAGEM",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "33S-E2223-00",
+                                    "partName":  ". VEDACAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "33S-E2456-00",
+                                    "partName":  ". ARRUELA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WD-E319L-00",
+                                    "partName":  ". PINO LISO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "99009-08400",
+                                    "partName":  ". ANEL TRAVA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WD-E2681-00",
+                                    "partName":  ". PLACA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91312-06010",
+                                    "partName":  ". PARAFUSO HEXAGONAL",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BRA-E2422-00",
+                                    "partName":  ". TAMPA DA CAIXA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WD-E2428-00",
+                                    "partName":  ". GAXETA DA TAMPA CAIXA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90430-06014",
+                                    "partName":  ". GAXETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95022-06025",
+                                    "partName":  ". PARAFUSO FLANGE",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "16",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2H7-15361-00",
+                                    "partName":  "MEDIDOR DO NIVEL DE OLEO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "17",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BRB-E5362-00",
+                                    "partName":  "TAMPAO DO NIVEL DE OLEO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "18",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93210-27807",
+                                    "partName":  "ANEL DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "19",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

@@ -1,0 +1,157 @@
+﻿{
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  447,
+                                       "endPointX":  467,
+                                       "startPointY":  128,
+                                       "endPointY":  149
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  278,
+                                       "endPointX":  299,
+                                       "startPointY":  210,
+                                       "endPointY":  231
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  76,
+                                       "endPointX":  97,
+                                       "startPointY":  629,
+                                       "endPointY":  649
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  149,
+                                       "endPointX":  170,
+                                       "startPointY":  353,
+                                       "endPointY":  373
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  198,
+                                       "endPointX":  218,
+                                       "startPointY":  526,
+                                       "endPointY":  547
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  494,
+                                       "endPointX":  515,
+                                       "startPointY":  654,
+                                       "endPointY":  675
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  449,
+                                       "endPointX":  470,
+                                       "startPointY":  636,
+                                       "endPointY":  657
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  409,
+                                       "endPointX":  430,
+                                       "startPointY":  648,
+                                       "endPointY":  669
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  477,
+                                       "endPointX":  497,
+                                       "startPointY":  795,
+                                       "endPointY":  816
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  538,
+                                       "endPointX":  558,
+                                       "startPointY":  787,
+                                       "endPointY":  807
+                                   }
+                               ],
+    "notesDataCollection":  null,
+    "partsDataCollection":  [
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "B74-H5930-08",
+                                    "partName":  "UNIDADE HIDRAULICA CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "B74-H5970-01",
+                                    "partName":  "SENSOR DA RODA DIANT. CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "95D07-06016",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "90464-14803",
+                                    "partName":  "BRACADEIRA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "B74-H5112-00",
+                                    "partName":  "SUPORTE DO REFLETOR 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "91312-06016",
+                                    "partName":  "PARAFUSO HEXAGONAL",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "B74-H5980-01",
+                                    "partName":  "SENSOR DA RODA TRAS. CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "95D02-06016",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8"
+                                }
+                            ]
+}

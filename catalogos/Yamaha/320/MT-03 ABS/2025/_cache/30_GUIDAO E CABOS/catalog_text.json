@@ -1,0 +1,232 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  288,
+                                       "endPointX":  309,
+                                       "startPointY":  375,
+                                       "endPointY":  396
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  522,
+                                       "endPointX":  543,
+                                       "startPointY":  562,
+                                       "endPointY":  583
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  92,
+                                       "endPointX":  113,
+                                       "startPointY":  305,
+                                       "endPointY":  326
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  42,
+                                       "endPointX":  63,
+                                       "startPointY":  239,
+                                       "endPointY":  259
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  594,
+                                       "endPointX":  615,
+                                       "startPointY":  583,
+                                       "endPointY":  604
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  61,
+                                       "endPointX":  81,
+                                       "startPointY":  269,
+                                       "endPointY":  289
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  568,
+                                       "endPointX":  589,
+                                       "startPointY":  572,
+                                       "endPointY":  593
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  268,
+                                       "endPointX":  288,
+                                       "startPointY":  523,
+                                       "endPointY":  544
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  461,
+                                       "endPointX":  482,
+                                       "startPointY":  775,
+                                       "endPointY":  796
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  464,
+                                       "endPointX":  485,
+                                       "startPointY":  639,
+                                       "endPointY":  660
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  431,
+                                       "endPointX":  452,
+                                       "startPointY":  653,
+                                       "endPointY":  674
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  361,
+                                       "endPointX":  382,
+                                       "startPointY":  783,
+                                       "endPointY":  804
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  417,
+                                       "endPointX":  438,
+                                       "startPointY":  793,
+                                       "endPointY":  814
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  457,
+                                       "endPointX":  478,
+                                       "startPointY":  335,
+                                       "endPointY":  356
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  127,
+                                       "endPointX":  148,
+                                       "startPointY":  100,
+                                       "endPointY":  121
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "B9T-F6111-00",
+                                    "partName":  "GUIDAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B01-F6241-00",
+                                    "partName":  "MANOPLA ESQUERDA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B01-F6240-00",
+                                    "partName":  "MANOPLA DIREITA CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B01-F6246-01",
+                                    "partName":  "TERMINACAO DA MANOPLA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91317-06020",
+                                    "partName":  "PARAFUSO HEXAGONAL INTERNO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B9T-F6335-00",
+                                    "partName":  "CABO DE EMBREAGEM",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B9T-F6301-00",
+                                    "partName":  "CABO ACELERADOR CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91312-05010",
+                                    "partName":  "PARAFUSO HEXAGONAL",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B9T-F6315-00",
+                                    "partName":  "GUIA DO CABO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95802-06010",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B9T-F6280-00",
+                                    "partName":  "ESPELHO RETROVISOR CONJ. (ESQ)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B9T-F6290-00",
+                                    "partName":  "ESPELHO RETROVISOR CONJ. (DIR)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

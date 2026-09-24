@@ -1,0 +1,75 @@
+﻿{
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  373,
+                                       "endPointX":  393,
+                                       "startPointY":  823,
+                                       "endPointY":  844
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  44,
+                                       "endPointX":  65,
+                                       "startPointY":  624,
+                                       "endPointY":  645
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  594,
+                                       "endPointX":  615,
+                                       "startPointY":  174,
+                                       "endPointY":  195
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  387,
+                                       "endPointX":  408,
+                                       "startPointY":  57,
+                                       "endPointY":  77
+                                   }
+                               ],
+    "notesDataCollection":  null,
+    "partsDataCollection":  [
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "B9T-H3310-00",
+                                    "partName":  "PISCA DIANTEIRO CONJ. 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "B9T-H3320-00",
+                                    "partName":  "PISCA DIANTEIRO CONJ. 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "B9T-H3330-00",
+                                    "partName":  "PISCA TRASEIRO CONJ. 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "B9T-H3340-00",
+                                    "partName":  "PISCA TRASEIRO CONJ. 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4"
+                                }
+                            ]
+}

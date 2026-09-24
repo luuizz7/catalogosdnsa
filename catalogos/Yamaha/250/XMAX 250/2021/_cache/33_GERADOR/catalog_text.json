@@ -1,0 +1,96 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  516,
+                                       "endPointX":  537,
+                                       "startPointY":  463,
+                                       "endPointY":  484
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  299,
+                                       "endPointX":  320,
+                                       "startPointY":  284,
+                                       "endPointY":  305
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  423,
+                                       "endPointX":  444,
+                                       "startPointY":  462,
+                                       "endPointY":  483
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  373,
+                                       "endPointX":  394,
+                                       "startPointY":  576,
+                                       "endPointY":  597
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  420,
+                                       "endPointX":  441,
+                                       "startPointY":  528,
+                                       "endPointY":  549
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  251,
+                                       "endPointX":  272,
+                                       "startPointY":  156,
+                                       "endPointY":  177
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  195,
+                                       "endPointX":  215,
+                                       "startPointY":  230,
+                                       "endPointY":  250
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "B74-H1450-00",
+                                    "partName":  "ROTOR DO MAGNETO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-H1410-00",
+                                    "partName":  "ESTATOR CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90110-06178",
+                                    "partName":  "PARAFUSO HEXAGONAL INTERNO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90110-06161",
+                                    "partName":  "PARAFUSO HEXAGONAL INTERNO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

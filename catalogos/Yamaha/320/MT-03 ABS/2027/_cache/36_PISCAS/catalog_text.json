@@ -1,0 +1,123 @@
+﻿{
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  480,
+                                       "endPointX":  500,
+                                       "startPointY":  819,
+                                       "endPointY":  839
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  115,
+                                       "endPointX":  135,
+                                       "startPointY":  615,
+                                       "endPointY":  635
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  587,
+                                       "endPointX":  607,
+                                       "startPointY":  426,
+                                       "endPointY":  446
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  292,
+                                       "endPointX":  312,
+                                       "startPointY":  260,
+                                       "endPointY":  280
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  528,
+                                       "endPointX":  548,
+                                       "startPointY":  137,
+                                       "endPointY":  157
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  659,
+                                       "endPointX":  679,
+                                       "startPointY":  214,
+                                       "endPointY":  234
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  479,
+                                       "endPointX":  499,
+                                       "startPointY":  113,
+                                       "endPointY":  133
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  705,
+                                       "endPointX":  725,
+                                       "startPointY":  250,
+                                       "endPointY":  270
+                                   }
+                               ],
+    "notesDataCollection":  null,
+    "partsDataCollection":  [
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "BGJ-H330A-01",
+                                    "partName":  "PISCA CONJUNTO A",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "BGJ-H330B-01",
+                                    "partName":  "PISCA CONJUNTO B",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "BEA-H330A-01",
+                                    "partName":  "PISCA CONJUNTO A",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "B1X-H330B-01",
+                                    "partName":  "PISCA CONJUNTO B",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "BRG-H338V-00",
+                                    "partName":  "AMORTIZADOR",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5"
+                                },
+                                {
+                                    "selectableId":  "1",
+                                    "partNewsFileURL":  "",
+                                    "partNo":  "B1X-H3318-00",
+                                    "partName":  "SUPORTE DO PISCA 1",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6"
+                                }
+                            ]
+}

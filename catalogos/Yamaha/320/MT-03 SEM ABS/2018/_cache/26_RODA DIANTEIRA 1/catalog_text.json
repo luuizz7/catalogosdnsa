@@ -1,0 +1,218 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  507,
+                                       "endPointX":  528,
+                                       "startPointY":  502,
+                                       "endPointY":  523
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  492,
+                                       "endPointX":  513,
+                                       "startPointY":  587,
+                                       "endPointY":  608
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  310,
+                                       "endPointX":  331,
+                                       "startPointY":  198,
+                                       "endPointY":  219
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  567,
+                                       "endPointX":  588,
+                                       "startPointY":  631,
+                                       "endPointY":  652
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  340,
+                                       "endPointX":  361,
+                                       "startPointY":  216,
+                                       "endPointY":  237
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  536,
+                                       "endPointX":  557,
+                                       "startPointY":  615,
+                                       "endPointY":  636
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  402,
+                                       "endPointX":  423,
+                                       "startPointY":  294,
+                                       "endPointY":  315
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  193,
+                                       "endPointX":  213,
+                                       "startPointY":  776,
+                                       "endPointY":  797
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  491,
+                                       "endPointX":  512,
+                                       "startPointY":  695,
+                                       "endPointY":  716
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  273,
+                                       "endPointX":  293,
+                                       "startPointY":  184,
+                                       "endPointY":  205
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  595,
+                                       "endPointX":  616,
+                                       "startPointY":  649,
+                                       "endPointY":  670
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  149,
+                                       "endPointX":  170,
+                                       "startPointY":  124,
+                                       "endPointY":  145
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  577,
+                                       "endPointX":  597,
+                                       "startPointY":  769,
+                                       "endPointY":  789
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1WD-F5168-01-P0",
+                                    "partName":  "ARO DA RODA DIANTEIRA",
+                                    "quantity":  1,
+                                    "remarks":  "DPBM15 PARA DPBMC",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B01-F510C-00",
+                                    "partName":  "ESPACADOR CONJUNTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93106-26815",
+                                    "partName":  "RETENTOR DE OLEO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93306-302X7",
+                                    "partName":  "ROLAMENTO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "94111-17805",
+                                    "partName":  "PNEU DIANT.(110/70R17M/CTL54H)",
+                                    "quantity":  1,
+                                    "remarks":  "METZELER METZELER",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93900-00828",
+                                    "partName":  "VALVULA ARO DA RODA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5MT-25398-00",
+                                    "partName":  "BALANCEADOR DA RODA (10G)",
+                                    "quantity":  1,
+                                    "remarks":  "UN",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5MT-25398-10",
+                                    "partName":  "BALANCEADOR DA RODA (20G)",
+                                    "quantity":  1,
+                                    "remarks":  "UN",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5MT-25398-20",
+                                    "partName":  "BALANCEADOR DA RODA (30G)",
+                                    "quantity":  1,
+                                    "remarks":  "UN",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1PA-F5386-00",
+                                    "partName":  "ESPACADOR DO EIXO DA COROA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B01-F5181-00",
+                                    "partName":  "EIXO DA RODA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95602-14200",
+                                    "partName":  "PORCA AUTO-TRAVANTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

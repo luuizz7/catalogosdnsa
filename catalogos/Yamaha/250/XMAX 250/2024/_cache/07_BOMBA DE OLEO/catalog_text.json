@@ -1,0 +1,205 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  232,
+                                       "endPointX":  253,
+                                       "startPointY":  337,
+                                       "endPointY":  358
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  191,
+                                       "endPointX":  212,
+                                       "startPointY":  268,
+                                       "endPointY":  289
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  94,
+                                       "endPointX":  115,
+                                       "startPointY":  423,
+                                       "endPointY":  444
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  103,
+                                       "endPointX":  123,
+                                       "startPointY":  235,
+                                       "endPointY":  256
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  148,
+                                       "endPointX":  169,
+                                       "startPointY":  488,
+                                       "endPointY":  509
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  403,
+                                       "endPointX":  424,
+                                       "startPointY":  422,
+                                       "endPointY":  443
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  310,
+                                       "endPointX":  331,
+                                       "startPointY":  570,
+                                       "endPointY":  590
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  355,
+                                       "endPointX":  376,
+                                       "startPointY":  599,
+                                       "endPointY":  619
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  437,
+                                       "endPointX":  458,
+                                       "startPointY":  634,
+                                       "endPointY":  655
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  523,
+                                       "endPointX":  544,
+                                       "startPointY":  682,
+                                       "endPointY":  703
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  566,
+                                       "endPointX":  587,
+                                       "startPointY":  706,
+                                       "endPointY":  727
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  618,
+                                       "endPointX":  639,
+                                       "startPointY":  677,
+                                       "endPointY":  698
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  605,
+                                       "endPointX":  626,
+                                       "startPointY":  570,
+                                       "endPointY":  590
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  486,
+                                       "endPointX":  507,
+                                       "startPointY":  659,
+                                       "endPointY":  679
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "B74-E3300-00",
+                                    "partName":  "BOMBA DE OLEO COMPLETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95E32-06060",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "94568-F9058",
+                                    "partName":  "CORRENTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4ST-E3411-00",
+                                    "partName":  "FILTRADOR DE OLEO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5RU-13490-00",
+                                    "partName":  "VALVULA DE DESCOMPRESSAO COMP.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93210-10096",
+                                    "partName":  "ANEL DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S7-E3440-10",
+                                    "partName":  "ELEMENTO DO FILTRO DE OLEO CJ",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B74-E3447-00",
+                                    "partName":  "TAMPA DO ELEMENTO DE OLEO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95E32-06020",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93210-48530",
+                                    "partName":  "ANEL DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

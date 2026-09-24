@@ -1,0 +1,311 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  643,
+                                       "endPointX":  663,
+                                       "startPointY":  723,
+                                       "endPointY":  743
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  486,
+                                       "endPointX":  506,
+                                       "startPointY":  915,
+                                       "endPointY":  935
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  328,
+                                       "endPointX":  348,
+                                       "startPointY":  837,
+                                       "endPointY":  857
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  492,
+                                       "endPointX":  512,
+                                       "startPointY":  609,
+                                       "endPointY":  629
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  257,
+                                       "endPointX":  277,
+                                       "startPointY":  776,
+                                       "endPointY":  796
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  293,
+                                       "endPointX":  313,
+                                       "startPointY":  659,
+                                       "endPointY":  679
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  352,
+                                       "endPointX":  372,
+                                       "startPointY":  700,
+                                       "endPointY":  720
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  378,
+                                       "endPointX":  398,
+                                       "startPointY":  607,
+                                       "endPointY":  627
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  109,
+                                       "endPointX":  129,
+                                       "startPointY":  501,
+                                       "endPointY":  521
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  528,
+                                       "endPointX":  548,
+                                       "startPointY":  145,
+                                       "endPointY":  165
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  646,
+                                       "endPointX":  666,
+                                       "startPointY":  105,
+                                       "endPointY":  125
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  618,
+                                       "endPointX":  638,
+                                       "startPointY":  120,
+                                       "endPointY":  140
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  467,
+                                       "endPointX":  487,
+                                       "startPointY":  181,
+                                       "endPointY":  201
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  580,
+                                       "endPointX":  600,
+                                       "startPointY":  66,
+                                       "endPointY":  86
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  684,
+                                       "endPointX":  704,
+                                       "startPointY":  223,
+                                       "endPointY":  243
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  90,
+                                       "endPointX":  110,
+                                       "startPointY":  862,
+                                       "endPointY":  882
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  359,
+                                       "endPointX":  379,
+                                       "startPointY":  317,
+                                       "endPointY":  337
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  429,
+                                       "endPointX":  449,
+                                       "startPointY":  512,
+                                       "endPointY":  532
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  496,
+                                       "endPointX":  516,
+                                       "startPointY":  331,
+                                       "endPointY":  351
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  307,
+                                       "endPointX":  327,
+                                       "startPointY":  964,
+                                       "endPointY":  984
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  155,
+                                       "endPointX":  175,
+                                       "startPointY":  976,
+                                       "endPointY":  996
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  302,
+                                       "endPointX":  322,
+                                       "startPointY":  804,
+                                       "endPointY":  824
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "BRB-E2170-00",
+                                    "partName":  "EIXO DE COMANDO COMPLETO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BRB-E2180-00",
+                                    "partName":  "EIXO DE COMANDO COMPLETO 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WD-E2176-00",
+                                    "partName":  "COROA DA CORRENTE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-07800",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "94568-K0118",
+                                    "partName":  "CORRENTE (98XRH2015-118P-M)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2MS-12210-00",
+                                    "partName":  "TENSIONADOR DA CORRENTE CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95022-06008",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90430-06014",
+                                    "partName":  "GAXETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WD-E2213-00",
+                                    "partName":  "GAXETA DA CAIXA DO TENSIONADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95812-06020",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WD-E2251-00",
+                                    "partName":  "AMORTIZADOR DA CORRENTE 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2MS-E2252-01",
+                                    "partName":  "AMORTIZADOR DA CORRENTE 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90110-06161",
+                                    "partName":  "PARAFUSO HEXAGONAL INTERNO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WD-E2256-00",
+                                    "partName":  "TAMPA DA CORRENTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90110-06161",
+                                    "partName":  "PARAFUSO HEXAGONAL INTERNO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

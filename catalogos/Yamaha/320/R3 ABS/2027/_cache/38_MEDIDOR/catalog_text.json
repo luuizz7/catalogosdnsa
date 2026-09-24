@@ -1,0 +1,265 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  119,
+                                       "endPointX":  139,
+                                       "startPointY":  317,
+                                       "endPointY":  337
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  189,
+                                       "endPointX":  209,
+                                       "startPointY":  180,
+                                       "endPointY":  200
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  189,
+                                       "endPointX":  209,
+                                       "startPointY":  375,
+                                       "endPointY":  395
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  199,
+                                       "endPointX":  219,
+                                       "startPointY":  465,
+                                       "endPointY":  485
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  226,
+                                       "endPointX":  246,
+                                       "startPointY":  505,
+                                       "endPointY":  525
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  273,
+                                       "endPointX":  293,
+                                       "startPointY":  494,
+                                       "endPointY":  514
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  349,
+                                       "endPointX":  369,
+                                       "startPointY":  539,
+                                       "endPointY":  559
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  351,
+                                       "endPointX":  371,
+                                       "startPointY":  501,
+                                       "endPointY":  521
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  411,
+                                       "endPointX":  431,
+                                       "startPointY":  570,
+                                       "endPointY":  590
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  436,
+                                       "endPointX":  456,
+                                       "startPointY":  464,
+                                       "endPointY":  484
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  452,
+                                       "endPointX":  472,
+                                       "startPointY":  545,
+                                       "endPointY":  565
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  452,
+                                       "endPointX":  472,
+                                       "startPointY":  498,
+                                       "endPointY":  518
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  161,
+                                       "endPointX":  181,
+                                       "startPointY":  593,
+                                       "endPointY":  613
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  159,
+                                       "endPointX":  179,
+                                       "startPointY":  654,
+                                       "endPointY":  674
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  351,
+                                       "endPointX":  371,
+                                       "startPointY":  732,
+                                       "endPointY":  752
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  455,
+                                       "endPointX":  475,
+                                       "startPointY":  737,
+                                       "endPointY":  757
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  159,
+                                       "endPointX":  179,
+                                       "startPointY":  717,
+                                       "endPointY":  737
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  349,
+                                       "endPointX":  369,
+                                       "startPointY":  785,
+                                       "endPointY":  805
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  454,
+                                       "endPointX":  474,
+                                       "startPointY":  789,
+                                       "endPointY":  809
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  159,
+                                       "endPointX":  179,
+                                       "startPointY":  686,
+                                       "endPointY":  706
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  351,
+                                       "endPointX":  371,
+                                       "startPointY":  758,
+                                       "endPointY":  778
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  455,
+                                       "endPointX":  475,
+                                       "startPointY":  763,
+                                       "endPointY":  783
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  192,
+                                       "endPointX":  212,
+                                       "startPointY":  535,
+                                       "endPointY":  555
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  477,
+                                       "endPointX":  497,
+                                       "startPointY":  630,
+                                       "endPointY":  650
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "BRA-H3500-00",
+                                    "partName":  "MEDIDOR CONJUNTO (KM/H)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B5P-H3571-01",
+                                    "partName":  ". CAIXA SUPERIOR DO VELOCIMETRO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BRA-H3572-00",
+                                    "partName":  ". CAIXA INFERIOR DO MEDIDOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "97707-30020",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  9,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BRA-H3519-00",
+                                    "partName":  "SUPORTE DO MEDIDOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90480-14229",
+                                    "partName":  "ILHO DE BORRACHA",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "97702-50016",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-05036",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95E32-06012",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}
