@@ -1,0 +1,72 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  96,
+                                       "endPointX":  117,
+                                       "startPointY":  686,
+                                       "endPointY":  707
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  243,
+                                       "endPointX":  264,
+                                       "startPointY":  767,
+                                       "endPointY":  788
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  225,
+                                       "endPointX":  245,
+                                       "startPointY":  578,
+                                       "endPointY":  599
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  230,
+                                       "endPointX":  251,
+                                       "startPointY":  685,
+                                       "endPointY":  705
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  188,
+                                       "endPointX":  209,
+                                       "startPointY":  692,
+                                       "endPointY":  712
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1RC-81450-00",
+                                    "partName":  "ROTOR DO MAGNETO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1RC-H1410-00",
+                                    "partName":  "ESTATOR CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90110-06223",
+                                    "partName":  "PARAFUSO HEXAGONAL INTERNO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

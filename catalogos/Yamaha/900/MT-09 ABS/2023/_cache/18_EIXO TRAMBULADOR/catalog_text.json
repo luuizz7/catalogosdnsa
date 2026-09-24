@@ -1,0 +1,201 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  425,
+                                       "endPointX":  446,
+                                       "startPointY":  369,
+                                       "endPointY":  390
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  498,
+                                       "endPointX":  519,
+                                       "startPointY":  411,
+                                       "endPointY":  431
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  541,
+                                       "endPointX":  562,
+                                       "startPointY":  432,
+                                       "endPointY":  453
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  311,
+                                       "endPointX":  332,
+                                       "startPointY":  802,
+                                       "endPointY":  823
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  353,
+                                       "endPointX":  374,
+                                       "startPointY":  92,
+                                       "endPointY":  113
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  219,
+                                       "endPointX":  240,
+                                       "startPointY":  749,
+                                       "endPointY":  770
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  489,
+                                       "endPointX":  510,
+                                       "startPointY":  169,
+                                       "endPointY":  190
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  469,
+                                       "endPointX":  490,
+                                       "startPointY":  801,
+                                       "endPointY":  822
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  204,
+                                       "endPointX":  225,
+                                       "startPointY":  251,
+                                       "endPointY":  272
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  133,
+                                       "endPointX":  154,
+                                       "startPointY":  397,
+                                       "endPointY":  418
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  86,
+                                       "endPointX":  106,
+                                       "startPointY":  372,
+                                       "endPointY":  393
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  172,
+                                       "endPointX":  193,
+                                       "startPointY":  230,
+                                       "endPointY":  251
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1RC-18540-01",
+                                    "partName":  "CAME DE MUDANCA COMPLETO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90501-06022",
+                                    "partName":  "MOLA DE COMPRESSAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "3D7-18542-00",
+                                    "partName":  "PONTO NEUTRO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1RC-18511-00",
+                                    "partName":  "GARFO DE MUDANCA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1RC-18512-00",
+                                    "partName":  "GARFO DE MUDANCA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1RC-18513-00",
+                                    "partName":  "GARFO DE MUDANCA 3",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1RC-18531-00",
+                                    "partName":  "BARRA GUIA DO GARFO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "20S-18535-00",
+                                    "partName":  "BARRA GUIA DO GARFO 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B7N-18536-00",
+                                    "partName":  "LIMITADOR DA ALAVANCA SELETORA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1RC-18562-00",
+                                    "partName":  "PLACA LIMITADORA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90149-06158",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

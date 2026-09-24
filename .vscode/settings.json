@@ -1,0 +1,12 @@
+{
+  "files.watcherExclude": {
+    "**/catalogos/**": true,
+    "**/_cache/**": true,
+    "**/imagens/**": true
+  },
+  "search.exclude": {
+    "**/catalogos/**": true,
+    "**/_cache/**": true,
+    "**/imagens/**": true
+  }
+}

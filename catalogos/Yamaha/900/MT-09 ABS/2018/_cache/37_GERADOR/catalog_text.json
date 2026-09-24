@@ -1,0 +1,58 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  228,
+                                       "endPointX":  248,
+                                       "startPointY":  635,
+                                       "endPointY":  656
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  482,
+                                       "endPointX":  503,
+                                       "startPointY":  783,
+                                       "endPointY":  803
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  347,
+                                       "endPointX":  368,
+                                       "startPointY":  706,
+                                       "endPointY":  727
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1RC-81450-00",
+                                    "partName":  "ROTOR DO MAGNETO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1RC-H1410-00",
+                                    "partName":  "ESTATOR CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90110-06223",
+                                    "partName":  "PARAFUSO HEXAGONAL INTERNO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

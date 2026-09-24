@@ -1,0 +1,283 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  164,
+                                       "endPointX":  185,
+                                       "startPointY":  697,
+                                       "endPointY":  717
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  243,
+                                       "endPointX":  264,
+                                       "startPointY":  390,
+                                       "endPointY":  411
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  199,
+                                       "endPointX":  220,
+                                       "startPointY":  350,
+                                       "endPointY":  371
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  295,
+                                       "endPointX":  316,
+                                       "startPointY":  291,
+                                       "endPointY":  311
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  165,
+                                       "endPointX":  186,
+                                       "startPointY":  330,
+                                       "endPointY":  351
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  90,
+                                       "endPointX":  111,
+                                       "startPointY":  289,
+                                       "endPointY":  309
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  171,
+                                       "endPointX":  192,
+                                       "startPointY":  173,
+                                       "endPointY":  194
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  127,
+                                       "endPointX":  148,
+                                       "startPointY":  308,
+                                       "endPointY":  329
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  417,
+                                       "endPointX":  438,
+                                       "startPointY":  430,
+                                       "endPointY":  451
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  428,
+                                       "endPointX":  449,
+                                       "startPointY":  286,
+                                       "endPointY":  307
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  444,
+                                       "endPointX":  464,
+                                       "startPointY":  161,
+                                       "endPointY":  182
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  458,
+                                       "endPointX":  479,
+                                       "startPointY":  317,
+                                       "endPointY":  338
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  426,
+                                       "endPointX":  447,
+                                       "startPointY":  217,
+                                       "endPointY":  238
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  135,
+                                       "endPointX":  156,
+                                       "startPointY":  580,
+                                       "endPointY":  601
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  95,
+                                       "endPointX":  115,
+                                       "startPointY":  555,
+                                       "endPointY":  575
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  557,
+                                       "endPointX":  577,
+                                       "startPointY":  332,
+                                       "endPointY":  353
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  505,
+                                       "endPointX":  526,
+                                       "startPointY":  332,
+                                       "endPointY":  353
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  408,
+                                       "endPointX":  429,
+                                       "startPointY":  451,
+                                       "endPointY":  472
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "2XD-13750-00",
+                                    "partName":  "CORPO DE ACELERACAO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1RC-13544-00",
+                                    "partName":  ". TUBO DE VACUO 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "68V-24376-00",
+                                    "partName":  ". JUNCAO DO TUBO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1RC-13542-00",
+                                    "partName":  ". TUBO DE VACUO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "8FP-14349-20",
+                                    "partName":  ". TUBO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "8FP-14349-00",
+                                    "partName":  ". TUBO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "3XV-14251-00",
+                                    "partName":  ". NIPLE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "8FP-14349-30",
+                                    "partName":  ". TUBO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2C0-14216-00",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2C0-82380-00",
+                                    "partName":  ". SENSOR DE PRESSAO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "13S-85885-00",
+                                    "partName":  ". SENSOR DE ACELERACAO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "8CC-14216-10",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1MC-85884-00",
+                                    "partName":  ". SENSOR DE ACELERACAO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5FL-14216-00",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2C0-14105-00",
+                                    "partName":  ". KIT PARAFUSO PILOTO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

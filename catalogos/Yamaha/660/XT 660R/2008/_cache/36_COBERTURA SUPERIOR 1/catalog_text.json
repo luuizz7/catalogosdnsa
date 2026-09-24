@@ -1,0 +1,157 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  551,
+                                       "endPointX":  573,
+                                       "startPointY":  631,
+                                       "endPointY":  650
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  424,
+                                       "endPointX":  446,
+                                       "startPointY":  771,
+                                       "endPointY":  793
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  513,
+                                       "endPointX":  532,
+                                       "startPointY":  479,
+                                       "endPointY":  501
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  291,
+                                       "endPointX":  313,
+                                       "startPointY":  754,
+                                       "endPointY":  776
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  203,
+                                       "endPointX":  225,
+                                       "startPointY":  84,
+                                       "endPointY":  106
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  142,
+                                       "endPointX":  164,
+                                       "startPointY":  142,
+                                       "endPointY":  164
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  317,
+                                       "endPointX":  339,
+                                       "startPointY":  404,
+                                       "endPointY":  426
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  174,
+                                       "endPointX":  196,
+                                       "startPointY":  620,
+                                       "endPointY":  642
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  96,
+                                       "endPointX":  115,
+                                       "startPointY":  481,
+                                       "endPointY":  503
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  513,
+                                       "endPointX":  535,
+                                       "startPointY":  797,
+                                       "endPointY":  819
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "5VK-F8351-10",
+                                    "partName":  "CARENAGEM",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90183-05061",
+                                    "partName":  "PORCA MOLA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90159-05083",
+                                    "partName":  "PARAFUSO COM ARRUELA",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VK-F8381-00",
+                                    "partName":  "PARABRISA",
+                                    "quantity":  1,
+                                    "remarks":  "PARA DPBSE",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90150-05023",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90179-05523",
+                                    "partName":  "PORCA",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VK-2837J-00",
+                                    "partName":  "AMORTIZADOR 5",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VK-2837K-00",
+                                    "partName":  "AMORTIZADOR 6",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

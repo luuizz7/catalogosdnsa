@@ -1,0 +1,72 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  481,
+                                       "endPointX":  501,
+                                       "startPointY":  195,
+                                       "endPointY":  216
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  166,
+                                       "endPointX":  187,
+                                       "startPointY":  369,
+                                       "endPointY":  389
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  353,
+                                       "endPointX":  374,
+                                       "startPointY":  593,
+                                       "endPointY":  613
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  130,
+                                       "endPointX":  151,
+                                       "startPointY":  456,
+                                       "endPointY":  477
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  455,
+                                       "endPointX":  476,
+                                       "startPointY":  695,
+                                       "endPointY":  715
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "B6L-H4700-00",
+                                    "partName":  "LANTERNA TRASEIRA COMPLETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90183-05076",
+                                    "partName":  "PORCA MOLA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90183-05042",
+                                    "partName":  "PORCA MOLA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

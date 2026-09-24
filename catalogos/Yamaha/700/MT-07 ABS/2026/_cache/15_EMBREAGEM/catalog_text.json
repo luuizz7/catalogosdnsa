@@ -1,0 +1,666 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  305,
+                                       "endPointX":  325,
+                                       "startPointY":  929,
+                                       "endPointY":  949
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  261,
+                                       "endPointX":  281,
+                                       "startPointY":  907,
+                                       "endPointY":  927
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  218,
+                                       "endPointX":  238,
+                                       "startPointY":  882,
+                                       "endPointY":  902
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  272,
+                                       "endPointX":  292,
+                                       "startPointY":  662,
+                                       "endPointY":  682
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  338,
+                                       "endPointX":  358,
+                                       "startPointY":  701,
+                                       "endPointY":  721
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  401,
+                                       "endPointX":  421,
+                                       "startPointY":  736,
+                                       "endPointY":  756
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  462,
+                                       "endPointX":  482,
+                                       "startPointY":  771,
+                                       "endPointY":  791
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  572,
+                                       "endPointX":  592,
+                                       "startPointY":  156,
+                                       "endPointY":  176
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  634,
+                                       "endPointX":  654,
+                                       "startPointY":  191,
+                                       "endPointY":  211
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  542,
+                                       "endPointX":  562,
+                                       "startPointY":  139,
+                                       "endPointY":  159
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  603,
+                                       "endPointX":  623,
+                                       "startPointY":  173,
+                                       "endPointY":  193
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  512,
+                                       "endPointX":  532,
+                                       "startPointY":  122,
+                                       "endPointY":  142
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  149,
+                                       "endPointX":  169,
+                                       "startPointY":  595,
+                                       "endPointY":  615
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  528,
+                                       "endPointX":  548,
+                                       "startPointY":  811,
+                                       "endPointY":  831
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  204,
+                                       "endPointX":  224,
+                                       "startPointY":  625,
+                                       "endPointY":  645
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  477,
+                                       "endPointX":  497,
+                                       "startPointY":  102,
+                                       "endPointY":  122
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  664,
+                                       "endPointX":  684,
+                                       "startPointY":  207,
+                                       "endPointY":  227
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  375,
+                                       "endPointX":  395,
+                                       "startPointY":  722,
+                                       "endPointY":  742
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  432,
+                                       "endPointX":  452,
+                                       "startPointY":  754,
+                                       "endPointY":  774
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  497,
+                                       "endPointX":  517,
+                                       "startPointY":  791,
+                                       "endPointY":  811
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  177,
+                                       "endPointX":  197,
+                                       "startPointY":  610,
+                                       "endPointY":  630
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  534,
+                                       "endPointX":  554,
+                                       "startPointY":  405,
+                                       "endPointY":  425
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  425,
+                                       "endPointX":  445,
+                                       "startPointY":  505,
+                                       "endPointY":  525
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  406,
+                                       "endPointX":  426,
+                                       "startPointY":  480,
+                                       "endPointY":  500
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  474,
+                                       "endPointX":  494,
+                                       "startPointY":  404,
+                                       "endPointY":  424
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  424,
+                                       "endPointX":  444,
+                                       "startPointY":  379,
+                                       "endPointY":  399
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  349,
+                                       "endPointX":  369,
+                                       "startPointY":  461,
+                                       "endPointY":  481
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  323,
+                                       "endPointX":  343,
+                                       "startPointY":  436,
+                                       "endPointY":  456
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  389,
+                                       "endPointX":  409,
+                                       "startPointY":  364,
+                                       "endPointY":  384
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  586,
+                                       "endPointX":  606,
+                                       "startPointY":  839,
+                                       "endPointY":  859
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  613,
+                                       "endPointX":  633,
+                                       "startPointY":  853,
+                                       "endPointY":  873
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  235,
+                                       "endPointX":  255,
+                                       "startPointY":  644,
+                                       "endPointY":  664
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  300,
+                                       "endPointX":  320,
+                                       "startPointY":  682,
+                                       "endPointY":  702
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  469,
+                                       "endPointX":  489,
+                                       "startPointY":  855,
+                                       "endPointY":  875
+                                   },
+                                   {
+                                       "refNo":  "17",
+                                       "startPointX":  504,
+                                       "endPointX":  524,
+                                       "startPointY":  875,
+                                       "endPointY":  895
+                                   },
+                                   {
+                                       "refNo":  "18",
+                                       "startPointX":  537,
+                                       "endPointX":  557,
+                                       "startPointY":  893,
+                                       "endPointY":  913
+                                   },
+                                   {
+                                       "refNo":  "19",
+                                       "startPointX":  198,
+                                       "endPointX":  218,
+                                       "startPointY":  834,
+                                       "endPointY":  854
+                                   },
+                                   {
+                                       "refNo":  "20",
+                                       "startPointX":  168,
+                                       "endPointX":  188,
+                                       "startPointY":  818,
+                                       "endPointY":  838
+                                   },
+                                   {
+                                       "refNo":  "21",
+                                       "startPointX":  138,
+                                       "endPointX":  158,
+                                       "startPointY":  800,
+                                       "endPointY":  820
+                                   },
+                                   {
+                                       "refNo":  "22",
+                                       "startPointX":  593,
+                                       "endPointX":  613,
+                                       "startPointY":  491,
+                                       "endPointY":  511
+                                   },
+                                   {
+                                       "refNo":  "23",
+                                       "startPointX":  146,
+                                       "endPointX":  166,
+                                       "startPointY":  134,
+                                       "endPointY":  154
+                                   },
+                                   {
+                                       "refNo":  "24",
+                                       "startPointX":  158,
+                                       "endPointX":  178,
+                                       "startPointY":  158,
+                                       "endPointY":  178
+                                   },
+                                   {
+                                       "refNo":  "25",
+                                       "startPointX":  134,
+                                       "endPointX":  154,
+                                       "startPointY":  111,
+                                       "endPointY":  131
+                                   },
+                                   {
+                                       "refNo":  "26",
+                                       "startPointX":  121,
+                                       "endPointX":  141,
+                                       "startPointY":  88,
+                                       "endPointY":  108
+                                   },
+                                   {
+                                       "refNo":  "27",
+                                       "startPointX":  162,
+                                       "endPointX":  182,
+                                       "startPointY":  452,
+                                       "endPointY":  472
+                                   },
+                                   {
+                                       "refNo":  "28",
+                                       "startPointX":  337,
+                                       "endPointX":  357,
+                                       "startPointY":  204,
+                                       "endPointY":  224
+                                   },
+                                   {
+                                       "refNo":  "29",
+                                       "startPointX":  612,
+                                       "endPointX":  632,
+                                       "startPointY":  116,
+                                       "endPointY":  136
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1WS-16150-00",
+                                    "partName":  "ENGRENAGEM MOVIDA COMPLETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "363-16154-00",
+                                    "partName":  "PLACA DE ENCOSTO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BEB-16371-00",
+                                    "partName":  "CUBO DE EMBREAGEM",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B7N-16321-00",
+                                    "partName":  "PLACA DE FRICCAO",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B90-16331-00",
+                                    "partName":  "PLACA DE FRICCAO 2",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VY-16325-10",
+                                    "partName":  "PLACA DE EMBREAGEM 2",
+                                    "quantity":  3,
+                                    "remarks":  "(T2.0)",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1TD-16324-00",
+                                    "partName":  "PLACA DE EMBREAGEM 1",
+                                    "quantity":  1,
+                                    "remarks":  "(T2.3)",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BEB-16350-00",
+                                    "partName":  "PLACA DE PRESSAO CONJUNTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BEB-16173-00",
+                                    "partName":  "MOLA DE COMPRESSAO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B90-16352-00",
+                                    "partName":  "PLACA DE PRESSAO 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2CR-16337-00",
+                                    "partName":  "PARAFUSO DE FIXACAO DA MOLA",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1TD-16383-01",
+                                    "partName":  "MOLA DO CUBO DE EMBREAGEM",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1TD-16384-00",
+                                    "partName":  "PLACA DE ASSENTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4B1-16325-00",
+                                    "partName":  "PLACA DE EMBREAGEM 2",
+                                    "quantity":  1,
+                                    "remarks":  "UR (T2.3)",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BR9-16324-10",
+                                    "partName":  "PLACA DE EMBREAGEM 1",
+                                    "quantity":  1,
+                                    "remarks":  "UR (T1.6)",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VY-16325-10",
+                                    "partName":  "PLACA DE EMBREAGEM 2",
+                                    "quantity":  1,
+                                    "remarks":  "UR (T2.0)",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4B1-16325-00",
+                                    "partName":  "PLACA DE EMBREAGEM 2",
+                                    "quantity":  1,
+                                    "remarks":  "UR (T2.3)",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BR9-16324-10",
+                                    "partName":  "PLACA DE EMBREAGEM 1",
+                                    "quantity":  1,
+                                    "remarks":  "UR (T1.6)",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VY-16325-10",
+                                    "partName":  "PLACA DE EMBREAGEM 2",
+                                    "quantity":  1,
+                                    "remarks":  "UR (T2.0)",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-16181-00",
+                                    "partName":  "ESPACADOR 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "16",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93310-332C2",
+                                    "partName":  "ROLAMENTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "17",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "363-16154-00",
+                                    "partName":  "PLACA DE ENCOSTO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "18",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-20030",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "19",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90208-20001",
+                                    "partName":  "ARRUELA CONICA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "20",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90179-20007",
+                                    "partName":  "PORCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "21",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-16356-00",
+                                    "partName":  "HASTE IMPULSORA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "22",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-16340-01",
+                                    "partName":  "ALAVANCA IMPULSORA COMPLETA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "23",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90508-18132",
+                                    "partName":  "MOLA DE TORCAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "24",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-10029",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "25",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "99009-10400",
+                                    "partName":  "ANEL TRAVA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "26",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BLW-15461-00",
+                                    "partName":  "GAXETA DA TAMPA DA CARCACA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "27",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BLW-W001G-00",
+                                    "partName":  "KIT PLACA DE EMBREAGEM",
+                                    "quantity":  1,
+                                    "remarks":  "AP",
+                                    "appSerial":  null,
+                                    "refNo":  "28",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BEB-W001M-00",
+                                    "partName":  "KIT PLACA DE FRICCAO",
+                                    "quantity":  1,
+                                    "remarks":  "AP",
+                                    "appSerial":  null,
+                                    "refNo":  "29",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

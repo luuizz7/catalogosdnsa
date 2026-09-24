@@ -1,0 +1,161 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  215,
+                                       "endPointX":  237,
+                                       "startPointY":  498,
+                                       "endPointY":  520
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  220,
+                                       "endPointX":  242,
+                                       "startPointY":  610,
+                                       "endPointY":  632
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  141,
+                                       "endPointX":  160,
+                                       "startPointY":  294,
+                                       "endPointY":  316
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  194,
+                                       "endPointX":  216,
+                                       "startPointY":  250,
+                                       "endPointY":  272
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  355,
+                                       "endPointX":  377,
+                                       "startPointY":  216,
+                                       "endPointY":  238
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  290,
+                                       "endPointX":  312,
+                                       "startPointY":  263,
+                                       "endPointY":  285
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  372,
+                                       "endPointX":  394,
+                                       "startPointY":  280,
+                                       "endPointY":  299
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  154,
+                                       "endPointX":  176,
+                                       "startPointY":  333,
+                                       "endPointY":  355
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  212,
+                                       "endPointX":  234,
+                                       "startPointY":  345,
+                                       "endPointY":  367
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  267,
+                                       "endPointX":  289,
+                                       "startPointY":  216,
+                                       "endPointY":  238
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  502,
+                                       "endPointX":  524,
+                                       "startPointY":  475,
+                                       "endPointY":  497
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  523,
+                                       "endPointX":  545,
+                                       "startPointY":  522,
+                                       "endPointY":  544
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "5VK-11311-00",
+                                    "partName":  "CILINDRO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VK-11351-00",
+                                    "partName":  "GAXETA DO CILINDRO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-10078",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-10077",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-101A4",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  4,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91317-06040",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90465-10045",
+                                    "partName":  "BRACADEIRA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

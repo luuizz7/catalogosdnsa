@@ -1,0 +1,388 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  375,
+                                       "endPointX":  396,
+                                       "startPointY":  821,
+                                       "endPointY":  841
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  326,
+                                       "endPointX":  346,
+                                       "startPointY":  724,
+                                       "endPointY":  745
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  265,
+                                       "endPointX":  286,
+                                       "startPointY":  694,
+                                       "endPointY":  715
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  236,
+                                       "endPointX":  257,
+                                       "startPointY":  674,
+                                       "endPointY":  695
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  462,
+                                       "endPointX":  483,
+                                       "startPointY":  97,
+                                       "endPointY":  118
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  460,
+                                       "endPointX":  481,
+                                       "startPointY":  241,
+                                       "endPointY":  262
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  471,
+                                       "endPointX":  492,
+                                       "startPointY":  286,
+                                       "endPointY":  307
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  195,
+                                       "endPointX":  215,
+                                       "startPointY":  210,
+                                       "endPointY":  231
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  145,
+                                       "endPointX":  166,
+                                       "startPointY":  184,
+                                       "endPointY":  204
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  453,
+                                       "endPointX":  474,
+                                       "startPointY":  198,
+                                       "endPointY":  219
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  98,
+                                       "endPointX":  119,
+                                       "startPointY":  236,
+                                       "endPointY":  257
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  532,
+                                       "endPointX":  553,
+                                       "startPointY":  284,
+                                       "endPointY":  305
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  381,
+                                       "endPointX":  401,
+                                       "startPointY":  390,
+                                       "endPointY":  411
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  192,
+                                       "endPointX":  213,
+                                       "startPointY":  439,
+                                       "endPointY":  460
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  225,
+                                       "endPointX":  246,
+                                       "startPointY":  96,
+                                       "endPointY":  116
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  170,
+                                       "endPointX":  191,
+                                       "startPointY":  71,
+                                       "endPointY":  92
+                                   },
+                                   {
+                                       "refNo":  "17",
+                                       "startPointX":  77,
+                                       "endPointX":  98,
+                                       "startPointY":  148,
+                                       "endPointY":  169
+                                   },
+                                   {
+                                       "refNo":  "18",
+                                       "startPointX":  346,
+                                       "endPointX":  367,
+                                       "startPointY":  151,
+                                       "endPointY":  171
+                                   },
+                                   {
+                                       "refNo":  "19",
+                                       "startPointX":  362,
+                                       "endPointX":  383,
+                                       "startPointY":  101,
+                                       "endPointY":  122
+                                   },
+                                   {
+                                       "refNo":  "20",
+                                       "startPointX":  81,
+                                       "endPointX":  102,
+                                       "startPointY":  376,
+                                       "endPointY":  397
+                                   },
+                                   {
+                                       "refNo":  "21",
+                                       "startPointX":  285,
+                                       "endPointX":  306,
+                                       "startPointY":  488,
+                                       "endPointY":  509
+                                   },
+                                   {
+                                       "refNo":  "22",
+                                       "startPointX":  124,
+                                       "endPointX":  145,
+                                       "startPointY":  401,
+                                       "endPointY":  422
+                                   },
+                                   {
+                                       "refNo":  "22",
+                                       "startPointX":  241,
+                                       "endPointX":  262,
+                                       "startPointY":  471,
+                                       "endPointY":  492
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1RC-2582W-00",
+                                    "partName":  "DISCO DE FREIO TRAS. 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90109-08046",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  5,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2DR-2517G-00",
+                                    "partName":  "ROTOR DO SENSOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90149-05029",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2DR-2580W-00",
+                                    "partName":  "PINCA FREIO CONJ. TRASEIRO 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5SL-25802-00",
+                                    "partName":  ". JOGO DE PISTOES DA PINCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5SL-25803-00",
+                                    "partName":  ". . JOGO DE RETENTORES DA PINCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5SL-25917-00",
+                                    "partName":  ". PROTETOR DA PINCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5SL-25838-00",
+                                    "partName":  ". CAPA DA PINCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5SL-25919-00",
+                                    "partName":  ". SUPORTE DA PASTILHA DE FREIO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5SL-25914-00",
+                                    "partName":  ". CONTRA PINO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2DR-25921-50",
+                                    "partName":  ". FIXADOR DO SUPORTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "3JD-25917-00",
+                                    "partName":  ". PROTETOR DA PINCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VX-25806-00",
+                                    "partName":  ". KIT DE PASTILHAS DE FREIO 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "8CR-25924-00",
+                                    "partName":  ". PINO DA PASTILHA DE FREIO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5DH-25916-00",
+                                    "partName":  ". PLUGUE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "16",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1RC-25926-00",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "17",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "8CR-25824-00",
+                                    "partName":  ". PARAFUSO SANGRADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "18",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1UY-25825-51",
+                                    "partName":  ". TAMPAO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "19",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5SL-25827-00",
+                                    "partName":  ". CALCO DA PINCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "20",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5SL-25827-10",
+                                    "partName":  ". CALCO DA PINCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "21",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5SL-25828-01",
+                                    "partName":  ". CALCO DA PINCA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "22",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

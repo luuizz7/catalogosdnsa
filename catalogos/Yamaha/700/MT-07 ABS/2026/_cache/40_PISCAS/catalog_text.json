@@ -1,0 +1,75 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  150,
+                                       "endPointX":  170,
+                                       "startPointY":  761,
+                                       "endPointY":  781
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  401,
+                                       "endPointX":  421,
+                                       "startPointY":  898,
+                                       "endPointY":  918
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  419,
+                                       "endPointX":  439,
+                                       "startPointY":  196,
+                                       "endPointY":  216
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  670,
+                                       "endPointX":  690,
+                                       "startPointY":  343,
+                                       "endPointY":  363
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "B5Y-H330B-00",
+                                    "partName":  "PISCA CONJUNTO B",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B5Y-H330A-00",
+                                    "partName":  "PISCA CONJUNTO A",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "B1X-H330B-01",
+                                    "partName":  "PISCA CONJUNTO B",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "BEA-H330A-01",
+                                    "partName":  "PISCA CONJUNTO A",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

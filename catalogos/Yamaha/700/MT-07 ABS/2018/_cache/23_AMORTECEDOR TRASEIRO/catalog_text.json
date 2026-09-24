@@ -1,0 +1,109 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  229,
+                                       "endPointX":  250,
+                                       "startPointY":  302,
+                                       "endPointY":  323
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  312,
+                                       "endPointX":  333,
+                                       "startPointY":  192,
+                                       "endPointY":  213
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  544,
+                                       "endPointX":  565,
+                                       "startPointY":  329,
+                                       "endPointY":  350
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  233,
+                                       "endPointX":  254,
+                                       "startPointY":  516,
+                                       "endPointY":  536
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  280,
+                                       "endPointX":  301,
+                                       "startPointY":  543,
+                                       "endPointY":  564
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  97,
+                                       "endPointX":  118,
+                                       "startPointY":  348,
+                                       "endPointY":  369
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "BU2-22210-90",
+                                    "partName":  "AMORTECEDOR TRASEIRO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "UR P/ MDNM6,BNS4",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-10283",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95602-10200",
+                                    "partName":  "PORCA AUTOTRAVANTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90387-1012A",
+                                    "partName":  "ESPACADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90105-10212",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95602-10200",
+                                    "partName":  "PORCA AUTOTRAVANTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

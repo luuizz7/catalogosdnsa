@@ -1,4 +1,4 @@
-﻿(() => {
+(() => {
     const el = {
         modelo: document.getElementById("modelo"),
         ano: document.getElementById("ano"),
@@ -33,6 +33,15 @@
     let baseCatalogo = "";
     let panX = 0;
     let panY = 0;
+    let ehHonda = false;
+
+    function nomeFigura(fig) {
+        if (ehHonda) {
+            return String(fig?.nome || fig?.numero || "").trim();
+        }
+
+        return `${fig?.numero ?? ""} ${fig?.nome ?? ""}`.trim();
+    }
 
     function esc(valor) {
         return String(valor ?? "")
@@ -78,7 +87,12 @@
     function aplicarZoom() {
         const canvas = document.getElementById("canvasImagem");
 
-        el.imagem.style.width = `${zoom * 100}%`;
+        // As ilustrações Yamaha/Honda já vêm com bastante margem branca
+        // dentro do próprio PNG. Em 100% aumentamos levemente a imagem
+        // para cortar visualmente essa sobra, sem alterar o valor do zoom.
+        const escalaBase = ehHonda ? 1.22 : 1.15;
+
+        el.imagem.style.width = `${zoom * escalaBase * 100}%`;
         el.zoomValor.textContent = `${Math.round(zoom * 100)}%`;
 
         if (!canvas) {
@@ -117,22 +131,54 @@
         const fig = dados.figuras[indiceAtual];
 
         el.select.value = String(indiceAtual);
-        el.titulo.textContent = `${fig.numero} ${fig.nome}`;
+
+        const nomeExibido = nomeFigura(fig);
+
+        el.titulo.textContent = nomeExibido;
         el.contador.textContent = `${fig.pecas?.length || 0} peças`;
 
         el.imagem.src = resolverImagem(fig.imagem);
-        el.imagem.alt = `${fig.numero} ${fig.nome}`;
+        el.imagem.alt = nomeExibido;
 
-        const pecas = Array.isArray(fig.pecas) ? fig.pecas : [];
+        let pecas = Array.isArray(fig.pecas) ? [...fig.pecas] : [];
 
-        el.tbody.innerHTML = pecas.map(peca => `
-            <tr>
-                <td>${esc(peca.ref)}</td>
-                <td>${esc(peca.codigo)}</td>
-                <td>${esc(peca.descricao)}</td>
-                <td>${esc(peca.quantidade)}</td>
-            </tr>
-        `).join("");
+        // No catálogo Honda a referência vem como texto.
+        // Sem ordenação natural, "10" fica logo depois de "1".
+        // Ordenamos SOMENTE a Honda por referência numérica/natural.
+        if (ehHonda) {
+            const ordenadorRef = new Intl.Collator("pt-BR", {
+                numeric: true,
+                sensitivity: "base"
+            });
+
+            pecas.sort((a, b) =>
+                ordenadorRef.compare(
+                    String(a?.ref ?? ""),
+                    String(b?.ref ?? "")
+                )
+            );
+        }
+
+        el.tbody.innerHTML = pecas.map(peca => {
+            if (ehHonda) {
+                return `
+                    <tr>
+                        <td>${esc(peca.ref)}</td>
+                        <td>${esc(peca.codigo)}</td>
+                        <td>${esc(peca.descricao)}</td>
+                    </tr>
+                `;
+            }
+
+            return `
+                <tr>
+                    <td>${esc(peca.ref)}</td>
+                    <td>${esc(peca.codigo)}</td>
+                    <td>${esc(peca.descricao)}</td>
+                    <td>${esc(peca.quantidade)}</td>
+                </tr>
+            `;
+        }).join("");
 
         el.anterior.disabled = indiceAtual === 0;
         el.proxima.disabled = indiceAtual === dados.figuras.length - 1;
@@ -165,24 +211,28 @@
     function renderizarIndice() {
         const figuras = Array.isArray(dados.figuras) ? dados.figuras : [];
 
-        el.grade.innerHTML = figuras.map((fig, i) => `
-            <button class="card-figura" type="button" data-indice="${i}">
-                <div class="card-figura-imagem">
-                    <img
-                        src="${esc(resolverImagem(fig.imagem))}"
-                        alt="${esc(fig.numero)} ${esc(fig.nome)}"
-                        loading="lazy">
-                </div>
+        el.grade.innerHTML = figuras.map((fig, i) => {
+            const nomeExibido = nomeFigura(fig);
 
-                <div class="card-figura-rodape">
-                    <div class="card-figura-titulo">
-                        ${esc(fig.numero)} ${esc(fig.nome)}
+            return `
+                <button class="card-figura" type="button" data-indice="${i}">
+                    <div class="card-figura-imagem">
+                        <img
+                            src="${esc(resolverImagem(fig.imagem))}"
+                            alt="${esc(nomeExibido)}"
+                            loading="lazy">
                     </div>
 
-                    <div class="card-figura-seta" aria-hidden="true">→</div>
-                </div>
-            </button>
-        `).join("");
+                    <div class="card-figura-rodape">
+                        <div class="card-figura-titulo">
+                            ${esc(nomeExibido)}
+                        </div>
+
+                        <div class="card-figura-seta" aria-hidden="true">→</div>
+                    </div>
+                </button>
+            `;
+        }).join("");
 
         el.grade.querySelectorAll(".card-figura").forEach(card => {
             card.addEventListener("click", () => {
@@ -221,6 +271,12 @@
 
         dados = await resp.json();
 
+        ehHonda = String(dados.marca || "")
+            .trim()
+            .toLowerCase() === "honda";
+
+        document.body.classList.toggle("catalogo-honda", ehHonda);
+
         el.modelo.textContent =
             `${dados.modelo || ""}${dados.apelido ? " — " + dados.apelido : ""}`;
 
@@ -234,10 +290,10 @@
         }
 
         document.title =
-            `${dados.modelo || "Yamaha"} ${dados.ano || ""} - Catálogo de Peças`;
+            `${dados.modelo || dados.marca || "Catálogo"} ${dados.ano || ""} - Catálogo de Peças`;
 
         el.select.innerHTML = figuras.map((fig, i) => (
-            `<option value="${i}">${esc(fig.numero)} ${esc(fig.nome)}</option>`
+            `<option value="${i}">${esc(nomeFigura(fig))}</option>`
         )).join("");
 
         renderizarIndice();

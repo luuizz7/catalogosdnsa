@@ -1,0 +1,143 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  144,
+                                       "endPointX":  165,
+                                       "startPointY":  708,
+                                       "endPointY":  728
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  240,
+                                       "endPointX":  260,
+                                       "startPointY":  763,
+                                       "endPointY":  783
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  579,
+                                       "endPointX":  599,
+                                       "startPointY":  768,
+                                       "endPointY":  789
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  404,
+                                       "endPointX":  425,
+                                       "startPointY":  443,
+                                       "endPointY":  464
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  469,
+                                       "endPointX":  490,
+                                       "startPointY":  475,
+                                       "endPointY":  495
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  525,
+                                       "endPointX":  545,
+                                       "startPointY":  348,
+                                       "endPointY":  369
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  473,
+                                       "endPointX":  493,
+                                       "startPointY":  315,
+                                       "endPointY":  336
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  586,
+                                       "endPointX":  607,
+                                       "startPointY":  381,
+                                       "endPointY":  402
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1WS-15515-00",
+                                    "partName":  "ENGRENAGEM 3",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-15590-00",
+                                    "partName":  "PARTIDA SENTIDO UNICO COMP.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90149-08030",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "23P-15521-00",
+                                    "partName":  "EIXO 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-15512-00",
+                                    "partName":  "ENGRENAGEM LOUCA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-15560-00",
+                                    "partName":  "ENGRENAGEM DA PARTIDA CONJ",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93317-11096",
+                                    "partName":  "ROLAMENTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93306-00006",
+                                    "partName":  "ROLAMENTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

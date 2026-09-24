@@ -1,0 +1,92 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  495,
+                                       "endPointX":  516,
+                                       "startPointY":  673,
+                                       "endPointY":  694
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  204,
+                                       "endPointX":  225,
+                                       "startPointY":  511,
+                                       "endPointY":  532
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  448,
+                                       "endPointX":  468,
+                                       "startPointY":  643,
+                                       "endPointY":  664
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  405,
+                                       "endPointX":  426,
+                                       "startPointY":  356,
+                                       "endPointY":  377
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  475,
+                                       "endPointX":  495,
+                                       "startPointY":  337,
+                                       "endPointY":  358
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1WS-H1410-00",
+                                    "partName":  "ESTATOR CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-81450-01",
+                                    "partName":  "ROTOR DO MAGNETO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90110-06177",
+                                    "partName":  "PARAFUSO HEXAGONAL INTERNO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90149-06109",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-15484-00",
+                                    "partName":  "BRACADEIRA 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

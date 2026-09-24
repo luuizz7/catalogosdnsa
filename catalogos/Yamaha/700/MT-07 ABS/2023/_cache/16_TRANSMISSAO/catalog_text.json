@@ -1,0 +1,755 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  267,
+                                       "endPointX":  287,
+                                       "startPointY":  647,
+                                       "endPointY":  668
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  377,
+                                       "endPointX":  398,
+                                       "startPointY":  708,
+                                       "endPointY":  728
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  336,
+                                       "endPointX":  357,
+                                       "startPointY":  682,
+                                       "endPointY":  702
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  410,
+                                       "endPointX":  431,
+                                       "startPointY":  726,
+                                       "endPointY":  747
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  439,
+                                       "endPointX":  460,
+                                       "startPointY":  744,
+                                       "endPointY":  765
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  83,
+                                       "endPointX":  103,
+                                       "startPointY":  709,
+                                       "endPointY":  729
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  126,
+                                       "endPointX":  147,
+                                       "startPointY":  731,
+                                       "endPointY":  752
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  152,
+                                       "endPointX":  173,
+                                       "startPointY":  747,
+                                       "endPointY":  768
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  215,
+                                       "endPointX":  235,
+                                       "startPointY":  787,
+                                       "endPointY":  807
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  181,
+                                       "endPointX":  202,
+                                       "startPointY":  767,
+                                       "endPointY":  788
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  251,
+                                       "endPointX":  272,
+                                       "startPointY":  807,
+                                       "endPointY":  828
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  282,
+                                       "endPointX":  303,
+                                       "startPointY":  824,
+                                       "endPointY":  845
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  373,
+                                       "endPointX":  393,
+                                       "startPointY":  749,
+                                       "endPointY":  770
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  412,
+                                       "endPointX":  433,
+                                       "startPointY":  772,
+                                       "endPointY":  793
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  103,
+                                       "endPointX":  124,
+                                       "startPointY":  539,
+                                       "endPointY":  560
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  91,
+                                       "endPointX":  112,
+                                       "startPointY":  482,
+                                       "endPointY":  503
+                                   },
+                                   {
+                                       "refNo":  "17",
+                                       "startPointX":  176,
+                                       "endPointX":  197,
+                                       "startPointY":  438,
+                                       "endPointY":  459
+                                   },
+                                   {
+                                       "refNo":  "18",
+                                       "startPointX":  275,
+                                       "endPointX":  296,
+                                       "startPointY":  495,
+                                       "endPointY":  516
+                                   },
+                                   {
+                                       "refNo":  "19",
+                                       "startPointX":  363,
+                                       "endPointX":  384,
+                                       "startPointY":  546,
+                                       "endPointY":  567
+                                   },
+                                   {
+                                       "refNo":  "20",
+                                       "startPointX":  326,
+                                       "endPointX":  347,
+                                       "startPointY":  527,
+                                       "endPointY":  547
+                                   },
+                                   {
+                                       "refNo":  "21",
+                                       "startPointX":  408,
+                                       "endPointX":  429,
+                                       "startPointY":  575,
+                                       "endPointY":  595
+                                   },
+                                   {
+                                       "refNo":  "22",
+                                       "startPointX":  576,
+                                       "endPointX":  597,
+                                       "startPointY":  304,
+                                       "endPointY":  325
+                                   },
+                                   {
+                                       "refNo":  "23",
+                                       "startPointX":  606,
+                                       "endPointX":  626,
+                                       "startPointY":  344,
+                                       "endPointY":  364
+                                   },
+                                   {
+                                       "refNo":  "24",
+                                       "startPointX":  478,
+                                       "endPointX":  498,
+                                       "startPointY":  433,
+                                       "endPointY":  454
+                                   },
+                                   {
+                                       "refNo":  "25",
+                                       "startPointX":  445,
+                                       "endPointX":  466,
+                                       "startPointY":  415,
+                                       "endPointY":  436
+                                   },
+                                   {
+                                       "refNo":  "26",
+                                       "startPointX":  404,
+                                       "endPointX":  425,
+                                       "startPointY":  391,
+                                       "endPointY":  412
+                                   },
+                                   {
+                                       "refNo":  "27",
+                                       "startPointX":  369,
+                                       "endPointX":  389,
+                                       "startPointY":  372,
+                                       "endPointY":  392
+                                   },
+                                   {
+                                       "refNo":  "28",
+                                       "startPointX":  340,
+                                       "endPointX":  361,
+                                       "startPointY":  354,
+                                       "endPointY":  375
+                                   },
+                                   {
+                                       "refNo":  "29",
+                                       "startPointX":  274,
+                                       "endPointX":  295,
+                                       "startPointY":  315,
+                                       "endPointY":  335
+                                   },
+                                   {
+                                       "refNo":  "30",
+                                       "startPointX":  309,
+                                       "endPointX":  330,
+                                       "startPointY":  336,
+                                       "endPointY":  357
+                                   },
+                                   {
+                                       "refNo":  "31",
+                                       "startPointX":  234,
+                                       "endPointX":  255,
+                                       "startPointY":  293,
+                                       "endPointY":  313
+                                   },
+                                   {
+                                       "refNo":  "32",
+                                       "startPointX":  199,
+                                       "endPointX":  220,
+                                       "startPointY":  272,
+                                       "endPointY":  293
+                                   },
+                                   {
+                                       "refNo":  "33",
+                                       "startPointX":  167,
+                                       "endPointX":  188,
+                                       "startPointY":  254,
+                                       "endPointY":  275
+                                   },
+                                   {
+                                       "refNo":  "34",
+                                       "startPointX":  138,
+                                       "endPointX":  159,
+                                       "startPointY":  236,
+                                       "endPointY":  257
+                                   },
+                                   {
+                                       "refNo":  "35",
+                                       "startPointX":  111,
+                                       "endPointX":  131,
+                                       "startPointY":  221,
+                                       "endPointY":  242
+                                   },
+                                   {
+                                       "refNo":  "36",
+                                       "startPointX":  79,
+                                       "endPointX":  100,
+                                       "startPointY":  203,
+                                       "endPointY":  224
+                                   },
+                                   {
+                                       "refNo":  "37",
+                                       "startPointX":  566,
+                                       "endPointX":  587,
+                                       "startPointY":  171,
+                                       "endPointY":  192
+                                   },
+                                   {
+                                       "refNo":  "38",
+                                       "startPointX":  487,
+                                       "endPointX":  508,
+                                       "startPointY":  97,
+                                       "endPointY":  118
+                                   },
+                                   {
+                                       "refNo":  "39",
+                                       "startPointX":  517,
+                                       "endPointX":  538,
+                                       "startPointY":  143,
+                                       "endPointY":  164
+                                   },
+                                   {
+                                       "refNo":  "40",
+                                       "startPointX":  452,
+                                       "endPointX":  472,
+                                       "startPointY":  597,
+                                       "endPointY":  618
+                                   },
+                                   {
+                                       "refNo":  "41",
+                                       "startPointX":  495,
+                                       "endPointX":  516,
+                                       "startPointY":  623,
+                                       "endPointY":  644
+                                   },
+                                   {
+                                       "refNo":  "42",
+                                       "startPointX":  533,
+                                       "endPointX":  554,
+                                       "startPointY":  644,
+                                       "endPointY":  665
+                                   },
+                                   {
+                                       "refNo":  "43",
+                                       "startPointX":  435,
+                                       "endPointX":  456,
+                                       "startPointY":  98,
+                                       "endPointY":  119
+                                   },
+                                   {
+                                       "refNo":  "44",
+                                       "startPointX":  392,
+                                       "endPointX":  413,
+                                       "startPointY":  84,
+                                       "endPointY":  104
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1WS-17401-00",
+                                    "partName":  "EIXO PRINCIPAL CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-17151-00",
+                                    "partName":  "ENGRENAGEM MOTORA DA 5A (22D)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90387-250R3",
+                                    "partName":  "ESPACADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90209-21332",
+                                    "partName":  "ARRUELA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93440-25186",
+                                    "partName":  "ANEL TRAVA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-17131-00",
+                                    "partName":  "ENGRENAGEM MOTORA DA 3A(20/19D",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93440-25186",
+                                    "partName":  "ANEL TRAVA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90209-21332",
+                                    "partName":  "ARRUELA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-17161-00",
+                                    "partName":  "ENGRENAGEM MOTORA DA 6A (28D)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90387-21003",
+                                    "partName":  "ESPACADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90209-22352",
+                                    "partName":  "ARRUELA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90209-21351",
+                                    "partName":  "ARRUELA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-17121-00",
+                                    "partName":  "ENGRENAGEM MOTORA DA 2A (16D)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93306-20464",
+                                    "partName":  "ROLAMENTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-17446-00",
+                                    "partName":  "PLACA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90149-06189",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "16",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-17421-00",
+                                    "partName":  "EIXO SECUNDARIO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "17",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93306-20663",
+                                    "partName":  "ROLAMENTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "18",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90387-30012",
+                                    "partName":  "ESPACADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "19",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93440-64199",
+                                    "partName":  "ANEL TRAVA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "20",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93102-40030",
+                                    "partName":  "RETENTOR DE OLEO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "21",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-17221-00",
+                                    "partName":  "ENGRENAGEM MOVIDA DA 2A (34D)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "22",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90387-31003",
+                                    "partName":  "ESPACADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "23",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90209-28008",
+                                    "partName":  "ARRUELA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "24",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93440-31187",
+                                    "partName":  "ANEL TRAVA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "25",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-17261-00",
+                                    "partName":  "ENGRENAGEM MOTORA DA 6A (27D)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "26",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93440-31187",
+                                    "partName":  "ANEL TRAVA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "27",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90209-28008",
+                                    "partName":  "ARRUELA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "28",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-17241-00",
+                                    "partName":  "ENGRENAGEM MOVIDA DA 4A (26D)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "29",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90387-28004",
+                                    "partName":  "ESPACADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "30",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90214-29002",
+                                    "partName":  "ARRUELA TRAVA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "31",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90214-28002",
+                                    "partName":  "ARRUELA TRAVA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "32",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-17231-00",
+                                    "partName":  "ENGRENAGEM MOVIDA DA 3A (31D)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "33",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90387-28004",
+                                    "partName":  "ESPACADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "34",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90209-28008",
+                                    "partName":  "ARRUELA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "35",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93440-31187",
+                                    "partName":  "ANEL TRAVA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "36",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-17251-00",
+                                    "partName":  "ENGRENAGEM MOTORA DA 5A (24D)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "37",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-17211-00",
+                                    "partName":  "ENGRENAGEM MOVIDA DA 1A (37D)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "38",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90387-25008",
+                                    "partName":  "ESPACADOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "39",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-17460-00",
+                                    "partName":  "PINHAO DE TRANSMISSAO (16D)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "40",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90208-22002",
+                                    "partName":  "ARRUELA CONICA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "41",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90179-22018",
+                                    "partName":  "PORCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "42",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90201-20016",
+                                    "partName":  "ARRUELA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "43",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "93306-20464",
+                                    "partName":  "ROLAMENTO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "44",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

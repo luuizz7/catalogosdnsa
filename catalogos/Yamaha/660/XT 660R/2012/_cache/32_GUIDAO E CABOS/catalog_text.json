@@ -1,0 +1,242 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  378,
+                                       "endPointX":  397,
+                                       "startPointY":  237,
+                                       "endPointY":  259
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  119,
+                                       "endPointX":  138,
+                                       "startPointY":  173,
+                                       "endPointY":  195
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  499,
+                                       "endPointX":  521,
+                                       "startPointY":  406,
+                                       "endPointY":  428
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  104,
+                                       "endPointX":  126,
+                                       "startPointY":  145,
+                                       "endPointY":  167
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  533,
+                                       "endPointX":  555,
+                                       "startPointY":  412,
+                                       "endPointY":  434
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  90,
+                                       "endPointX":  112,
+                                       "startPointY":  122,
+                                       "endPointY":  144
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  562,
+                                       "endPointX":  584,
+                                       "startPointY":  415,
+                                       "endPointY":  437
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  171,
+                                       "endPointX":  193,
+                                       "startPointY":  455,
+                                       "endPointY":  477
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  280,
+                                       "endPointX":  302,
+                                       "startPointY":  436,
+                                       "endPointY":  458
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  424,
+                                       "endPointX":  446,
+                                       "startPointY":  467,
+                                       "endPointY":  489
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  398,
+                                       "endPointX":  420,
+                                       "startPointY":  551,
+                                       "endPointY":  573
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  311,
+                                       "endPointX":  333,
+                                       "startPointY":  372,
+                                       "endPointY":  391
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  254,
+                                       "endPointX":  276,
+                                       "startPointY":  751,
+                                       "endPointY":  773
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  484,
+                                       "endPointX":  506,
+                                       "startPointY":  174,
+                                       "endPointY":  196
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  387,
+                                       "endPointX":  409,
+                                       "startPointY":  131,
+                                       "endPointY":  153
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "5VK-26110-00",
+                                    "partName":  "GUIDAO COMPLETO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4YR-26240-02",
+                                    "partName":  "MANOPLA DIREITA CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4YR-26241-02",
+                                    "partName":  "MANOPLA ESQUERDA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4JH-26246-00",
+                                    "partName":  "TERMINACAO DA MANOPLA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "91317-06035",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VK-F6311-00",
+                                    "partName":  "CABO DO ACELERADOR 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VK-F6312-00",
+                                    "partName":  "CABO DO ACELERADOR 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1E6-26342-00",
+                                    "partName":  "PROTETOR DO CABO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VK-F6335-00",
+                                    "partName":  "CABO DE EMBREAGEM",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90464-12001",
+                                    "partName":  "BRACADEIRA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90464-18004",
+                                    "partName":  "BRACADEIRA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VK-F6280-00",
+                                    "partName":  "ESPELHO RETROVISOR CONJ. (ESQ)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VK-F6290-00",
+                                    "partName":  "ESPELHO RETROVISOR CONJ. (DIR)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

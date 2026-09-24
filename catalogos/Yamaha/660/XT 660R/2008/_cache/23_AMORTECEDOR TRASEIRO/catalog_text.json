@@ -1,0 +1,92 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  205,
+                                       "endPointX":  227,
+                                       "startPointY":  568,
+                                       "endPointY":  590
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  205,
+                                       "endPointX":  227,
+                                       "startPointY":  510,
+                                       "endPointY":  529
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  550,
+                                       "endPointX":  572,
+                                       "startPointY":  283,
+                                       "endPointY":  305
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  203,
+                                       "endPointX":  225,
+                                       "startPointY":  93,
+                                       "endPointY":  115
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  467,
+                                       "endPointX":  489,
+                                       "startPointY":  245,
+                                       "endPointY":  267
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "5VK-22210-01",
+                                    "partName":  "AMORTECEDOR TRASEIRO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4AA-22259-40",
+                                    "partName":  ". ETIQUETA DE ADVERTENCIA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90101-12742",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95617-12100",
+                                    "partName":  "PORCA AUTOTRAVANTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5VK-F2243-00",
+                                    "partName":  "ARRUELA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

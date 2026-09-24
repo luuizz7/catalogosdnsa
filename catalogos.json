@@ -34,11 +34,13 @@
     },
     "125": {
       "Biz 125": {
-        "2006 - 2010": "catalogos/Honda/125/Biz 125/2006 - 2010.pdf",
-        "2011 - 2013": "catalogos/Honda/125/Biz 125/2011 - 2013.pdf",
-        "2014 - 2017": "catalogos/Honda/125/Biz 125/2014 - 2017.pdf",
-        "2018 - 2024": "catalogos/Honda/125/Biz 125/2018 - 2024.pdf",
-        "2025 - 2026": "catalogos/Honda/125/Biz 125/2025 - 2026.pdf"
+        "2006 a 2010": "catalogos/Honda/125/Biz 125/2006 - 2010.pdf",
+        "2011 a 2013": "catalogos/Honda/125/Biz 125/2011 - 2013.pdf",
+        "2014 a 2017": "catalogos/Honda/125/Biz 125/2014 - 2017.pdf",
+        "2018 a 2024": "catalogos/Honda/125/Biz 125/2018 - 2024.pdf",
+        "2025 a 2026": "catalogos/Honda/125/Biz 125/2025 - 2026.pdf",
+        "2027 ES": "ypec.html?catalogo=catalogos/Honda/125/BIZ%20125%20ES/2027/catalogo.json",
+        "2027 EX": "ypec.html?catalogo=catalogos/Honda/125/BIZ%20125%20EX/2027/catalogo.json"
       },
       "Cg 125": {
         "1976 - 1980": "catalogos/Honda/125/Cg 125/1976 - 1980.pdf",
@@ -77,7 +79,8 @@
       "Elite 125": {
         "2019 - 2023": "catalogos/Honda/125/Elite 125/2019 - 2023.pdf",
         "2024 -": "catalogos/Honda/125/Elite 125/2024 -.pdf",
-        "2025 - 2026": "catalogos/Honda/125/Elite 125/2025 - 2026.pdf"
+        "2025 - 2026": "catalogos/Honda/125/Elite 125/2025 - 2026.pdf",
+        "2027": "ypec.html?catalogo=catalogos/Honda/125/Elite%20125/2027/catalogo.json"
       },
       "Ml 125": {
         "1976 - 1980": "catalogos/Honda/125/Ml 125/1976 - 1980.pdf",
@@ -165,6 +168,10 @@
       }
     },
     "160": {
+      "Adv 160 ABS": {
+        "2025": "ypec.html?catalogo=catalogos/Honda/160/ADV%20160%20ABS/2025/catalogo.json",
+        "2026": "ypec.html?catalogo=catalogos/Honda/160/ADV%20160%20ABS/2026/catalogo.json"
+      },
       "Cg 160 Cargo": {
         "2016 - 2017": "catalogos/Honda/160/Cg 160 Cargo/2016 - 2017.pdf",
         "2018 - 2019": "catalogos/Honda/160/Cg 160 Cargo/2018 - 2019.pdf",
@@ -201,7 +208,9 @@
         "2015 - 2019": "catalogos/Honda/160/Nxr 160 Bros/2015 - 2019.pdf",
         "2020 - 2021": "catalogos/Honda/160/Nxr 160 Bros/2020 - 2021.pdf",
         "2022 - 2024": "catalogos/Honda/160/Nxr 160 Bros/2022 - 2024.pdf",
-        "2025 -": "catalogos/Honda/160/Nxr 160 Bros/2025 -.pdf"
+        "2025 -": "catalogos/Honda/160/Nxr 160 Bros/2025 -.pdf",
+        "2025": "ypec.html?catalogo=catalogos/Honda/160/Nxr%20160%20Bros/2025/catalogo.json",
+        "2026": "ypec.html?catalogo=catalogos/Honda/160/Nxr%20160%20Bros/2026/catalogo.json"
       },
       "Pcx 160": {
         "2023 - 2024": "catalogos/Honda/160/Pcx 160/2023 - 2024.pdf",
@@ -272,7 +281,9 @@
     },
     "300": {
       "Cb 300F Twister": {
-        "2023 - 2024": "catalogos/Honda/300/Cb 300F Twister/2023 - 2024.pdf"
+        "2023 - 2024": "catalogos/Honda/300/Cb 300F Twister/2023 - 2024.pdf",
+        "2025": "ypec.html?catalogo=catalogos/Honda/300/Cb%20300F%20Twister/2025/catalogo.json",
+        "2026": "ypec.html?catalogo=catalogos/Honda/300/Cb%20300F%20Twister/2026/catalogo.json"
       },
       "Cb 300R": {
         "2010 - 2012": "catalogos/Honda/300/Cb 300R/2010 - 2012.pdf",
@@ -285,7 +296,8 @@
         "2016 - 2020": "catalogos/Honda/300/Sh 300i/2016 - 2020.pdf"
       },
       "Xr 300L Tornado": {
-        "2025 -": "catalogos/Honda/300/Xr 300L Tornado/2025 -.pdf"
+        "2025 -": "catalogos/Honda/300/Xr 300L Tornado/2025 -.pdf",
+        "2026": "ypec.html?catalogo=catalogos/Honda/300/Xr%20300L%20Tornado/2026/catalogo.json"
       },
       "Xre 300": {
         "2010 - 2012": "catalogos/Honda/300/Xre 300/2010 - 2012.pdf",
@@ -376,6 +388,10 @@
       "Cbr 500R": {
         "2014 - 2015": "catalogos/Honda/500/Cbr 500R/2014 - 2015.pdf",
         "2016 - 2018": "catalogos/Honda/500/Cbr 500R/2016 - 2018.pdf"
+      },
+      "Hornet 500": {
+        "2026": "ypec.html?catalogo=catalogos/Honda/500/CB%20500%20HORNET/2026/catalogo.json",
+        "2027": "ypec.html?catalogo=catalogos/Honda/500/CB%20500%20HORNET/2027/catalogo.json"
       }
     },
     "600": {
@@ -409,7 +425,8 @@
       "Cb 650R": {
         "2020 - 2021": "catalogos/Honda/650/Cb 650R/2020 - 2021.pdf",
         "2022 - 2023": "catalogos/Honda/650/Cb 650R/2022 - 2023.pdf",
-        "2024 -": "catalogos/Honda/650/Cb 650R/2024 -.pdf"
+        "2024 -": "catalogos/Honda/650/Cb 650R/2024 -.pdf",
+        "2026": "ypec.html?catalogo=catalogos/Honda/650/Cb%20650R/2026/catalogo.json"
       },
       "Cbr 650F": {
         "2015 - 2019": "catalogos/Honda/650/Cbr 650F/2015 - 2019.pdf"
@@ -436,6 +453,9 @@
       }
     },
     "750": {
+      "Cb 750 Hornet": {
+        "2026": "ypec.html?catalogo=catalogos/Honda/750/CB%20750%20HORNET/2026/catalogo.json"
+      },
       "Cbx 750F": {
         "1986 - 1990": "catalogos/Honda/750/Cbx 750F/1986 - 1990.pdf",
         "1990 - 1994": "catalogos/Honda/750/Cbx 750F/1990 - 1994.pdf"
@@ -483,7 +503,9 @@
         "2019 -": "catalogos/Honda/1000/Cbr 1000RR/2019 -.pdf",
         "2022 -": "catalogos/Honda/1000/Cbr 1000RR/2022 -.pdf",
         "2023 -": "catalogos/Honda/1000/Cbr 1000RR/2023 -.pdf",
-        "2024 -": "catalogos/Honda/1000/Cbr 1000RR/2024 -.pdf"
+        "2024 -": "catalogos/Honda/1000/Cbr 1000RR/2024 -.pdf",
+        "2024": "ypec.html?catalogo=catalogos/Honda/1000/Cbr%201000RR/2024/catalogo.json",
+        "2026": "ypec.html?catalogo=catalogos/Honda/1000/Cbr%201000RR/2026/catalogo.json"
       },
       "Crf 1000L Africa Twin": {
         "2017 -": "catalogos/Honda/1000/Crf 1000L Africa Twin/2017 -.pdf",
@@ -501,7 +523,10 @@
       },
       "Crf 1100L Africa Twin": {
         "2021 - 2022": "catalogos/Honda/1100/Crf 1100L Africa Twin/2021 - 2022.pdf",
-        "2023 -": "catalogos/Honda/1100/Crf 1100L Africa Twin/2023 -.pdf"
+        "2023 -": "catalogos/Honda/1100/Crf 1100L Africa Twin/2023 -.pdf",
+        "2024": "ypec.html?catalogo=catalogos/Honda/1100/Crf%201100L%20Africa%20Twin/2024/catalogo.json",
+        "2025": "ypec.html?catalogo=catalogos/Honda/1100/Crf%201100L%20Africa%20Twin/2025/catalogo.json",
+        "2026": "ypec.html?catalogo=catalogos/Honda/1100/Crf%201100L%20Africa%20Twin/2026/catalogo.json"
       }
     },
     "1200": {
@@ -687,12 +712,44 @@
       }
     },
     "150": {
-      "Factor 150 E (Roda Raiada/Freio a Tambor)": {
+      "Crosser 150 E (2015-2017)": {
+        "2015": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20E/2015/catalogo.json",
+        "2017": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20E/2017/catalogo.json"
+      },
+      "Crosser 150 ED (2015-2017)": {
+        "2015": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20ED/2015/catalogo.json",
+        "2016": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20ED/2016/catalogo.json",
+        "2017": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20ED/2017/catalogo.json"
+      },
+      "Crosser 150 S (2018-2027)": {
+        "2018": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20S%202018/2018/catalogo.json",
+        "2019": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20S%20ABS/2019/catalogo.json",
+        "2020": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20S%20ABS/2020/catalogo.json",
+        "2021": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20S%20ABS/2021/catalogo.json",
+        "2022": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20S%20ABS/2022/catalogo.json",
+        "2023": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20S%20ABS/2023/catalogo.json",
+        "2024": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20S%20ABS/2024/catalogo.json",
+        "2025": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20S%20ABS/2025/catalogo.json",
+        "2026": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20S%20ABS/2026/catalogo.json"
+      },
+      "Crosser 150 Z (2018-2027)": {
+        "2018": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20Z%202018/2018/catalogo.json",
+        "2019": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20Z%20ABS/2019/catalogo.json",
+        "2020": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20Z%20ABS/2020/catalogo.json",
+        "2021": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20Z%20ABS/2021/catalogo.json",
+        "2022": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20Z%20ABS/2022/catalogo.json",
+        "2023": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20Z%20ABS/2023/catalogo.json",
+        "2024": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20Z%20ABS/2024/catalogo.json",
+        "2025": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20Z%20ABS/2025/catalogo.json",
+        "2026": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20Z%20ABS/2026/catalogo.json",
+        "2027": "ypec.html?catalogo=catalogos/Yamaha/150/CROSSER%20150%20Z%20ABS/2027/catalogo.json"
+      },
+      "Factor 150 E (2016-2018)": {
         "2016": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20E/2016/catalogo.json",
         "2017": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20E/2017/catalogo.json",
         "2018": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20E/2018/catalogo.json"
       },
-      "Factor 150 ED (Roda Liga/Freio a Disco)": {
+      "Factor 150 ED (2016-2026)": {
         "2016": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20ED/2016/catalogo.json",
         "2017": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20ED/2017/catalogo.json",
         "2018": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20ED/2018/catalogo.json",
@@ -705,11 +762,11 @@
         "2025": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20ED/2025/catalogo.json",
         "2026": "ypec.html?catalogo=catalogos/Yamaha/150/FACTOR%20150%20ED/2026/catalogo.json"
       },
-      "Fazer 150 ED (Sem Cavalete Central)": {
+      "Fazer 150 ED (2014-2015)": {
         "2014": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20ED/2014/catalogo.json",
         "2015": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20ED/2015/catalogo.json"
       },
-      "Fazer 150 SED (Com Cavalete Central)": {
+      "Fazer 150 SED (2014-2025)": {
         "2014": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20SED/2014/catalogo.json",
         "2015": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20SED/2015/catalogo.json",
         "2016": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20SED/2016/catalogo.json",
@@ -723,7 +780,7 @@
         "2024": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20SED/2024/catalogo.json",
         "2025": "ypec.html?catalogo=catalogos/Yamaha/150/FAZER%20150%20SED/2025/catalogo.json"
       },
-      "Fz 15": {
+      "Fz 15 (2023-2027)": {
         "2023": "ypec.html?catalogo=catalogos/Yamaha/150/FZ%2015/2023/catalogo.json",
         "2024": "ypec.html?catalogo=catalogos/Yamaha/150/FZ%2015/2024/catalogo.json",
         "2025": "ypec.html?catalogo=catalogos/Yamaha/150/FZ%2015/2025/catalogo.json",
@@ -820,7 +877,6 @@
         "2025": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2025/catalogo.json",
         "2026": "ypec.html?catalogo=catalogos/Yamaha/250/LANDER%20250/2026/catalogo.json"
       },
-
       "Xmax 250": {
         "2021": "ypec.html?catalogo=catalogos/Yamaha/250/XMAX%20250/2021/catalogo.json",
         "2022": "ypec.html?catalogo=catalogos/Yamaha/250/XMAX%20250/2022/catalogo.json",
@@ -828,7 +884,6 @@
         "2024": "ypec.html?catalogo=catalogos/Yamaha/250/XMAX%20250/2024/catalogo.json",
         "2025": "ypec.html?catalogo=catalogos/Yamaha/250/XMAX%20250/2025/catalogo.json"
       },
-
       "Xv 250 Virago": {
         "1995 -": "catalogos/Yamaha/250/VIRAGO 250/virago2501995.pdf",
         "1997 -": "catalogos/Yamaha/250/VIRAGO 250/virago2501997.pdf",
@@ -836,7 +891,6 @@
         "2000 -": "catalogos/Yamaha/250/VIRAGO 250/virago2502000.pdf",
         "2002 -": "catalogos/Yamaha/250/VIRAGO 250/virago2502002.pdf"
       }
-
     },
     "320": {
       "Mt-03 ABS": {
@@ -874,8 +928,7 @@
         "2016": "ypec.html?catalogo=catalogos/Yamaha/320/R3%20SEM%20ABS/2016/catalogo.json",
         "2017": "ypec.html?catalogo=catalogos/Yamaha/320/R3%20SEM%20ABS/2017/catalogo.json"
       }
-          },
-
+    },
     "535": {
       "Xv 535 Virago": {
         "1994 -": "catalogos/Yamaha/535/VIRAGO 535/virago5351994.pdf",
@@ -884,7 +937,6 @@
         "1999 -": "catalogos/Yamaha/535/VIRAGO 535/virago5351999.pdf",
         "2000 -": "catalogos/Yamaha/535/VIRAGO 535/virago5352000.pdf"
       }
-
     },
     "600": {
       "Xt 600Z Tenere": {
@@ -894,9 +946,50 @@
     "660": {
       "Mt-03 660cc": {
         "2008": "ypec.html?catalogo=catalogos/Yamaha/660/MT-03%20660CC/2008/catalogo.json"
+      },
+      "Xt 660R": {
+        "2005": "ypec.html?catalogo=catalogos/Yamaha/660/XT%20660R/2005/catalogo.json",
+        "2007": "ypec.html?catalogo=catalogos/Yamaha/660/XT%20660R/2007/catalogo.json",
+        "2008": "ypec.html?catalogo=catalogos/Yamaha/660/XT%20660R/2008/catalogo.json",
+        "2009": "ypec.html?catalogo=catalogos/Yamaha/660/XT%20660R/2009/catalogo.json",
+        "2010": "ypec.html?catalogo=catalogos/Yamaha/660/XT%20660R/2010/catalogo.json",
+        "2012": "ypec.html?catalogo=catalogos/Yamaha/660/XT%20660R/2012/catalogo.json",
+        "2013": "ypec.html?catalogo=catalogos/Yamaha/660/XT%20660R/2013/catalogo.json",
+        "2014": "ypec.html?catalogo=catalogos/Yamaha/660/XT%20660R/2014/catalogo.json",
+        "2015": "ypec.html?catalogo=catalogos/Yamaha/660/XT%20660R/2015/catalogo.json",
+        "2016": "ypec.html?catalogo=catalogos/Yamaha/660/XT%20660R/2016/catalogo.json",
+        "2017": "ypec.html?catalogo=catalogos/Yamaha/660/XT%20660R/2017/catalogo.json",
+        "2018": "ypec.html?catalogo=catalogos/Yamaha/660/XT%20660R/2018/catalogo.json"
+      }
+    },
+    "700": {
+      "Mt-07 ABS": {
+        "2014": "ypec.html?catalogo=catalogos/Yamaha/700/MT-07%20ABS/2014/catalogo.json",
+        "2016": "ypec.html?catalogo=catalogos/Yamaha/700/MT-07%20ABS/2016/catalogo.json",
+        "2017": "ypec.html?catalogo=catalogos/Yamaha/700/MT-07%20ABS/2017/catalogo.json",
+        "2018": "ypec.html?catalogo=catalogos/Yamaha/700/MT-07%20ABS/2018/catalogo.json",
+        "2019": "ypec.html?catalogo=catalogos/Yamaha/700/MT-07%20ABS/2019/catalogo.json",
+        "2020": "ypec.html?catalogo=catalogos/Yamaha/700/MT-07%20ABS/2020/catalogo.json",
+        "2021": "ypec.html?catalogo=catalogos/Yamaha/700/MT-07%20ABS/2021/catalogo.json",
+        "2022": "ypec.html?catalogo=catalogos/Yamaha/700/MT-07%20ABS/2022/catalogo.json",
+        "2023": "ypec.html?catalogo=catalogos/Yamaha/700/MT-07%20ABS/2023/catalogo.json",
+        "2024": "ypec.html?catalogo=catalogos/Yamaha/700/MT-07%20ABS/2024/catalogo.json",
+        "2025": "ypec.html?catalogo=catalogos/Yamaha/700/MT-07%20ABS/2025/catalogo.json",
+        "2026": "ypec.html?catalogo=catalogos/Yamaha/700/MT-07%20ABS/2026/catalogo.json"
       }
     },
     "900": {
+      "Mt-09 ABS": {
+        "2015": "ypec.html?catalogo=catalogos/Yamaha/900/MT-09%20ABS/2015/catalogo.json",
+        "2017": "ypec.html?catalogo=catalogos/Yamaha/900/MT-09%20ABS/2017/catalogo.json",
+        "2018": "ypec.html?catalogo=catalogos/Yamaha/900/MT-09%20ABS/2018/catalogo.json",
+        "2020": "ypec.html?catalogo=catalogos/Yamaha/900/MT-09%20ABS/2020/catalogo.json",
+        "2021": "ypec.html?catalogo=catalogos/Yamaha/900/MT-09%20ABS/2021/catalogo.json",
+        "2022": "ypec.html?catalogo=catalogos/Yamaha/900/MT-09%20ABS/2022/catalogo.json",
+        "2023": "ypec.html?catalogo=catalogos/Yamaha/900/MT-09%20ABS/2023/catalogo.json",
+        "2024": "ypec.html?catalogo=catalogos/Yamaha/900/MT-09%20ABS/2024/catalogo.json",
+        "2025": "ypec.html?catalogo=catalogos/Yamaha/900/MT-09%20ABS/2025/catalogo.json"
+      },
       "Tracer 900GT": {
         "2023": "catalogos/Yamaha/900/TRACER 900GT/Tracer900GT_2023.pdf"
       }

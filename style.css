@@ -545,3 +545,175 @@ footer {
         width: 100%;
     }
 }
+
+
+/* =========================================================
+   INFORMAÇÕES DAS VERSÕES - CROSSER / FACTOR / FAZER
+   Aparece somente nos modelos configurados.
+   ========================================================= */
+
+.crosser-info[hidden] {
+    display: none !important;
+}
+
+.crosser-info {
+    position: absolute;
+    top: 9px;
+    right: 14px;
+    z-index: 3000000;
+}
+
+.crosser-info-trigger {
+    width: auto;
+    min-width: 0;
+    height: 30px;
+    padding: 4px 8px 4px 10px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+    border: 1px solid #666;
+    border-radius: 6px;
+    background: #242424;
+    color: #f1f1f1;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1;
+    cursor: help;
+    transition: border-color .18s ease, background-color .18s ease, color .18s ease;
+}
+
+.crosser-info-trigger:hover,
+.crosser-info-trigger:focus-visible,
+.crosser-info.aberto .crosser-info-trigger {
+    background: #333;
+    border-color: var(--cor-primaria);
+    color: var(--cor-primaria);
+    outline: none;
+}
+
+.crosser-info-icon {
+    width: 18px;
+    height: 18px;
+    border: 1.5px solid currentColor;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 800;
+    line-height: 1;
+}
+
+.crosser-info-popover {
+    position: absolute;
+    top: calc(100% + 8px);
+    right: 0;
+    width: min(620px, calc(100vw - 48px));
+    padding: 14px;
+    border: 1px solid #555;
+    border-top: 2px solid var(--cor-primaria);
+    border-radius: 8px;
+    background: #1d1d1d;
+    color: #fff;
+    box-shadow: 0 12px 32px rgba(0, 0, 0, .55);
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transform: translateY(-4px);
+    transition: opacity .15s ease, transform .15s ease, visibility .15s ease;
+}
+
+.crosser-info:hover .crosser-info-popover,
+.crosser-info:focus-within .crosser-info-popover,
+.crosser-info.aberto .crosser-info-popover {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+    transform: translateY(0);
+}
+
+.crosser-info-popover-title {
+    margin-bottom: 9px;
+    color: var(--cor-primaria);
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.crosser-info-item {
+    display: grid;
+    grid-template-columns: 132px 1fr;
+    gap: 10px;
+    padding: 7px 8px;
+    border-radius: 5px;
+    font-size: 12px;
+    line-height: 1.4;
+}
+
+.crosser-info-item + .crosser-info-item {
+    border-top: 1px solid #333;
+}
+
+.crosser-info-item strong {
+    color: #fff;
+}
+
+.crosser-info-item span {
+    color: #d0d0d0;
+}
+
+.crosser-info-item.selecionado {
+    background: rgba(255, 215, 0, .10);
+    outline: 1px solid rgba(255, 215, 0, .34);
+}
+
+.crosser-info-item.selecionado strong {
+    color: var(--cor-primaria);
+}
+
+@media (max-width: 768px) {
+    .crosser-info {
+        position: relative;
+        top: auto;
+        right: auto;
+        align-self: flex-end;
+        margin: -10px 0 2px;
+    }
+
+    .crosser-info-popover {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        right: auto;
+        width: min(92vw, 620px);
+        max-height: 75vh;
+        overflow-y: auto;
+        transform: translate(-50%, -48%);
+    }
+
+    .crosser-info:hover .crosser-info-popover,
+    .crosser-info:focus-within .crosser-info-popover,
+    .crosser-info.aberto .crosser-info-popover {
+        transform: translate(-50%, -50%);
+    }
+
+    .crosser-info-item {
+        grid-template-columns: 1fr;
+        gap: 3px;
+    }
+}
+
+
+.model-info-group + .model-info-group {
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid #444;
+}
+
+.model-info-group-title {
+    margin-bottom: 6px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    opacity: .9;
+}

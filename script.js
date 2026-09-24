@@ -9,6 +9,194 @@ document.addEventListener('DOMContentLoaded', function() {
         const selAno = document.getElementById('ano');
         const btnConsultar = document.getElementById('consultarBtn');
         const resultadoDiv = document.getElementById('resultado');
+        const modelInfo = document.getElementById('modelInfo');
+        const modelInfoBtn = document.getElementById('modelInfoBtn');
+        const modelInfoTitle = document.getElementById('modelInfoTitle');
+        const modelInfoContent = document.getElementById('modelInfoContent');
+
+        const gruposInformacoes = [
+            {
+                id: 'crosser',
+                titulo: 'Diferenças entre as Crosser 150',
+                identificar(modelo) {
+                    const nome = String(modelo || '').trim().toUpperCase();
+
+                    if (!nome.startsWith('CROSSER 150')) return null;
+
+                    if (/^CROSSER\s+150\s+ED\b/.test(nome)) return 'ED';
+                    if (/^CROSSER\s+150\s+E\b/.test(nome)) return 'E';
+                    if (/^CROSSER\s+150\s+S\b/.test(nome)) return 'S';
+                    if (/^CROSSER\s+150\s+Z\b/.test(nome)) return 'Z';
+
+                    return null;
+                },
+                itens: [
+                    {
+                        id: 'E',
+                        nome: 'Crosser 150 E',
+                        descricao: 'Partida Elétrica / Freio Dianteiro Tambor / Freio Traseiro Tambor'
+                    },
+                    {
+                        id: 'ED',
+                        nome: 'Crosser 150 ED',
+                        descricao: 'Partida Elétrica / Freio Dianteiro Disco / Freio Traseiro Tambor'
+                    },
+                    {
+                        id: 'S',
+                        nome: 'Crosser 150 S',
+                        descricao: 'Paralama Pequeno / Até 2018 Tambor Traseiro / 2019+ Disco Traseiro e ABS Dianteiro'
+                    },
+                    {
+                        id: 'Z',
+                        nome: 'Crosser 150 Z',
+                        descricao: 'Paralama Grande / Protetor de Bengala / Até 2018 Tambor Traseiro / 2019+ Disco Traseiro e ABS Dianteiro'
+                    }
+                ]
+            },
+            {
+                id: 'factor150',
+                titulo: 'Diferenças entre as Factor 150',
+                identificar(modelo) {
+                    const nome = String(modelo || '').trim().toUpperCase();
+
+                    if (!nome.startsWith('FACTOR 150')) return null;
+
+                    if (/^FACTOR\s+150\s+ED\b/.test(nome)) return 'ED';
+                    if (/^FACTOR\s+150\s+E\b/.test(nome)) return 'E';
+
+                    return null;
+                },
+                itens: [
+                    {
+                        id: 'E',
+                        nome: 'Factor 150 E',
+                        descricao: 'Roda Raiada / Freio a Tambor'
+                    },
+                    {
+                        id: 'ED',
+                        nome: 'Factor 150 ED',
+                        descricao: 'Roda Liga / Freio a Disco'
+                    }
+                ]
+            },
+            {
+                id: 'fazer150',
+                titulo: 'Diferenças entre as Fazer 150',
+                identificar(modelo) {
+                    const nome = String(modelo || '').trim().toUpperCase();
+
+                    if (!nome.startsWith('FAZER 150')) return null;
+
+                    if (/^FAZER\s+150\s+SED\b/.test(nome)) return 'SED';
+                    if (/^FAZER\s+150\s+ED\b/.test(nome)) return 'ED';
+
+                    return null;
+                },
+                itens: [
+                    {
+                        id: 'ED',
+                        nome: 'Fazer 150 ED',
+                        descricao: 'Sem Cavalete Central/Pisca Laranja'
+                    },
+                    {
+                        id: 'SED',
+                        nome: 'Fazer 150 SED',
+                        descricao: 'Com Cavalete Central/Pisca Transparente'
+                    }
+                ]
+            }
+        ];
+
+        function encontrarGrupoInformacoes(modelo) {
+            for (const grupo of gruposInformacoes) {
+                const versao = grupo.identificar(modelo);
+
+                if (versao) {
+                    return { grupo, versao };
+                }
+            }
+
+            return null;
+        }
+
+        function renderizarGrupoInfo(grupo, versaoSelecionada = null) {
+            return `
+                <div class="model-info-group">
+                    <div class="model-info-group-title">${grupo.titulo}</div>
+                    ${grupo.itens.map(item => `
+                        <div class="crosser-info-item ${item.id === versaoSelecionada ? 'selecionado' : ''}">
+                            <strong>${item.nome}</strong>
+                            <span>${item.descricao}</span>
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+        }
+
+        function atualizarInfoModelo(modelo = '') {
+            if (!modelInfo || !modelInfoContent || !modelInfoTitle) return;
+
+            const marcaSelecionada = String(selMarca?.value || '').trim().toUpperCase();
+            const cilindradaSelecionada = String(selCilindradas?.value || '').trim();
+            const ehYamaha150 = marcaSelecionada === 'YAMAHA' && cilindradaSelecionada === '150';
+
+            const encontrado = encontrarGrupoInformacoes(modelo);
+
+            // O botão já aparece ao selecionar Yamaha + 150.
+            // Se um dos modelos configurados estiver selecionado, destaca a versão correspondente.
+            const mostrar = ehYamaha150 || Boolean(encontrado);
+
+            modelInfo.hidden = !mostrar;
+            modelInfo.classList.remove('aberto');
+
+            if (modelInfoBtn) {
+                modelInfoBtn.setAttribute('aria-expanded', 'false');
+            }
+
+            if (!mostrar) {
+                modelInfoContent.innerHTML = '';
+                return;
+            }
+
+            if (encontrado) {
+                const { grupo, versao } = encontrado;
+                modelInfoTitle.textContent = grupo.titulo;
+                modelInfoContent.innerHTML = renderizarGrupoInfo(grupo, versao);
+                return;
+            }
+
+            // Yamaha 150 selecionada, mas ainda sem modelo:
+            // mostra todas as diferenças disponíveis.
+            modelInfoTitle.textContent = 'Informações dos modelos Yamaha 150';
+
+            modelInfoContent.innerHTML = gruposInformacoes
+                .map(grupo => renderizarGrupoInfo(grupo))
+                .join('');
+        }
+
+        if (modelInfoBtn && modelInfo) {
+            modelInfoBtn.addEventListener('click', function(event) {
+                event.stopPropagation();
+
+                const abriu = modelInfo.classList.toggle('aberto');
+                modelInfoBtn.setAttribute('aria-expanded', String(abriu));
+            });
+
+            document.addEventListener('click', function(event) {
+                if (!modelInfo.contains(event.target)) {
+                    modelInfo.classList.remove('aberto');
+                    modelInfoBtn.setAttribute('aria-expanded', 'false');
+                }
+            });
+
+            modelInfo.addEventListener('keydown', function(event) {
+                if (event.key === 'Escape') {
+                    modelInfo.classList.remove('aberto');
+                    modelInfoBtn.setAttribute('aria-expanded', 'false');
+                    modelInfoBtn.focus();
+                }
+            });
+        }
 
         async function carregarCatalogo() {
             try {
@@ -75,6 +263,7 @@ document.addEventListener('DOMContentLoaded', function() {
             selAno.disabled = true;
             btnConsultar.disabled = true;
             resultadoDiv.innerHTML = '';
+            atualizarInfoModelo('');
 
             const marcas = Object.keys(catalogo).sort((a, b) => a.localeCompare(b));
 
@@ -94,6 +283,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 selAno.disabled = true;
                 btnConsultar.disabled = true;
                 resultadoDiv.innerHTML = '';
+                atualizarInfoModelo('');
 
                 if (marcaSelecionada) {
                     selCilindradas.disabled = false;
@@ -133,6 +323,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 resultadoDiv.innerHTML = '';
 
                 if (marcaSelecionada && cilindradaSelecionada) {
+                    atualizarInfoModelo('');
+
                     selModelo.disabled = false;
 
                     const modelosOrdenados = Object.keys(catalogo[marcaSelecionada][cilindradaSelecionada])
@@ -141,6 +333,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     modelosOrdenados.forEach(modelo => {
                         selModelo.innerHTML += `<option value="${modelo}">${modelo}</option>`;
                     });
+                } else {
+                    atualizarInfoModelo('');
                 }
             });
 
@@ -154,6 +348,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 selAno.disabled = true;
                 btnConsultar.disabled = true;
                 resultadoDiv.innerHTML = '';
+
+                atualizarInfoModelo(modeloSelecionado);
 
                 if (marcaSelecionada && cilindradaSelecionada && modeloSelecionado) {
                     const anosDisponiveis = catalogo[marcaSelecionada][cilindradaSelecionada][modeloSelecionado];

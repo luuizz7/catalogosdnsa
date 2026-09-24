@@ -1,0 +1,286 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  389,
+                                       "endPointX":  410,
+                                       "startPointY":  300,
+                                       "endPointY":  321
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  327,
+                                       "endPointX":  348,
+                                       "startPointY":  463,
+                                       "endPointY":  484
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  351,
+                                       "endPointX":  372,
+                                       "startPointY":  291,
+                                       "endPointY":  312
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  383,
+                                       "endPointX":  404,
+                                       "startPointY":  433,
+                                       "endPointY":  454
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  431,
+                                       "endPointX":  451,
+                                       "startPointY":  311,
+                                       "endPointY":  332
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  296,
+                                       "endPointX":  317,
+                                       "startPointY":  431,
+                                       "endPointY":  452
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  322,
+                                       "endPointX":  343,
+                                       "startPointY":  318,
+                                       "endPointY":  339
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  351,
+                                       "endPointX":  372,
+                                       "startPointY":  492,
+                                       "endPointY":  513
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  356,
+                                       "endPointX":  376,
+                                       "startPointY":  521,
+                                       "endPointY":  542
+                                   },
+                                   {
+                                       "refNo":  "10",
+                                       "startPointX":  326,
+                                       "endPointX":  346,
+                                       "startPointY":  285,
+                                       "endPointY":  305
+                                   },
+                                   {
+                                       "refNo":  "11",
+                                       "startPointX":  431,
+                                       "endPointX":  452,
+                                       "startPointY":  405,
+                                       "endPointY":  426
+                                   },
+                                   {
+                                       "refNo":  "12",
+                                       "startPointX":  521,
+                                       "endPointX":  542,
+                                       "startPointY":  528,
+                                       "endPointY":  549
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  489,
+                                       "endPointX":  510,
+                                       "startPointY":  518,
+                                       "endPointY":  539
+                                   },
+                                   {
+                                       "refNo":  "13",
+                                       "startPointX":  499,
+                                       "endPointX":  519,
+                                       "startPointY":  495,
+                                       "endPointY":  516
+                                   },
+                                   {
+                                       "refNo":  "14",
+                                       "startPointX":  81,
+                                       "endPointX":  102,
+                                       "startPointY":  341,
+                                       "endPointY":  362
+                                   },
+                                   {
+                                       "refNo":  "15",
+                                       "startPointX":  125,
+                                       "endPointX":  145,
+                                       "startPointY":  377,
+                                       "endPointY":  398
+                                   },
+                                   {
+                                       "refNo":  "16",
+                                       "startPointX":  126,
+                                       "endPointX":  147,
+                                       "startPointY":  411,
+                                       "endPointY":  432
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "1B3-82911-00",
+                                    "partName":  "FIXADOR DA ALAVANCA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5EB-83912-03",
+                                    "partName":  "ALAVANCA ESQUERDA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2C0-83945-00",
+                                    "partName":  "PARAFUSO DA ALAVANCA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95607-06200",
+                                    "partName":  "PORCA AUTOTRAVANTE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95027-06020",
+                                    "partName":  "PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5LV-83951-00",
+                                    "partName":  "PARAFUSO DE AJUSTE DO CABO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4XV-83929-00",
+                                    "partName":  "PLACA DA MOLA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "3YX-82917-01",
+                                    "partName":  "INTERRUPTOR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "98704-03020",
+                                    "partName":  "PARAFUSO CABECA PLANA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "98507-04010",
+                                    "partName":  "PARAFUSO CABECA PANELA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "10",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5JJ-83913-00",
+                                    "partName":  "ESPACADOR DA ALAVANCA 1",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "11",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-83972-01",
+                                    "partName":  "INTERRUPTOR DO GUIDAO 4",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "12",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "98507-04025",
+                                    "partName":  ". PARAFUSO CABECA PANELA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "13",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1WS-83975-00",
+                                    "partName":  "INTERRUPTOR DO GUIDAO 2",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "14",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "98507-04020",
+                                    "partName":  ". PARAFUSO CABECA PANELA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "15",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "98507-04030",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "16",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}
