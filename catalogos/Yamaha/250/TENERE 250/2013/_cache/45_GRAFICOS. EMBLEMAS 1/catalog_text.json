@@ -1,0 +1,82 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  354,
+                                       "endPointX":  375,
+                                       "startPointY":  97,
+                                       "endPointY":  118
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  313,
+                                       "endPointX":  334,
+                                       "startPointY":  96,
+                                       "endPointY":  117
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  269,
+                                       "endPointX":  290,
+                                       "startPointY":  391,
+                                       "endPointY":  412
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  363,
+                                       "endPointX":  384,
+                                       "startPointY":  392,
+                                       "endPointY":  413
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  174,
+                                       "endPointX":  195,
+                                       "startPointY":  515,
+                                       "endPointY":  536
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "53P-F137N-50",
+                                    "partName":  "GRAFICO 1",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA YB",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "53P-F137P-50",
+                                    "partName":  "GRAFICO 2",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA YB",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "44C-F413B-00",
+                                    "partName":  "EMBLEMA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "44C-F836B-00",
+                                    "partName":  "EMBLEMA (DIAPASAO YAMAHA)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

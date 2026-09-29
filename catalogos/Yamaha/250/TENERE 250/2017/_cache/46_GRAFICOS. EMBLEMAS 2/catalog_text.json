@@ -1,0 +1,72 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  353,
+                                       "endPointX":  374,
+                                       "startPointY":  161,
+                                       "endPointY":  182
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  327,
+                                       "endPointX":  347,
+                                       "startPointY":  159,
+                                       "endPointY":  180
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  370,
+                                       "endPointX":  391,
+                                       "startPointY":  377,
+                                       "endPointY":  397
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  273,
+                                       "endPointX":  294,
+                                       "startPointY":  378,
+                                       "endPointY":  398
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  183,
+                                       "endPointX":  204,
+                                       "startPointY":  497,
+                                       "endPointY":  517
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "53P-F4250-90",
+                                    "partName":  "JOGO DE GRAFICOS 2",
+                                    "quantity":  1,
+                                    "remarks":  "UR PARA DBNM8",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "44C-F413B-10",
+                                    "partName":  "EMBLEMA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "44C-F836B-10",
+                                    "partName":  "EMBLEMA (DIAPASAO YAMAHA)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

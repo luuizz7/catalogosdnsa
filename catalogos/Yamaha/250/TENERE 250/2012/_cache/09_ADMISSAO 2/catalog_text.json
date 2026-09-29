@@ -1,0 +1,167 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  199,
+                                       "endPointX":  220,
+                                       "startPointY":  751,
+                                       "endPointY":  772
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  522,
+                                       "endPointX":  543,
+                                       "startPointY":  385,
+                                       "endPointY":  406
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  467,
+                                       "endPointX":  488,
+                                       "startPointY":  398,
+                                       "endPointY":  418
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  190,
+                                       "endPointX":  210,
+                                       "startPointY":  413,
+                                       "endPointY":  434
+                                   },
+                                   {
+                                       "refNo":  "5",
+                                       "startPointX":  164,
+                                       "endPointX":  184,
+                                       "startPointY":  367,
+                                       "endPointY":  388
+                                   },
+                                   {
+                                       "refNo":  "6",
+                                       "startPointX":  537,
+                                       "endPointX":  558,
+                                       "startPointY":  270,
+                                       "endPointY":  291
+                                   },
+                                   {
+                                       "refNo":  "7",
+                                       "startPointX":  518,
+                                       "endPointX":  539,
+                                       "startPointY":  548,
+                                       "endPointY":  569
+                                   },
+                                   {
+                                       "refNo":  "8",
+                                       "startPointX":  225,
+                                       "endPointX":  246,
+                                       "startPointY":  604,
+                                       "endPointY":  624
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  103,
+                                       "endPointX":  124,
+                                       "startPointY":  410,
+                                       "endPointY":  431
+                                   },
+                                   {
+                                       "refNo":  "9",
+                                       "startPointX":  139,
+                                       "endPointX":  159,
+                                       "startPointY":  407,
+                                       "endPointY":  428
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "4B4-13750-11",
+                                    "partName":  "CORPO DE ACELERACAO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "4B4-13930-10",
+                                    "partName":  ". TUBO DE ENTRADA COMPLETO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "5CA-14147-00",
+                                    "partName":  ". . ANEL DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "2S5-1410H-00",
+                                    "partName":  ". VALVULA SOLENOIDE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-14216-00",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "5",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "95827-06020",
+                                    "partName":  ". PARAFUSO FLANGE",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "6",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-14104-00",
+                                    "partName":  ". JOGO DO PARAFUSO DO AR",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "7",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-14563-09",
+                                    "partName":  ". JOGO DE ANEL DE BORRACHA",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "8",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "1S4-14567-09",
+                                    "partName":  ". PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "9",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

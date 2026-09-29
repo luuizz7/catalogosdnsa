@@ -1,0 +1,62 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  361,
+                                       "endPointX":  382,
+                                       "startPointY":  94,
+                                       "endPointY":  115
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  322,
+                                       "endPointX":  343,
+                                       "startPointY":  95,
+                                       "endPointY":  116
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  271,
+                                       "endPointX":  292,
+                                       "startPointY":  395,
+                                       "endPointY":  415
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  366,
+                                       "endPointX":  387,
+                                       "startPointY":  398,
+                                       "endPointY":  418
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  180,
+                                       "endPointX":  201,
+                                       "startPointY":  514,
+                                       "endPointY":  535
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "44C-F413B-10",
+                                    "partName":  "EMBLEMA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "44C-F836B-10",
+                                    "partName":  "EMBLEMA (DIAPASAO YAMAHA)",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

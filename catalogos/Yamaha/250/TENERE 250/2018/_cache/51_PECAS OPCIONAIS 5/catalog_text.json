@@ -1,0 +1,58 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  547,
+                                       "endPointX":  567,
+                                       "startPointY":  365,
+                                       "endPointY":  386
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  365,
+                                       "endPointX":  386,
+                                       "startPointY":  627,
+                                       "endPointY":  648
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  556,
+                                       "endPointX":  576,
+                                       "startPointY":  617,
+                                       "endPointY":  638
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "53P-WF01A-09",
+                                    "partName":  "KIT DE TRANSMISSAO (40D)",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "53P-F5805-09",
+                                    "partName":  "KIT PASTILHA DE FREIO DIANT.",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "53P-F5806-09",
+                                    "partName":  "KIT PASTILHA DO FREIO TRAS.",
+                                    "quantity":  1,
+                                    "remarks":  "Y-TEQ",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

@@ -1,0 +1,75 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  163,
+                                       "endPointX":  184,
+                                       "startPointY":  474,
+                                       "endPointY":  495
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  459,
+                                       "endPointX":  480,
+                                       "startPointY":  391,
+                                       "endPointY":  412
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  394,
+                                       "endPointX":  414,
+                                       "startPointY":  382,
+                                       "endPointY":  403
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  208,
+                                       "endPointX":  228,
+                                       "startPointY":  531,
+                                       "endPointY":  551
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "53P-H1450-00",
+                                    "partName":  "ROTOR DO MAGNETO CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "53P-H1410-00",
+                                    "partName":  "ESTATOR CONJ.",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9131M-06030",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  3,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "9131M-05012",
+                                    "partName":  "PARAFUSO",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}

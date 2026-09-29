@@ -1,0 +1,89 @@
+﻿{
+    "notesDataCollection":  null,
+    "hotspotoDataCollection":  [
+                                   {
+                                       "refNo":  "1",
+                                       "startPointX":  238,
+                                       "endPointX":  259,
+                                       "startPointY":  215,
+                                       "endPointY":  235
+                                   },
+                                   {
+                                       "refNo":  "2",
+                                       "startPointX":  245,
+                                       "endPointX":  266,
+                                       "startPointY":  326,
+                                       "endPointY":  347
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  565,
+                                       "endPointX":  586,
+                                       "startPointY":  444,
+                                       "endPointY":  465
+                                   },
+                                   {
+                                       "refNo":  "3",
+                                       "startPointX":  476,
+                                       "endPointX":  497,
+                                       "startPointY":  504,
+                                       "endPointY":  525
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  519,
+                                       "endPointX":  540,
+                                       "startPointY":  629,
+                                       "endPointY":  650
+                                   },
+                                   {
+                                       "refNo":  "4",
+                                       "startPointX":  575,
+                                       "endPointX":  596,
+                                       "startPointY":  659,
+                                       "endPointY":  680
+                                   }
+                               ],
+    "partsDataCollection":  [
+                                {
+                                    "partNo":  "53P-F4730-00",
+                                    "partName":  "SELIM DUPLO COMPLETO",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "1",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "53P-F470F-00",
+                                    "partName":  ". CAPA DO SELIM",
+                                    "quantity":  1,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "2",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "53P-F4737-00",
+                                    "partName":  ". AMORTIZADOR DO SELIM",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "3",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                },
+                                {
+                                    "partNo":  "90119-06217",
+                                    "partName":  "PARAFUSO COM ARRUELA",
+                                    "quantity":  2,
+                                    "remarks":  "",
+                                    "appSerial":  null,
+                                    "refNo":  "4",
+                                    "partNewsFileURL":  "",
+                                    "selectableId":  "1"
+                                }
+                            ]
+}
