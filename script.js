@@ -270,9 +270,9 @@ document.addEventListener('DOMContentLoaded', function() {
                 'Yamaha',
                 'Suzuki',
                 'Shineray',
-                'Sundown',
-                'Tvs',
                 'Dafra',
+                'Tvs',
+                'Sundown',
                 'Haojue',
                 'Kasinski'
             ];
